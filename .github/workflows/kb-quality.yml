@@ -1,0 +1,27 @@
+name: KB Quality Gate
+
+on:
+  pull_request:
+    branches: [ "main" ]
+    paths:
+      - "kb/**"
+      - "_templates/**"
+      - "_meta/**"
+      - "scripts/**"
+      - ".github/workflows/kb-quality.yml"
+
+jobs:
+  kb-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run KB validator
+        run: |
+          python scripts/kb_quality_gate.py

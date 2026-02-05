@@ -1,3 +1,14 @@
+---
+id: KB-RU-000002
+title: "Назначение репозитория"
+topic: "overview"
+tags: ["репозиторий", "назначение", "структура"]
+status: draft
+source: "kb/ru/overview/repository-purpose/README.md"
+created: "2026-02-05"
+updated: "2026-02-05"
+---
+
 # Назначение репозитория
 
 ## Краткое содержание
