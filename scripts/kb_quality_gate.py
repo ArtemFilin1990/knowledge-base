@@ -41,104 +41,90 @@ def parse_front_matter(text: str) -> Tuple[Dict[str, str], str]:
         return {}, text
 
     fm_lines = lines[1:end]
-    body = "\n".join(lines[end + 1 :]).lstrip("\n")
+    body = "\n".join(lines[end + 1:]).lstrip("\n")
 
     fm: Dict[str, str] = {}
-    for line in fm_lines:
-        match = YAML_KV.match(line)
-        if not match:
-            continue
-        key, value = match.group(1), match.group(2).strip()
-        fm[key] = value
+    for ln in fm_lines:
+        m = YAML_KV.match(ln)
+        if m:
+            fm[m.group(1)] = m.group(2).strip()
     return fm, body
 
 
-def collect_md_files() -> List[Path]:
+def collect_readmes() -> List[Path]:
     if not KB_ROOT.exists():
         return []
-    return [path for path in KB_ROOT.rglob("README.md") if path.is_file()]
+    return [p for p in KB_ROOT.rglob("README.md") if p.is_file()]
 
 
 def validate_paths(files: List[Path]) -> None:
-    for path in files:
-        parts = path.parts
-        if path.name != "README.md":
-            continue
-
+    for p in files:
+        parts = p.parts
         try:
-            kb_index = parts.index("kb")
+            kb_i = parts.index("kb")
         except ValueError:
             continue
 
-        for segment in parts[kb_index + 1 : -1]:
-            if " " in segment:
-                die(f"Space in path: {path}")
+        for seg in parts[kb_i + 1:-1]:
+            if " " in seg:
+                die(f"Space in path: {p}")
             try:
-                segment.encode("ascii")
+                seg.encode("ascii")
             except UnicodeEncodeError:
-                die(f"Non-ASCII folder in path: {path} (segment: {segment})")
+                die(f"Non-ASCII folder in path: {p} (segment: {seg})")
 
 
-def validate_article_front_matter(path: Path, ids: Dict[str, Path]) -> None:
-    text = path.read_text(encoding="utf-8", errors="replace")
-    front_matter, body = parse_front_matter(text)
+def validate_readme(p: Path, ids: Dict[str, Path]) -> None:
+    text = p.read_text(encoding="utf-8", errors="replace")
+    fm, body = parse_front_matter(text)
 
-    if not front_matter:
-        die(f"Missing YAML front-matter: {path}")
+    if not fm:
+        die(f"Missing YAML front-matter: {p}")
 
-    missing = [key for key in REQUIRED_KEYS if key not in front_matter]
+    missing = [k for k in REQUIRED_KEYS if k not in fm]
     if missing:
-        die(f"Missing keys {missing} in front-matter: {path}")
+        die(f"Missing keys {missing} in front-matter: {p}")
 
-    status = front_matter["status"].strip()
+    status = fm["status"].strip().strip('"').strip("'")
     if status not in ALLOWED_STATUS:
-        die(f"Invalid status '{status}' in {path}. Allowed: {sorted(ALLOWED_STATUS)}")
+        die(f"Invalid status '{status}' in {p}. Allowed: {sorted(ALLOWED_STATUS)}")
 
-    article_id = front_matter["id"].strip().strip('"').strip("'")
-    if not article_id:
-        die(f"Empty id in {path}")
-    if article_id in ids and ids[article_id] != path:
-        die(f"Duplicate id '{article_id}' in {path} and {ids[article_id]}")
-    ids[article_id] = path
+    _id = fm["id"].strip().strip('"').strip("'")
+    if not _id:
+        die(f"Empty id in {p}")
+    if _id in ids and ids[_id] != p:
+        die(f"Duplicate id '{_id}' in {p} and {ids[_id]}")
+    ids[_id] = p
 
-    topic = front_matter["topic"].strip().strip('"').strip("'")
+    topic = fm["topic"].strip().strip('"').strip("'")
     if topic and topic != "[[TBD]]" and not ASCII_KEBAB.match(topic):
-        die(f"topic must be kebab-case ASCII: '{topic}' in {path}")
+        die(f"topic must be kebab-case ASCII: '{topic}' in {p}")
 
     if status == "verified":
-        if "[[TBD]]" in body or "[[TBD]]" in text:
-            die(f"Verified article contains [[TBD]]: {path}")
+        if "[[TBD]]" in text or "[[TBD]]" in body:
+            die(f"Verified article contains [[TBD]]: {p}")
 
 
-def validate_topic_indexes() -> None:
-    index_path = Path("kb/ru/INDEX.md")
-    if not index_path.exists():
+def validate_required_files() -> None:
+    idx = Path("kb/ru/INDEX.md")
+    if not idx.exists():
         die("Missing kb/ru/INDEX.md")
-    inbox_readme = Path("inbox/README.md")
-    if not inbox_readme.exists():
+    inbox = Path("inbox/README.md")
+    if not inbox.exists():
         warn("Missing inbox/README.md (recommended)")
-
-
-def validate_template() -> None:
     if not TEMPLATE.exists():
         warn("Missing _templates/article.md")
-        return
-    text = TEMPLATE.read_text(encoding="utf-8", errors="replace")
-    front_matter, _ = parse_front_matter(text)
-    if not front_matter:
-        warn("_templates/article.md has no YAML front-matter; recommended to include for consistency.")
 
 
 def main() -> None:
-    validate_topic_indexes()
-    validate_template()
+    validate_required_files()
 
-    readmes = collect_md_files()
+    readmes = collect_readmes()
     validate_paths(readmes)
 
     ids: Dict[str, Path] = {}
-    for path in readmes:
-        validate_article_front_matter(path, ids)
+    for p in readmes:
+        validate_readme(p, ids)
 
     print(f"OK: validated {len(readmes)} README.md files in kb/. Unique ids: {len(ids)}")
 

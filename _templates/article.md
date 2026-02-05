@@ -1,42 +1,52 @@
 ---
 id: KB-RU-000000
 title: "[[TBD]]"
-topic: "[[TBD]]"
-tags: []
-status: draft
-source: "[[TBD]]"
-created: "[[TBD]]"
-updated: "[[TBD]]"
+topic: "[[TBD]]"            # topic slug: kebab-case (ascii)
+tags: []                    # ["подшипники", "выбор"]
+status: draft               # draft | verified | deprecated
+source: "[[TBD]]"           # inbox/имя_файла.ext
+created: 2026-02-05
+updated: 2026-02-05
 ---
 
-# [[TBD]]  <!-- title -->
+# [[TBD]]
 
-## Purpose
 Кому и зачем: 1–2 строки, без воды.
 
-## Use
+## Контекст применения
 - Где используется
 - Когда полезно
+- Ограничения / предпосылки
 
-## Scope
-- Ограничения
-- Предпосылки
-
-## Key Points
+## Ключевые пункты
 - …
 - …
 - …
 
-## Steps (если применимо)
+## Алгоритм / шаги (если применимо)
 1. …
 2. …
 3. …
 
-## Examples
+## Примеры
+- Пример 1: …
+- Пример 2: …
+
+## Частые ошибки
+- …
 - …
 
-## Notes
-- …
+## См. также
+- [[TBD]](</kb/ru/your-topic/your-article/README.md>)
 
-## See Also
-- [[TBD]]
+## Источники и примечания
+- Source: `[[TBD]]`
+- Notes: `[[TBD]]`
+
+## Контроль качества
+- [ ] Есть метаданные (id/topic/status/source)
+- [ ] Понятно без внешнего контекста
+- [ ] Есть примеры
+- [ ] Нет противоречий
+- [ ] Есть 3–7 ссылок «См. также»
+- [ ] Для `status: verified` нет `[[TBD]]`
