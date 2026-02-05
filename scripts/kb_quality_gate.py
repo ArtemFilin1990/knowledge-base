@@ -68,10 +68,12 @@ def validate_paths(files: List[Path]) -> None:
         for seg in parts[kb_i + 1:-1]:
             if " " in seg:
                 die(f"Space in path: {p}")
-            try:
-                seg.encode("ascii")
-            except UnicodeEncodeError:
-                die(f"Non-ASCII folder in path: {p} (segment: {seg})")
+        try:
+            seg.encode("ascii")
+        except UnicodeEncodeError:
+            die(f"Non-ASCII folder in path: {p} (segment: {seg})")
+        if not ASCII_KEBAB.match(seg):
+            die(f"Folder must be ASCII kebab-case: {p} (segment: {seg})")
 
 
 def validate_readme(p: Path, ids: Dict[str, Path]) -> None:
