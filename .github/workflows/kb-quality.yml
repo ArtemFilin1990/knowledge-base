@@ -25,3 +25,4 @@ jobs:
       - name: Run KB validator
         run: |
           python scripts/kb_quality_gate.py
+          python scripts/validate_bearing_cards.py
