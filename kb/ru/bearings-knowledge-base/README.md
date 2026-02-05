@@ -1,5 +1,5 @@
 ---
-id: KB-RU-000004
+id: KB-RU-000006
 title: "База знаний о подшипниках"
 topic: "bearings-knowledge-base"
 tags: ["подшипники", "база знаний", "каталог"]
