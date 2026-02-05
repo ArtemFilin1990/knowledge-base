@@ -26,7 +26,3 @@
 ## Проверки
 
 - Проверка ссылок в базе знаний: `python tests/check_kb_links.py`.
-
-## VS Code и GitHub Copilot Chat
-
-Для настройки GitHub Copilot Chat в VS Code используйте официальную инструкцию GitHub.
