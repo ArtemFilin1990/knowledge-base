@@ -3,5 +3,10 @@
     "title": "Обзор",
     "language": "ru",
     "status": "active"
+  },
+  "bearings-price-list": {
+    "title": "Прайс-листы подшипников",
+    "language": "ru",
+    "status": "active"
   }
 }
