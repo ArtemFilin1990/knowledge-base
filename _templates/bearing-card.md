@@ -1,7 +1,7 @@
 ---
 id: bearing-XXXX-example
 title: "XXXX — [[Название подшипника]]"
-topic: bearings/card
+topic: bearings-card
 tags: ["bearing", "ball", "radial", "[[тип]]", "[[серия]]"]
 status: draft
 source: "[[каталог производителя / ISO]]"
