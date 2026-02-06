@@ -16,3 +16,4 @@ updated: "2026-02-05"
 ## Статьи
 
 - [Назначение репозитория](./repository-purpose/README.md)
+- [Архитектура данных и энциклопедии](./data-architecture/README.md)

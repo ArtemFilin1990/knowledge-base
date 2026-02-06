@@ -2,6 +2,7 @@
 
 - [Обзор](./overview/README.md)
   - [Назначение репозитория](./overview/repository-purpose/README.md)
+  - [Архитектура данных и энциклопедии](./overview/data-architecture/README.md)
 
 ## Подшипники
 
