@@ -370,7 +370,7 @@ def generate_card(  # noqa: C901 — intentionally long to produce full card con
     # --- suffixes yaml ---
     suffixes_yaml = ", ".join(f'"{s}"' for s in suffixes) if suffixes else ""
 
-    # --- rpm limit (sealed bearings are ~75% of grease rating) ---
+    # --- rpm limit (sealed bearings are ~80% of grease rating) ---
     has_seal = any(s in ("2RS", "2Z") for s in suffixes)
     if has_seal:
         rpm_limit = int(rpm_grease * SEALED_RPM_FACTOR)
@@ -412,7 +412,7 @@ def generate_card(  # noqa: C901 — intentionally long to produce full card con
     elif btype == "ball_angular":
         func_analogues = (
             f"- **{base}-B-2RS**: с уплотнениями — для загрязнённых условий, ниже обороты\n"
-            f"- **{base[0]}{'%s' % base[1:]}** (угол 25°): меньше осевая, больше радиальная грузоподъёмность"
+            f"- **{base[0]}{base[1:]}** (угол 25°): меньше осевая, больше радиальная грузоподъёмность"
         )
     else:
         func_analogues = (
