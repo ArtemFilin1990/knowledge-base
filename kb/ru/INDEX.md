@@ -21,3 +21,4 @@
   - [Инструкция по созданию базы знаний о подшипниках (полная генерация каталога)](./bearings-knowledge-base/catalog-generation/README.md)
 - [Прайс-листы подшипников](./bearings-price-list/README.md)
   - [Прайс-лист подшипников на 2025 год](./bearings-price-list/price-list-2025/README.md)
+- [Структура раздела «Подшипники» (черновая)](./podshipniki/INDEX.md)
