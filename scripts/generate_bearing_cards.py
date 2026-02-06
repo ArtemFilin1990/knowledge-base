@@ -67,6 +67,46 @@ TYPE_INFO = {
         ),
         "life_note": "Для шариковых подшипников:",
     },
+    "roller_cylindrical": {
+        "title_ru": "подшипник роликовый цилиндрический",
+        "description": "Роликовый цилиндрический однорядный подшипник",
+        "tags_extra": ["radial", "cylindrical-roller"],
+        "series_prefix_meaning": {
+            "N": "серия роликовых цилиндрических",
+        },
+        "load_type_radial": "основная, высокая (до 100% от C)",
+        "load_type_axial": "ограниченная или отсутствует (зависит от конструкции)",
+        "applications": [
+            "Электродвигатели большой мощности",
+            "Редукторы с высокими радиальными нагрузками",
+            "Прокатные станы и металлообрабатывающее оборудование",
+            "Железнодорожный транспорт (буксы вагонов)",
+        ],
+        "life_formula": "L10 = (C / P)^(10/3) × 10⁶ оборотов",
+        "life_note": "Для роликовых подшипников:",
+    },
+    "roller_tapered": {
+        "title_ru": "подшипник роликовый конический",
+        "description": "Роликовый конический однорядный подшипник",
+        "tags_extra": ["tapered-roller", "combined-load"],
+        "series_prefix_meaning": {
+            "3": "серия роликовых конических",
+        },
+        "load_type_radial": "основная составляющая",
+        "load_type_axial": "значительная, в одном направлении (до 70% от C)",
+        "applications": [
+            "Ступицы колёс автомобилей и грузовиков",
+            "Редукторы с коническими передачами",
+            "Железнодорожные буксы",
+            "Тяжёлое промышленное оборудование",
+        ],
+        "life_formula": (
+            "L10 = (C / P)^(10/3) × 10⁶ оборотов\n"
+            "L10h = L10 / (60 × n)\n"
+            "P = X × Fr + Y × Fa  (для комбинированной нагрузки)"
+        ),
+        "life_note": "Для роликовых подшипников:",
+    },
 }
 
 SUFFIX_INFO = {
@@ -330,7 +370,7 @@ def generate_card(  # noqa: C901 — intentionally long to produce full card con
     series = row["series"]
     d = int(row["d_mm"])
     D = int(row["D_mm"])
-    B = int(row["B_mm"])
+    B = float(row["B_mm"])
     C_kN = float(row["C_kN"])
     C0_kN = float(row["C0_kN"])
     rpm_grease = int(row["rpm_grease"])
@@ -340,7 +380,8 @@ def generate_card(  # noqa: C901 — intentionally long to produce full card con
     today = date.today().isoformat()
 
     # --- tags ---
-    tags = ["bearing", "ball"]
+    bearing_element = "ball" if btype.startswith("ball_") else "roller"
+    tags = ["bearing", bearing_element]
     tags.extend(info["tags_extra"])
     tags.append(series)
     for s in suffixes:
@@ -666,7 +707,10 @@ def generate_card(  # noqa: C901 — intentionally long to produce full card con
     example_Fr = round(example_Fr / 100) * 100  # round to hundreds
     example_n = 1500
     P = example_Fr
-    L10 = (C_kN * 1000 / P) ** 3
+
+    # Roller bearings use 10/3 exponent, ball bearings use 3
+    life_exponent = 10/3 if btype.startswith("roller_") else 3
+    L10 = (C_kN * 1000 / P) ** life_exponent
     L10h = L10 * 1e6 / (60 * example_n)
 
     if btype == "ball_angular":
