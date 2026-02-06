@@ -24,6 +24,8 @@ base_designation,SKF,FAG,NTN,NSK,GOST,equivalence_type,notes
 7208,7208 BEP,7208-B-TVP,7208B,7208B,36208,exact,Angular contact 40deg
 7209,7209 BEP,7209-B-TVP,7209B,7209B,36209,exact,Angular contact 40deg
 7210,7210 BEP,7210-B-TVP,7210B,7210B,36210,exact,Angular contact 40deg
+7211,7211 BEP,7211-B-TVP,7211B,7211B,36211,exact,Angular contact 40deg
+7212,7212 BEP,7212-B-TVP,7212B,7212B,36212,exact,Angular contact 40deg
 6206,6206,6206,6206,6206,206,exact,
 6206-2RS,6206-2RSH,6206.2RSR,6206LLU,6206DDU,180206,functional,Check seal type
 6207,6207,6207,6207,6207,207,exact,
@@ -34,6 +36,10 @@ base_designation,SKF,FAG,NTN,NSK,GOST,equivalence_type,notes
 6209-2RS,6209-2RSH,6209.2RSR,6209LLU,6209DDU,180209,functional,Check seal type
 6210,6210,6210,6210,6210,210,exact,
 6210-2RS,6210-2RSH,6210.2RSR,6210LLU,6210DDU,180210,functional,Check seal type
+6211,6211,6211,6211,6211,211,exact,
+6211-2RS,6211-2RSH,6211.2RSR,6211LLU,6211DDU,180211,functional,Check seal type
+6212,6212,6212,6212,6212,212,exact,
+6212-2RS,6212-2RSH,6212.2RSR,6212LLU,6212DDU,180212,functional,Check seal type
 6306,6306,6306,6306,6306,306,exact,
 6306-2RS,6306-2RSH,6306.2RSR,6306LLU,6306DDU,180306,functional,Check seal type
 6307,6307,6307,6307,6307,307,exact,
@@ -44,6 +50,10 @@ base_designation,SKF,FAG,NTN,NSK,GOST,equivalence_type,notes
 6309-2RS,6309-2RSH,6309.2RSR,6309LLU,6309DDU,180309,functional,Check seal type
 6310,6310,6310,6310,6310,310,exact,
 6310-2RS,6310-2RSH,6310.2RSR,6310LLU,6310DDU,180310,functional,Check seal type
+6311,6311,6311,6311,6311,311,exact,
+6311-2RS,6311-2RSH,6311.2RSR,6311LLU,6311DDU,180311,functional,Check seal type
+6312,6312,6312,6312,6312,312,exact,
+6312-2RS,6312-2RSH,6312.2RSR,6312LLU,6312DDU,180312,functional,Check seal type
 NU202,NU202,NU202,NU202,NU202,32302,exact,Cylindrical roller
 NU203,NU203,NU203,NU203,NU203,32303,exact,Cylindrical roller
 NU204,NU204,NU204,NU204,NU204,32304,exact,Cylindrical roller
@@ -53,6 +63,8 @@ NU207,NU207,NU207,NU207,NU207,32307,exact,Cylindrical roller
 NU208,NU208,NU208,NU208,NU208,32308,exact,Cylindrical roller
 NU209,NU209,NU209,NU209,NU209,32309,exact,Cylindrical roller
 NU210,NU210,NU210,NU210,NU210,32310,exact,Cylindrical roller
+NU211,NU211,NU211,NU211,NU211,32311,exact,Cylindrical roller
+NU212,NU212,NU212,NU212,NU212,32312,exact,Cylindrical roller
 NJ202,NJ202,NJ202,NJ202,NJ202,42302,exact,Cylindrical roller with rib
 NJ203,NJ203,NJ203,NJ203,NJ203,42303,exact,Cylindrical roller with rib
 NJ204,NJ204,NJ204,NJ204,NJ204,42304,exact,Cylindrical roller with rib
@@ -62,6 +74,8 @@ NJ207,NJ207,NJ207,NJ207,NJ207,42307,exact,Cylindrical roller with rib
 NJ208,NJ208,NJ208,NJ208,NJ208,42308,exact,Cylindrical roller with rib
 NJ209,NJ209,NJ209,NJ209,NJ209,42309,exact,Cylindrical roller with rib
 NJ210,NJ210,NJ210,NJ210,NJ210,42310,exact,Cylindrical roller with rib
+NJ211,NJ211,NJ211,NJ211,NJ211,42311,exact,Cylindrical roller with rib
+NJ212,NJ212,NJ212,NJ212,NJ212,42312,exact,Cylindrical roller with rib
 30202,30202,30202,30202,30202,7202,exact,Tapered roller
 30203,30203,30203,30203,30203,7203,exact,Tapered roller
 30204,30204,30204,30204,30204,7204,exact,Tapered roller
@@ -71,3 +85,5 @@ NJ210,NJ210,NJ210,NJ210,NJ210,42310,exact,Cylindrical roller with rib
 30208,30208,30208,30208,30208,7208,exact,Tapered roller
 30209,30209,30209,30209,30209,7209,exact,Tapered roller
 30210,30210,30210,30210,30210,7210,exact,Tapered roller
+30211,30211,30211,30211,30211,7211,exact,Tapered roller
+30212,30212,30212,30212,30212,7212,exact,Tapered roller
