@@ -106,6 +106,9 @@ WIDTH_SERIES_LABEL = {
     "4": "тяжёлая",
 }
 
+# Sealed bearings operate at ~80% of the grease-rated speed limit
+SEALED_RPM_FACTOR = 0.80
+
 # Manufacturer-specific suffix patterns for sealed bearings
 SEALED_MANUFACTURER_NOTES = {
     "SKF": "Премиум качество, Heavy duty уплотнение",
@@ -370,7 +373,7 @@ def generate_card(  # noqa: C901 — intentionally long to produce full card con
     # --- rpm limit (sealed bearings are ~75% of grease rating) ---
     has_seal = any(s in ("2RS", "2Z") for s in suffixes)
     if has_seal:
-        rpm_limit = int(rpm_grease * 0.80)
+        rpm_limit = int(rpm_grease * SEALED_RPM_FACTOR)
     else:
         rpm_limit = rpm_grease
 
@@ -481,7 +484,7 @@ def generate_card(  # noqa: C901 — intentionally long to produce full card con
         typical_errors = (
             "- Монтаж без осевого преднатяга → повышенный люфт, вибрации, снижение ресурса\n"
             "- Неправильное направление установки → осевая нагрузка не воспринимается\n"
-            f"- Замена на радиальный подшипник {base[0].replace('7','6')}{base[1:]}"
+            f"- Замена на радиальный подшипник {'6' if base[0] == '7' else base[0]}{base[1:]}"
             " → отказ при осевых нагрузках\n"
             "- Чрезмерный преднатяг → перегрев, ускоренный износ"
         )
@@ -914,7 +917,7 @@ def main() -> int:
     args = parser.parse_args()
 
     # Parse suffixes
-    suffixes = [s.strip() for s in args.suffixes.split(",") if s.strip()] if args.suffixes else []
+    suffixes = [s for s in (x.strip() for x in args.suffixes.split(",")) if s] if args.suffixes else []
 
     # Load data
     catalog = load_catalog(args.catalog)
