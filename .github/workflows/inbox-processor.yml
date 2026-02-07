@@ -1,0 +1,72 @@
+name: Inbox Auto-Processor
+
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - "inbox/**"
+      - "!inbox/processed/**"
+      - "!inbox/README.md"
+  workflow_dispatch:  # Позволяет запускать вручную
+
+jobs:
+  process-inbox:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      
+      - name: Check for unprocessed files
+        id: check_files
+        run: |
+          # Подсчитываем файлы в inbox (исключая README.md и processed/)
+          file_count=$(find inbox -type f -name "*.md" ! -path "*/processed/*" ! -name "README.md" | wc -l)
+          echo "file_count=$file_count" >> $GITHUB_OUTPUT
+          echo "Found $file_count unprocessed files in inbox"
+      
+      - name: Process inbox files
+        if: steps.check_files.outputs.file_count > 0
+        run: |
+          python scripts/process_inbox.py
+      
+      - name: Configure Git
+        if: steps.check_files.outputs.file_count > 0
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      
+      - name: Create Pull Request
+        if: steps.check_files.outputs.file_count > 0
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Auto-process inbox files"
+          branch: auto-process-inbox
+          delete-branch: true
+          title: "🤖 Автоматическая обработка файлов из inbox"
+          body: |
+            ## Автоматическая обработка inbox
+            
+            Этот PR был создан автоматически GitHub Actions для обработки файлов из `inbox/`.
+            
+            ### Что было сделано:
+            - Обработаны файлы из `inbox/`
+            - Созданы структурированные статьи в `kb/ru/`
+            - Обновлены индексы и метаданные
+            - Файлы перемещены в `inbox/processed/`
+            
+            Пожалуйста, проверьте изменения перед слиянием.
+          labels: |
+            automated
+            inbox-processing
