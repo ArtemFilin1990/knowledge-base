@@ -35,6 +35,7 @@
   - [Стандарты](./bearings/standards/README.md)
   - [Производители](./bearings/manufacturers/README.md)
   - [Выбор подшипника](./bearings/selection/README.md)
+  - [Внутренний зазор подшипников](./bearings/selection/bearing-clearance/README.md)
   - [Эксплуатация и обслуживание](./bearings/maintenance/README.md)
   - [Анализ отказов](./bearings/failure-analysis/README.md)
   - [Наборы данных](./bearings/datasets/README.md)

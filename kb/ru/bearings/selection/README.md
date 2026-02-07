@@ -175,6 +175,7 @@ P = X * Fr + Y * Fa
 
 - [Типы подшипников](../types/README.md)
 - [Размеры и серии](../dimensions/README.md)
+- [Внутренний зазор в подшипниках](./bearing-clearance/README.md)
 - [Стандарты ISO 281](../standards/README.md)
 - [Маркировка подшипников](../designation/README.md)
 - [Грузоподъёмность и ресурс](./load-capacity/README.md)
