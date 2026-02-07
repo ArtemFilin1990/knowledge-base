@@ -11,8 +11,12 @@
 ## Как пользоваться
 
 1. Положите файлы в `inbox/` без ручной сортировки.
-2. Агент обработает материалы и создаст/обновит статьи в `kb/ru/`.
-3. Проверьте `kb/ru/INDEX.md` и тематические листы.
+2. Запустите автоматический обработчик: `python scripts/process_inbox.py`
+   - Или дождитесь автоматической обработки через GitHub Actions при push в `main`
+3. Обработчик создаст/обновит статьи в `kb/ru/` и переместит файлы в `inbox/processed/`
+4. Проверьте `kb/ru/INDEX.md` и тематические листы.
+
+См. подробную документацию: `docs/inbox-processor.md`
 
 ## Где что находится
 
@@ -34,6 +38,15 @@
 См. шаблон статьи: `_templates/article.md`.
 См. аудит и рекомендации: `_meta/repository-audit.md`.
 
+## Скрипты и автоматизация
+
+- **Обработка inbox**: `python scripts/process_inbox.py` - автоматически обрабатывает файлы из inbox
+- **Генерация карточек подшипников**: `python scripts/generate_bearing_cards.py`
+- **Проверка качества**: `python scripts/kb_quality_gate.py`
+- **Валидация карточек**: `python scripts/validate_bearing_cards.py`
+- **Проверка ссылок**: `python tests/check_kb_links.py`
+
 ## Проверки
 
 - Проверка ссылок в базе знаний: `python tests/check_kb_links.py`.
+- Валидация метаданных: `python scripts/kb_quality_gate.py`.
