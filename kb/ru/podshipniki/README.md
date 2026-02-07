@@ -69,3 +69,51 @@ updated: "2026-02-06"
 - [x] Нет противоречий
 - [x] Есть 3–7 ссылок «См. также»
 - [ ] Для `status: verified` нет `[[TBD]]`
+
+## Статьи
+
+- [Подшипниковые заводы на территории СНГ](./podshipnikovye-zavody-na-territorii-sng/README.md)
+
+- [Коды ТН ВЭД на подшипники.](./kody-tn-ved-na-podshipniki/README.md)
+
+- [Нагрузка на подшипники.](./nagruzka-na-podshipniki/README.md)
+
+- [Классификация подшипников](./klassifikatsiya-podshipnikov/README.md)
+
+- [Предельная частота вращения подшипника.](./predelnaya-chastota-vrascheniya-podshipnika/README.md)
+
+- [Слово ПОДШИПНИК на разных языках мира.](./slovo-podshipnik-na-raznyh-yazykah-mira/README.md)
+
+- [Подшипники в электродвигателях и основные причины отказов.](./podshipniki-v-elektrodvigatelyah-i-osnovnye-prichi/README.md)
+
+- [Как выбрать подшипник .](./kak-vybrat-podshipnik/README.md)
+
+- [Из чего состоит подшипник](./iz-chego-sostoit-podshipnik/README.md)
+
+- [Подшипниковые узлы. Корпусные подшипники.](./podshipnikovye-uzly-korpusnye-podshipniki/README.md)
+
+- [Редукторы](./reduktory/README.md)
+
+- [Втулки скольжения. Подшипники скольжения.](./vtulki-skolzheniya-podshipniki-skolzheniya/README.md)
+
+- [Смазка для подшипников.](./smazka-dlya-podshipnikov/README.md)
+
+- [Автомобильные комплекты подшипников SKF, FAG, SNR, TIMKEN, FERSA A&S, QH](./avtomobilnye-komplekty-podshipnikov-skf-fag-snr-ti/README.md)
+
+- [Основные причины повреждения подшипников.](./osnovnye-prichiny-povrezhdeniya-podshipnikov/README.md)
+
+- [Онлайн каталоги подшипников.](./onlayn-katalogi-podshipnikov/README.md)
+
+- [Предварительный натяг подшипников. Преднатяг.](./predvaritelnyy-natyag-podshipnikov-prednatyag/README.md)
+
+- [Гибридные подшипники.](./gibridnye-podshipniki/README.md)
+
+- [С улыбкой о подшипниках :)](./s-ulybkoy-o-podshipnikah/README.md)
+
+- [Советы SKF в выборе ступичного подшипника.](./sovety-skf-v-vybore-stupichnogo-podshipnika/README.md)
+
+- [Симптомы неисправного подшипника ступицы колеса автомобиля.](./simptomy-neispravnogo-podshipnika-stupitsy-kolesa-/README.md)
+
+- [Втулки тапербуш - TAPER BUSH.](./vtulki-taperbush-taper-bush/README.md)
+
+- [Интересное о подшипниках](./interesnoe-o-podshipnikah/README.md)

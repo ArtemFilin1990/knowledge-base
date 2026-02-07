@@ -151,7 +151,11 @@ def to_kebab_case(text: str) -> str:
     # Убираем дефисы в начале и конце
     result = result.strip('-')
     
-    return result or "article"
+    # Убедимся, что результат не пустой и корректный
+    if not result or not re.match(r'^[a-z0-9]+(?:-[a-z0-9]+)*$', result):
+        result = "article"
+    
+    return result
 
 
 def extract_text_from_md(file_path: Path) -> str:
