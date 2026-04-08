@@ -11,10 +11,6 @@ updated: 2026-02-07
 
 # Подшипники и сальники для редукторов автобетоносмесителей.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=podshipniki_dlja_avtobetonosmesitelej
-
-![](https://aprom.by//images/concrete_mixer_car_bearings_plc11449.jpg)
-
 
 **Подшипники для редуктора автобетоносмесителя с размерами	mm. (d x D x B/C)**
 

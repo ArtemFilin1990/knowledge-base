@@ -11,15 +11,11 @@ updated: 2026-02-07
 
 # Стандарты ISO. Подшипники
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=iso
 
 ---
 
 
 # Стандарты ISO. Подшипники
-
-
-![](https://aprom.by/images/b58.jpg )
 
 
 Перечень международных стандартов ISO  (Стандарты ISO - International Organization for Standardization)  применяемые для подшипников качения, шарнирных подшипников и тел качения подшипников.

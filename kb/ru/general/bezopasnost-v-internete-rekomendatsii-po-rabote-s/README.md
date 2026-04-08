@@ -11,7 +11,6 @@ updated: 2026-02-07
 
 # Безопасность в интернете. Рекомендации по работе с электронной почтой.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=safe-internet
 
 ---
 

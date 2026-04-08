@@ -77,7 +77,7 @@ updated: 2026-02-05
 
 | from_designation | from_system | to_manufacturer | to_designation | match_grade | match_notes | source_url | source_file | confidence | updated_at |
 |---|---|---|---|---|---|---|---|---|---|
-| 2206 | GOST | 10-ГПЗ | N206 |  |  | https://aprom.by/cgi-bin/nomenclature.pl?brand=10-ГПЗ | 10-ГПЗ.md |  |  |
+| 2206 | GOST | 10-ГПЗ | N206 |  |  |  | 10-ГПЗ.md |  |  |
 
 ## Правила сопоставления
 

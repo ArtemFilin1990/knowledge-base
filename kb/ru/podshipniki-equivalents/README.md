@@ -23,5 +23,3 @@ updated: 2026-02-07
 
 - [Роликовые линейные опоры качения РС, ЛОК, RUS, Р88, РОД, РОНА-120.](./rolikovye-lineynye-opory-kacheniya-rs-lok-rus-r88-/README.md)
 
-- [Закон РБ О защите прав потребителей.](./zakon-rb-o-zaschite-prav-potrebiteley/README.md)
-

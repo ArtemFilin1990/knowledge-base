@@ -11,15 +11,11 @@ updated: 2026-02-07
 
 # Подшипники. Термины на английском языке - русский перевод.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=english
 
 ---
 
 
 # Подшипники. Термины на английском языке - русский перевод.
-
-
-![](https://aprom.by/images/b132.jpg )
 
 
 | adapter sleeve | закрепительная втулка |
@@ -50,5 +46,3 @@ updated: 2026-02-07
 | takeup | натяжной |
 | tapered bearing unit for railbound vehicles | буксовый узел с коническими подшипниками |
 
-
-![Подшипники. Термины на английском языке - русский перевод](https://aprom.by//images/b210.jpg)

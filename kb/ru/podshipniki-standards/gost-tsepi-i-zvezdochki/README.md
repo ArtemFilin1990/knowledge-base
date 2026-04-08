@@ -11,15 +11,11 @@ updated: 2026-02-07
 
 # ГОСТ Цепи и Звездочки.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=gost_cepi
 
 ---
 
 
 # ГОСТ Цепи и Звездочки.
-
-
-![](https://aprom.by/images/b191.jpg )
 
 
 ## Цепи

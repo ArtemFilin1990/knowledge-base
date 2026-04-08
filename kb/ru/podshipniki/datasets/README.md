@@ -37,8 +37,8 @@ updated: "2026-02-07"
 **Структура**:
 ```csv
 gost_designation,analog,manufacturer,source_url,source_file
-6305,6305,SKF,https://aprom.by/cgi-bin/nomenclature.pl?brand=SKF,SKF.md
-6305-2RS,6305-2RSH,SKF,https://aprom.by/cgi-bin/nomenclature.pl?brand=SKF,SKF.md
+6305,6305,SKF,,SKF.md
+6305-2RS,6305-2RSH,SKF,,SKF.md
 ```
 
 **Источники данных**:

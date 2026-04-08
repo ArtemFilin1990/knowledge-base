@@ -11,7 +11,6 @@ updated: 2026-02-07
 
 # Втулки скольжения. Подшипники скольжения.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=podshipniki_vtulki_skolgenija
 
 **Список поставщиков втулок скольжения**
 
