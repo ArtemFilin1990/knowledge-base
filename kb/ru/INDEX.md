@@ -1,48 +1,87 @@
 # Индекс базы знаний (RU)
 
-- [Обзор](./overview/README.md)
-  - [Назначение репозитория](./overview/repository-purpose/README.md)
-  - [Архитектура данных и энциклопедии](./overview/data-architecture/README.md)
+Обновлён: 2026-04-08. Всего разделов: 18.
 
-## Подшипники
+---
 
-### Основной раздел (ТЗ и структура)
+## 1. Подшипники. Условные обозначения и стандарты
 
-- [Подшипники — индекс раздела](./podshipniki/INDEX.md) — центральный индекс раздела подшипников
-- [Техническое задание: база знаний «Подшипники»](./podshipniki/README.md) — ТЗ, структура, метаданные и пайплайн
+- [Раздел 1](./bearings-designation-standards/README.md)
 
-### Концепции и классификация
+## 2. Подшипники. Общая информация
 
-- [Концепции и классификация](./podshipniki/concepts/README.md)
-  - [Введение в подшипники](./podshipniki/intro/README.md)
-  - [Классификация подшипников](./podshipniki/classification/README.md)
-    - [Радиальные и упорные](./podshipniki/classification/radial-vs-thrust/README.md)
-    - [Шариковые и роликовые](./podshipniki/classification/ball-vs-roller/README.md)
+- [Раздел 2](./bearings-general/README.md)
 
-### Структурированные данные и процедуры
+## 3. Подшипники. Типы и модификации
 
-- [Структурированные данные](./podshipniki/datasets/README.md) — 82,951 запись, 85 производителей
-- [Процедуры обработки данных](./podshipniki/playbooks/README.md) — пайплайн intake→archive
-- [Карточки подшипников — правила и индекс](./podshipniki/cards/README.md) — 145+ карточек
+- [Раздел 3](./bearings-types/README.md)
 
-### Детальная техническая база
+## 4. Подшипники. Бренды, обозначения, производители
 
-- [База знаний по подшипникам](./bearings/INDEX.md) — полная база технических знаний
-  - [Обзор](./bearings/overview/README.md)
-  - [Типы подшипников](./bearings/types/README.md)
-  - [Маркировка](./bearings/designation/README.md)
-  - [Размеры и серии](./bearings/dimensions/README.md)
-  - [Стандарты](./bearings/standards/README.md)
-  - [Производители](./bearings/manufacturers/README.md)
-  - [Выбор подшипника](./bearings/selection/README.md)
-  - [Внутренний зазор подшипников](./bearings/selection/bearing-clearance/README.md)
-  - [Эксплуатация и обслуживание](./bearings/maintenance/README.md)
-  - [Анализ отказов](./bearings/failure-analysis/README.md)
-  - [Наборы данных](./bearings/datasets/README.md)
+- [Раздел 4](./bearings-brands/README.md)
 
-### Процессы и прайс-листы
+## 5. Подшипники. Шарики, ролики, гайки, втулки
 
-- [База знаний о подшипниках (процессы)](./bearings-knowledge-base/README.md)
-  - [Инструкция по созданию базы знаний о подшипниках (полная генерация каталога)](./bearings-knowledge-base/catalog-generation/README.md)
+- [Раздел 5](./bearings-rolling-elements/README.md)
+
+## 6. Втулки скольжения
+
+- [Раздел 6](./sliding-bushings/README.md)
+
+## 7. Подшипники автомобильные
+
+- [Раздел 7](./automotive-bearings/README.md)
+
+## 8. Подшипники. Разное
+
+- [Раздел 8](./bearings-misc/README.md)
+
+## 9. Шариковые опоры
+
+- [Раздел 9](./ball-supports/README.md)
+
+## 10. Линейные направляющие и ШВП
+
+- [Раздел 10](./linear-guides/README.md)
+
+## 11. Резино-технические изделия
+
+- [Раздел 11](./rubber-technical/README.md)
+
+## 12. Приводные ремни
+
+- [Раздел 12](./drive-belts/README.md)
+
+## 13. Сальники и манжеты
+
+- [Раздел 13](./seals-sleeves/README.md)
+
+## 14. Шланги, рукава, РВД
+
+- [Раздел 14](./hoses-tubes/README.md)
+
+## 15. Кольца круглого сечения
+
+- [Раздел 15](./o-rings/README.md)
+
+## 16. Шкивы
+
+- [Раздел 16](./pulleys/README.md)
+
+## 17. Цепи и звёздочки
+
+- [Раздел 17](./chains-sprockets/README.md)
+
+## 18. Сопутствующая техническая продукция
+
+- [Раздел 18](./technical-products/README.md)
+
+---
+
+## Прочие разделы (исторические)
+
+- [Обзор репозитория](./overview/README.md)
+- [Подшипники — детальная база](./bearings/INDEX.md)
+- [Подшипники — ТЗ и структура](./podshipniki/README.md)
+- [Процессы: база знаний о подшипниках](./bearings-knowledge-base/README.md)
 - [Прайс-листы подшипников](./bearings-price-list/README.md)
-  - [Прайс-лист подшипников на 2025 год](./bearings-price-list/price-list-2025/README.md)
