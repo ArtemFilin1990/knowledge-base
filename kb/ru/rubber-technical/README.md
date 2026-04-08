@@ -1,6 +1,6 @@
 ---
 id: KB-RU-000483
-title: "Резино-технические изделия"
+title: "Резинотехнические изделия"
 topic: rubber-technical
 tags: ["topic-index"]
 status: draft
@@ -9,8 +9,10 @@ created: 2026-04-08
 updated: 2026-04-08
 ---
 
-# Резино-технические изделия
+# Резинотехнические изделия
 
 ## Статьи
 
-- [ГОСТ — резинотехнические изделия (РТИ)](../podshipniki-standards/gost-rezinotehnicheskie-izdeliya-rti/README.md)
+### 8.1 Резинотехнические изделия
+
+- [ГОСТ: резинотехнические изделия](../podshipniki-standards/gost-rezinotehnicheskie-izdeliya-rti/README.md)

@@ -13,5 +13,7 @@ updated: 2026-04-08
 
 ## Статьи
 
+### 8.3 Шланги, рукава и РВД
+
 - [Промышленные рукава и шланги](../general/promyshlennye-rukava-i-shlangi/README.md)
-- [Рукава высокого давления (РВД)](../lubrication-seals/rukava-vysokogo-davleniya-rvd/README.md)
+- [Рукава высокого давления](../lubrication-seals/rukava-vysokogo-davleniya-rvd/README.md)

@@ -13,5 +13,7 @@ updated: 2026-04-08
 
 ## Статьи
 
-- [Резиновые армированные манжеты (сальники)](../lubrication-seals/rezinovye-armirovannye-manzhety-salniki/README.md)
-- [Как подобрать сальник или манжету](../lubrication-seals/kak-podobrat-salnik-ili-manzhetu-po-razmeram/README.md)
+### 8.2 Сальники и манжеты
+
+- [Резиновые армированные манжеты](../lubrication-seals/rezinovye-armirovannye-manzhety-salniki/README.md)
+- [Как подобрать сальник или манжету по размерам](../lubrication-seals/kak-podobrat-salnik-ili-manzhetu-po-razmeram/README.md)

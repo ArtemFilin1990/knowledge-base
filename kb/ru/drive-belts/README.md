@@ -13,8 +13,10 @@ updated: 2026-04-08
 
 ## Статьи
 
+### 7.2 Приводные ремни
+
 - [Приводные ремни](../drive-systems/privodnye-remni/README.md)
-- [Как подобрать ремень по размеру](../drive-systems/kak-podobrat-privodnoy-remen-po-razmeru/README.md)
-- [Неисправности ременной передачи](../drive-systems/osnovnye-neispravnosti-remennoy-peredachi/README.md)
-- [Размеры и аналоги ремней](../podshipniki-standards/razmery-i-analogi-remney-gost-importnaya-markirovk/README.md)
-- [Как рассчитать длину ремня](../drive-systems/kak-pravilno-rasschitat-dlinu-privodnogo-remnya-po/README.md)
+- [Как подобрать приводной ремень по размеру](../drive-systems/kak-podobrat-privodnoy-remen-po-razmeru/README.md)
+- [Основные неисправности ременной передачи](../drive-systems/osnovnye-neispravnosti-remennoy-peredachi/README.md)
+- [Размеры и аналоги ремней ГОСТ — импортная маркировка](../podshipniki-standards/razmery-i-analogi-remney-gost-importnaya-markirovk/README.md)
+- [Расчёт длины приводного ремня по шкивам и межосевому расстоянию](../drive-systems/kak-pravilno-rasschitat-dlinu-privodnogo-remnya-po/README.md)

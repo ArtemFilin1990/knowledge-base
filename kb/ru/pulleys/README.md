@@ -13,4 +13,6 @@ updated: 2026-04-08
 
 ## Статьи
 
-- [Шкивы SKF](./shkivy-skf/README.md)
+### 7.3 Шкивы
+
+- [Шкивы SKF для узких клиновых ремней](./shkivy-skf/README.md)

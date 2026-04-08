@@ -13,6 +13,8 @@ updated: 2026-04-08
 
 ## Статьи
 
+### 7.4 Цепи и звездочки
+
 - [Приводные цепи](../podshipniki-designation/privodnye-tsepi/README.md)
 - [Звёздочки](../podshipniki-standards/zvezdochki/README.md)
-- [ГОСТ. Цепи и звёздочки](../podshipniki-standards/gost-tsepi-i-zvezdochki/README.md)
+- [ГОСТ: цепи и звёздочки](../podshipniki-standards/gost-tsepi-i-zvezdochki/README.md)

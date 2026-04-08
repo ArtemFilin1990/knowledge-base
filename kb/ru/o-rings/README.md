@@ -13,4 +13,6 @@ updated: 2026-04-08
 
 ## Статьи
 
-- [Кольца резиновые уплотнительные круглого сечения](../podshipniki-standards/koltsa-rezinovye-uplotnitelnye-kruglogo-secheniya/README.md)
+### 8.4 Уплотнительные кольца
+
+- [Кольца круглого сечения](../podshipniki-standards/koltsa-rezinovye-uplotnitelnye-kruglogo-secheniya/README.md)
