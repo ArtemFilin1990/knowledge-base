@@ -191,7 +191,7 @@ class TestValidateBearingCard:
         assert any("designation" in e for e in errors)
 
     def test_designation_as_string_error(self, tmp_path):
-        # parse_yaml_value("some-text") returns a string, triggering the isinstance(desig, str) check
+        # Test that non-dict designation values are rejected
         content = textwrap.dedent("""\
             ---
             id: KB-RU-000001

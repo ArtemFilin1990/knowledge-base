@@ -1,1 +1,4 @@
 scripts/.bitrix24_kb_state.json
+__pycache__/
+*.pyc
+.pytest_cache/
