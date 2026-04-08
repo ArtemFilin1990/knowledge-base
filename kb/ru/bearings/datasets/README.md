@@ -171,7 +171,7 @@ base_designation,SKF,FAG,NTN,NSK,GOST,equivalence_type,notes
 
 **Формат**: CSV
 
-**Источник**: https://aprom.by/cgi-bin/nomenclature.pl (85 производителей, 82 951 запись)
+**Источник**: [[TBD]] (85 производителей, 82 951 запись)
 
 **Файлы**:
 - `nomenclature.csv` — полная таблица кросс-ссылок
