@@ -11,7 +11,6 @@ updated: 2026-02-07
 
 # Конструктивная разновидность подшипников
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=konstrukcia
 
 ---
 

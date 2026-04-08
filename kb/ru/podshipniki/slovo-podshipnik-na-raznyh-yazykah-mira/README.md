@@ -11,7 +11,6 @@ updated: 2026-02-07
 
 # Слово ПОДШИПНИК на разных языках мира.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=translate
 
 ---
 
@@ -73,9 +72,6 @@ updated: 2026-02-07
 | Шведский | lager |
 | Эстонский | laager |
 | Японский | 軸受 |
-
-
-![](https://aprom.by/images/b133.jpg)
 
 
 **Купить подшипники**

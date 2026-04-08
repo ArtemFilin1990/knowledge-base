@@ -11,7 +11,6 @@ updated: 2026-02-07
 
 # Таблица расшифровки знака года выпуска подшипника.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=year_production_bearing
 
 ---
 
@@ -96,9 +95,6 @@ updated: 2026-02-07
 | У | 2028 |
 | S или Ю | 2029 |
 | Я | 2030 |
-
-
-![Маркировка обозначения года выпуска подшипника 6314 MPZ BELARUS](https://aprom.by//images/oboznachenij_podshipnika_6314_mpz_belarus.jpg )
 
 
 Пример на фото:

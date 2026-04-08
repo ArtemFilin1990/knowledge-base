@@ -11,15 +11,11 @@ updated: 2026-02-07
 
 # ГОСТ Резинотехнические изделия (РТИ).
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=gost_rti
 
 ---
 
 
 # ГОСТ Резинотехнические изделия (РТИ).
-
-
-![](https://aprom.by/images/b191.jpg )
 
 
 - Кольца

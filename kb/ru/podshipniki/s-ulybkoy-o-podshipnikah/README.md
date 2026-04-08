@@ -11,7 +11,6 @@ updated: 2026-02-07
 
 # С улыбкой о подшипниках :)
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=humor
 
 ---
 
@@ -65,9 +64,6 @@ GJLIBGYBR
 дополнительно смотрите Слово ПОДШИПНИК на разных языках мира.
 
 
-![](https://aprom.by/images/b14.jpg)
-
-
 ------x-x-x-----
 
 Подшипник с шариком
@@ -87,25 +83,10 @@ GJLIBGYBR
 **Осип Мандельштам**
 
 
-![](https://aprom.by/images/b12.jpg)
-
-
 **Львовский шоколадный подшипник**
 
 
-![](https://aprom.by/images/chocolate_bearing.jpg )
-
-
 **Сувенирный подшипниковый чебурашка**
-
-
-![](https://aprom.by/images/cheburashka_bearings.jpg )
-
-
-![](https://aprom.by//images/bearing_valentinka_big.jpg)
-
-
-![](https://aprom.by//images/apromby_image.jpg )
 
 
 дополнительно смотрите ГОСТ Подшипники. Cтандарты.
