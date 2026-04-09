@@ -8,5 +8,191 @@
     "title": "Прайс-листы подшипников",
     "language": "ru",
     "status": "active"
+  },
+  "designation-system": {
+    "title": "Система обозначений",
+    "language": "ru",
+    "status": "active",
+    "section": "1.1"
+  },
+  "accuracy-fits": {
+    "title": "Точность, зазоры и посадки",
+    "language": "ru",
+    "status": "active",
+    "section": "1.2"
+  },
+  "standards-norms": {
+    "title": "Нормативы и соответствия",
+    "language": "ru",
+    "status": "active",
+    "section": "1.3"
+  },
+  "construction": {
+    "title": "Устройство и терминология",
+    "language": "ru",
+    "status": "active",
+    "section": "2.1"
+  },
+  "loads-calculation": {
+    "title": "Нагрузки, режимы и расчёт",
+    "language": "ru",
+    "status": "active",
+    "section": "2.2"
+  },
+  "special-executions": {
+    "title": "Специальные исполнения",
+    "language": "ru",
+    "status": "active",
+    "section": "2.3"
+  },
+  "maintenance": {
+    "title": "Монтаж и обслуживание",
+    "language": "ru",
+    "status": "active",
+    "section": "2.4"
+  },
+  "failures": {
+    "title": "Повреждения и отказ",
+    "language": "ru",
+    "status": "active",
+    "section": "2.5"
+  },
+  "references": {
+    "title": "Справочники и литература",
+    "language": "ru",
+    "status": "active",
+    "section": "2.6"
+  },
+  "main-types": {
+    "title": "Основные типы подшипников",
+    "language": "ru",
+    "status": "active",
+    "section": "3.1"
+  },
+  "rod-ends": {
+    "title": "Шарнирные подшипники",
+    "language": "ru",
+    "status": "active",
+    "section": "3.2"
+  },
+  "needle-special": {
+    "title": "Игольчатые и специальные",
+    "language": "ru",
+    "status": "active",
+    "section": "3.3"
+  },
+  "housing-units": {
+    "title": "Корпусные узлы",
+    "language": "ru",
+    "status": "active",
+    "section": "3.4"
+  },
+  "related-mechanical": {
+    "title": "Смежные изделия",
+    "language": "ru",
+    "status": "active",
+    "section": "3.5"
+  },
+  "manufacturers": {
+    "title": "Производители",
+    "language": "ru",
+    "status": "active",
+    "section": "4.1"
+  },
+  "brand-codes": {
+    "title": "Системы обозначений брендов",
+    "language": "ru",
+    "status": "active",
+    "section": "4.2"
+  },
+  "production": {
+    "title": "Производство",
+    "language": "ru",
+    "status": "active",
+    "section": "4.3"
+  },
+  "rolling-elements": {
+    "title": "Тела качения",
+    "language": "ru",
+    "status": "active",
+    "section": "5.1"
+  },
+  "mounting": {
+    "title": "Крепёжные элементы",
+    "language": "ru",
+    "status": "active",
+    "section": "5.2"
+  },
+  "plain-bearings": {
+    "title": "Подшипники скольжения",
+    "language": "ru",
+    "status": "active",
+    "section": "5.3"
+  },
+  "auto-bearings": {
+    "title": "Автоподшипники",
+    "language": "ru",
+    "status": "active",
+    "section": "6.1"
+  },
+  "ball-joints": {
+    "title": "Шариковые опоры",
+    "language": "ru",
+    "status": "active",
+    "section": "6.2"
+  },
+  "linear-motion": {
+    "title": "Линейные и ШВП",
+    "language": "ru",
+    "status": "active",
+    "section": "7.1"
+  },
+  "belts": {
+    "title": "Приводные ремни",
+    "language": "ru",
+    "status": "active",
+    "section": "7.2"
+  },
+  "pulleys": {
+    "title": "Шкивы",
+    "language": "ru",
+    "status": "active",
+    "section": "7.3"
+  },
+  "chains-sprockets": {
+    "title": "Цепи и звездочки",
+    "language": "ru",
+    "status": "active",
+    "section": "7.4"
+  },
+  "rti": {
+    "title": "Резинотехника",
+    "language": "ru",
+    "status": "active",
+    "section": "8.1"
+  },
+  "seals": {
+    "title": "Сальники и манжеты",
+    "language": "ru",
+    "status": "active",
+    "section": "8.2"
+  },
+  "hoses": {
+    "title": "Шланги и рукава",
+    "language": "ru",
+    "status": "active",
+    "section": "8.3"
+  },
+  "o-rings": {
+    "title": "Уплотнительные кольца",
+    "language": "ru",
+    "status": "active",
+    "section": "8.4"
+  },
+  "misc-items": {
+    "title": "Сопутствующие изделия",
+    "language": "ru",
+    "status": "active",
+    "section": "9.1"
   }
 }
