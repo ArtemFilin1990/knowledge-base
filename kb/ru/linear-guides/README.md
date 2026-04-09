@@ -13,5 +13,7 @@ updated: 2026-04-08
 
 ## Статьи
 
+### 7.1 Линейные направляющие и ШВП
+
 - [Линейные направляющие качения и скольжения](../podshipniki-equivalents/lineynye-napravlyayuschie-kacheniya-i-skolzheniya/README.md)
-- [Роликовые линейные опоры качения](../podshipniki-equivalents/rolikovye-lineynye-opory-kacheniya-rs-lok-rus-r88/README.md)
+- [Роликовые линейные опоры качения РС, ЛОК, RUS, Р88, РОД, РОНА-120](../podshipniki-equivalents/rolikovye-lineynye-opory-kacheniya-rs-lok-rus-r88/README.md)

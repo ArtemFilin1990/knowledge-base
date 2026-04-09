@@ -13,8 +13,10 @@ updated: 2026-04-08
 
 ## Статьи
 
-- [Автомобильные комплекты подшипников](../podshipniki/avtomobilnye-komplekty-podshipnikov-skf-fag-snr-ti/README.md)
-- [Советы SKF: выбор ступичного подшипника](../podshipniki/sovety-skf-v-vybore-stupichnogo-podshipnika/README.md)
-- [Симптомы неисправного ступичного](../podshipniki/simptomy-neispravnogo-podshipnika-stupitsy-kolesa/README.md)
-- [Подшипники для автокондиционеров](../podshipniki-equivalents/podshipniki-dlya-avtomobilnyh-konditsionerov/README.md)
-- [Подшипники автобетоносмесители](../podshipniki-equivalents/podshipniki-i-salniki-dlya-reduktorov-avtobetonosm/README.md)
+### 6.1 Автомобильные подшипники
+
+- [Комплекты SKF, FAG, SNR, TIMKEN, FERSA A&S, QH](../podshipniki/avtomobilnye-komplekty-podshipnikov-skf-fag-snr-ti/README.md)
+- [Советы SKF по выбору ступичного подшипника](../podshipniki/sovety-skf-v-vybore-stupichnogo-podshipnika/README.md)
+- [Симптомы неисправного подшипника ступицы](../podshipniki/simptomy-neispravnogo-podshipnika-stupitsy-kolesa/README.md)
+- [Подшипники для автомобильных кондиционеров](../podshipniki-equivalents/podshipniki-dlya-avtomobilnyh-konditsionerov/README.md)
+- [Подшипники и сальники для редукторов автобетоносмесителей](../podshipniki-equivalents/podshipniki-i-salniki-dlya-reduktorov-avtobetonosm/README.md)

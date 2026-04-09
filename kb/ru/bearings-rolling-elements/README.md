@@ -1,6 +1,6 @@
 ---
 id: KB-RU-000475
-title: "Подшипники. Шарики, ролики, гайки, втулки"
+title: "Элементы подшипников: тела качения, втулки, гайки"
 topic: bearings-rolling-elements
 tags: ["topic-index"]
 status: draft
@@ -9,9 +9,14 @@ created: 2026-04-08
 updated: 2026-04-08
 ---
 
-# Подшипники. Шарики, ролики, гайки, втулки
+# Элементы подшипников: тела качения, втулки, гайки
 
 ## Статьи
 
-- [Тела качения — шарики и ролики](../podshipniki-standards/tela-kacheniya-podshipnikov-shariki-i-roliki-prime/README.md)
-- [Закрепительные втулки, гайки](../podshipniki-equivalents/zakrepitelnye-vtulki-styazhnye-vtulki-gayki-k-pods/README.md)
+### 5.1 Тела качения
+
+- [Шарики и ролики: применяемость в подшипниках](../podshipniki-standards/tela-kacheniya-podshipnikov-shariki-i-roliki-prime/README.md)
+
+### 5.2 Втулки, гайки и крепёжные элементы
+
+- [Закрепительные втулки, стяжные втулки, гайки](../podshipniki-equivalents/zakrepitelnye-vtulki-styazhnye-vtulki-gayki-k-pods/README.md)
