@@ -15,6 +15,7 @@ updated: 2026-04-08
 
 ### 1.1 Система обозначений
 
+- [Условное обозначение подшипников по ГОСТ](../podshipniki-designation/uslovnoe-oznachenie-podshipnikov-po-gost/README.md)
 - [Система условных обозначений подшипников](../podshipniki-designation/sistema-uslovnyh-oboznacheniy-podshipnikov/README.md)
 - [Обозначение категорий подшипников](../podshipniki-designation/oboznachenie-kategoriy-podshipnikov/README.md)
 - [Обозначение внутреннего диаметра](../podshipniki-designation/oboznachenie-vnutrennego-diametra-podshipnikov/README.md)
