@@ -1,0 +1,6 @@
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+web_search = "cached"
+project_doc_max_bytes = 65536
+project_root_markers = [".git", "README.md", "kb", "inbox", "_templates", "_meta"]
+project_doc_fallback_filenames = ["TEAM_GUIDE.md"]
