@@ -13,6 +13,12 @@ updated: 2026-02-07
 
 ## Статьи
 
+- [Каталог ремней Gates  dup3](./katalog-remney-gates-dup3/README.md)
+
+- [Каталог сальников TTO.](./katalog-salnikov-tto/README.md)
+
+- [Каталог сальников TTO.](./katalog-salnikov-tto/README.md)
+
 - [Резиновые армированные манжеты сальники](./rezinovye-armirovannye-manzhety-salniki/README.md)
 
 - [Как подобрать сальник или манжету по размерам](./kak-podobrat-salnik-ili-manzhetu-po-razmeram/README.md)

@@ -1,0 +1,8673 @@
+---
+id: KB-RU-000985
+title: Каталог ремней CONTITECH  dup3
+topic: podshipniki-standards
+tags: ["imported-from-inbox", "bearings", "standards"]
+status: draft
+source: inbox/Каталог-ремней-CONTITECH__dup3.md
+created: 2026-04-15
+updated: 2026-04-15
+---
+
+# Каталог ремней CONTITECH  dup3
+
+Power Transmission
+Products:
+List of Dimensions
+Power Transmission Group
+ContiTech – Division of Continental Corporation
+
+CONTI VARISPEED
+Varidur, Agridur
+Variable speed raw edge 
+cogged belts
+40 - 41
+DIN 7719 / 
+ISO 1604
+CONTI SYNCHROBELTSTD
+Timing belts
+14
+Section:
+S8M
+CONTI SYNCHROLINEHTD
+Open-ended timing belts
+15
+Section:
+5M
+8M
+CONTI SYNCHROLINESTD
+Open-ended timing belts
+15
+Section:
+S8M
+CONTI SYNCHROTWINCXP III DHTD 
+Heavy-duty double-sided 
+timing belts
+16
+Section:
+D5M
+D8M
+D14M
+CONTI SYNCHROTWINCXP III DSTD 
+Heavy-duty double-sided 
+timing belts
+17
+Section:
+DS8M
+CONTISYNCHROTWIN DHTD 
+Double-sided timing belts
+18
+Section:
+D5M
+D8M
+D14M
+CONTI SYNCHROTWINDSTD 
+Double-sided timing belts
+19
+Section:
+DS8M
+CONTI SYNCHROTWINDH
+Double-sided timing belts
+20
+DIN 5296
+Section:
+DH
+CONTI SYNCHRODRIVEHTD
+Open-ended PU timing belts
+21
+Section:
+3M
+5M
+8M
+14M
+CONTI SYNCHRODRIVESTD
+Open-ended PU timing belts
+21
+Section:
+S5M
+S8M
+CONTI SYNCHRODRIVE
+Open-ended PU timing belts
+22
+Section:
+Trapezoidal
+XL
+L
+H
+CONTI SYNCHRODRIVE
+Open-ended PU nubbed belts
+23
+CONTI-V MULTIRIB Power, Elast
+Multiple V-ribbed belts
+24/25
+DIN 7867
+Section:
+PJ
+PK
+PL
+PM
+CONTI-VSTANDARD Multiﬂex
+Classical section wrapped V-belts
+26 - 31
+DIN 2215
+Section:
+8/-
+17/B 25/-
+10/Z
+20/-
+32/D
+13/A 22/C 40/E
+CONTI-VSTANDARD Ultraﬂex
+Narrow section wrapped V-belts
+32/33
+DIN 7753
+Section:
+SPZ
+SPA
+SPB
+19
+SPC
+CONTI-VADVANCE FO-Z
+Heavy-duty raw edge 
+cogged V-belts
+34/35
+DIN 7753
+Section:
+XPZ
+XPA
+XPB
+XPC
+CONTI-VADVANCE FO-Z Classic
+Heavy-duty raw edge 
+cogged V-belts
+36/37
+DIN 7753
+Section:
+5/-
+10/Z
+6/Y
+13/A
+8/-
+CONTI-V ADVANCE FO-Power
+Heavy-duty raw edge cogged V-belts
+38
+DIN 7753
+Section:
+XPZ
+XPA
+XPB
+XPC
+CONTI POLYFLAT
+Open-ended PU ﬂat belts
+39
+CONTI-VMULTIBELT 
+Banded V-belts
+42 - 44
+Table of Contents
+1
+
+Product overview
+CONTIVSM-1/VSM-2 tension gauges
+The CONTIVSM-1/VSM-2 tension gauges are fully electronic measuring devices speci-
+ally designed for measuring the initial tension of timing belts, multiple V-ribbed belts and
+V-belts, no matter what the belt´s tension member is made of.
+The display shows the natural frequency of forced vibrations on the free span length,
+from which the initial tension in the belt can be easily calculated.
+Supplied in a robust plastic case.
+Additional features VSM-2:
+–
+Serial interface for connection to PC
+–
+Initial tension data can be logged and processed
+–
+Incorporation in quality assurance process when checking series products
+Technical data:
+Measuring range:
+10 to 500 Hz
+Resolution:
+1 Hz
+L x W x H:
+approx. 120 x 60 x 25 mm (without sensor)
+Sensor:
+optical sensor at the end of a ﬂexible arm
+Article no. 67 79 093 (VSM-1)
+Article no. 67 79 090 (VSM-2)
+CONTIV-belt tension gauge
+Can be used for:
+–
+CONTI-VADVANCE FO-Z heavy-duty cogged raw-edge V-belts
+Sections: XPZ, XPA, XPB, XPC
+–
+CONTI-VSTANDARD Ultraﬂex narrow-section wrapped V-belts
+Sections: SPZ, SPA, SPB, SPC
+–
+CONTI-VSTANDARD Multiﬂex classical-section wrapped V-belts
+Sections: 10/Z, 13/A, 17/B, 20/-, 22/C, 25/-, 32/D
+Article no. 67 79 004
+CONTIV-belt length gauge
+Can be used to determine the exact length of the following drive belts 
+(between 500 and 2600 mm):
+–
+CONTI-VADVANCE FO-Z heavy-duty cogged raw-edge V-belts
+Sections: XPZ, XPA, XPB, XPC
+–
+CONTI-VSTANDARD Ultraﬂex narrow-section wrapped V-belts
+Sections: SPZ, SPA, SPB, SPC
+–
+CONTI-VSTANDARD Multiﬂex classical-section wrapped V-belts
+Sections: 10/Z, 13/A, 17/B, 20/-, 22/C, 25/-, 32/D
+Article no. 67 79 003
+3
+
+CONTI SYNCHROFORCECXP III Heavy-duty timing belts HTD
+5
+Timing belts  
+1 sleeve width
+720 mm / 28.35 inch
+Standard widths for section 5M: 9(0.35), 15(0.59), 25(0.98) mm(inch) 
+or in sleeves with a standard width of 480 mm / 18.90 inch
+Standard widths for section 8M: 40(1.57), 55(2.17), 85(3.35), 115(4.53),
+170(6.69) mm(inch) or in sleeves with a standard width of 
+470 mm /18.51 inch
+Standard widths for section 8M: 20(0.79), 30(1.18), 50(1.97), 85(3.35)
+mm(inch) ) or in sleeves with a standard width of 480 mm / 18.90 inch
+Section 5M
+Section
+Lp (mm)
+Lp (inch)
+z
+225 - 5M CXP III
+225.00
+8.86
+45
+265 - 5M CXP III
+265.00
+10.43
+53
+275 - 5M CXP III
+275.00
+10.83
+55
+295 - 5M CXP III
+295.00
+11.61
+59
+300 - 5M CXP III
+300.00
+11.81
+60
+330 - 5M CXP III
+330.00
+12.99
+66
+350 - 5M CXP III
+350.00
+13.78
+70
+375 - 5M CXP III
+375.00
+14.76
+75
+400 - 5M CXP III
+400.00
+15.75
+80
+425 - 5M CXP III
+425.00
+16.73
+85
+450 - 5M CXP III
+450.00
+17.72
+90
+460 - 5M CXP III
+460.00
+18.11
+92
+475 - 5M CXP III
+475.00
+18.70
+95
+500 - 5M CXP III
+500.00
+19.69
+100
+1
+525 - 5M CXP III
+525.00
+20.67
+105
+535 - 5M CXP III
+535.00
+21.06
+107
+1          
+550 - 5M CXP III
+550.00
+21.65
+110
+565 - 5M CXP III
+565.00
+22.24
+113
+600 - 5M CXP III
+600.00
+23.62
+120
+615 - 5M CXP III
+615.00
+24.21
+123
+620 - 5M CXP III
+620.00
+24.41
+124
+630 - 5M CXP III
+630.00
+24.80
+126
+635 - 5M CXP III
+635.00
+25.00
+127
+665 - 5M CXP III
+665.00
+26.18
+133
+700 - 5M CXP III
+700.00
+27.56
+140
+710 - 5M CXP III
+710.00
+27.95
+142
+740 - 5M CXP III
+740.00
+29.13
+148
+755 - 5M CXP III
+755.00
+29.72
+151
+800 - 5M CXP III
+800.00
+31.50
+160
+835 - 5M CXP III
+835.00
+32.87
+167
+840 - 5M CXP III
+840.00
+33.08
+168
+860 - 5M CXP III
+860.00
+33.87
+172
+890 - 5M CXP III
+890.00
+35.04
+178
+900 - 5M CXP III
+900.00
+35.43
+180
+925 - 5M CXP III
+925.00
+36.42
+185
+*950 - 5M CXP III
+950.00
+37.40
+190
+1000 - 5M CXP III
+1000.00
+39.37
+200
+1050 - 5M CXP III
+1050.00
+41.34
+210
+1125 - 5M CXP III
+1125.00
+44.29
+225
+1200 - 5M CXP III
+1200.00
+47.24
+240
+1270 - 5M CXP III
+1270.00
+50.00
+254
+1500 - 5M CXP III
+1500.00
+59.06
+300
+1595 - 5M CXP III
+1595.00
+62.82
+319
+1690 - 5M CXP III
+1690.00
+66.56
+338
+1790 - 5M CXP III
+1790.00
+70.50
+358
+1800 - 5M CXP III
+1800.00
+70.89
+360
+1870 - 5M CXP III
+1870.00
+73.65
+374
+2000 - 5M CXP III
+2000.00
+78.77
+400
+2525 - 5M CXP III
+2525.00
+99.44
+505 
+Section 8M
+Section
+Lp (mm)
+Lp (inch)
+z
+288 - 8M CXP III
+288.00
+11.34
+36
+304 - 8M CXP III
+304.00
+11.97
+38
+352 - 8M CXP III
+352.00
+13.86
+44
+376 - 8M CXP III
+376.00
+14.80
+47
+416 - 8M CXP III
+416.00
+16.38
+52
+424 - 8M CXP III
+424.00
+16.69
+53
+472 - 8M CXP III
+472.00
+18.58
+59
+480 - 8M CXP III
+480.00
+18.90
+60
+560 - 8M CXP III
+560.00
+22.05
+70
+600 - 8M CXP III
+600.00
+23.62
+75
+624 - 8M CXP III
+624.00
+24.57
+78
+640 - 8M CXP III
+640.00
+25.20
+80
+656 - 8M CXP III
+656.00
+25.83
+82
+720 - 8M CXP III
+720.00
+28.35
+90
+776 - 8M CXP III
+776.00
+30.55
+97
+784 - 8M CXP III
+784.00
+30.87
+98
+800 - 8M CXP III
+800.00
+31.50
+100
+880 - 8M CXP III
+880.00
+34.65
+110
+912 - 8M CXP III
+912.00
+35.91
+114
+920 - 8M CXP III
+920.00
+36.22
+115
+960 - 8M CXP III
+960.00
+37.80
+120
+1040 - 8M CXP III
+1040.00
+40.94
+130
+1120 - 8M CXP III
+1120.00
+44.09
+140
+1200 - 8M CXP III
+1200.00
+47.24
+150
+1280 - 8M CXP III
+1280.00
+50.39
+160
+1304 - 8M CXP III
+1304.00
+51.34
+163
+1328 - 8M CXP III
+1328.00
+52.28
+166
+1360 - 8M CXP III
+1360.00
+53.54
+170
+1424 - 8M CXP III
+1424.00
+56.06
+178
+1440 - 8M CXP III
+1440.00
+56.69
+180
+1600 - 8M CXP III
+1600.00
+62.99
+200
+1760 - 8M CXP III
+1760.00
+69.29
+220
+1800 - 8M CXP III
+1800.00
+70.87
+225
+2000 - 8M CXP III
+2000.00
+78.74
+250
+2248 - 8M CXP III
+2248.00
+88.50
+281
+2400 - 8M CXP III
+2400.00
+94.49
+300
+2800 - 8M CXP III
+2800.00
+110.24
+350
+*3008 - 8M CXP III
+3008.00
+118.43
+376
+*3408 - 8M CXP III
+3408.00
+134.17
+426
+*3808 - 8M CXP III
+3808.00
+149.92
+476
+Section 14M
+Section
+Lp (mm)
+Lp (inch)
+z
+966 - 14M CXP III
+966.00
+38.03
+69
+1190 - 14M CXP III
+1190.00
+46.85
+85
+1400 - 14M CXP III
+1400.00
+55.12
+100
+1610 - 14M CXP III
+1610.00
+63.39
+115
+1778 - 14M CXP III
+1778.00
+70.00
+127
+1890 - 14M CXP III
+1890.00
+74.41
+135
+2100 - 14M CXP III
+2100.00
+82.68
+150
+2310 - 14M CXP III
+2310.00
+90.94
+165
+2450 - 14M CXP III
+2450.00
+96.46
+175
+2590 - 14M CXP III
+2590.00
+101.97
+185
+2800 - 14M CXP III
+2800.00
+110.24
+200
+3150 - 14M CXP III
+3150.00
+124.02
+225
+3500 - 14M CXP III
+3500.00
+137.80
+250
+3850 - 14M CXP III
+3850.00
+151.57
+275
+4326 - 14M CXP III
+4326.00
+170.31
+309
+4578 - 14M CXP III
+4578.00
+180.24
+327
+
+Size designation (example):
+HTD 960 - 8M - 50 CXA III
+960
+960 mm (37.80 inch) pitch length
+8M
+8 mm (0.31 inch) tooth pitch,
+section HTD
+50
+50 mm (1.97 inch) timing belt width
+CXA III version
+CONTI SYNCHROFORCE CXA III
+Heavy-duty timing belts HTD
+7
+Timing belts  
+z:  number of teeth
+Standard widths for section 14M: 40(1.57), 55(2.17), 85(3.35), 
+115(4.53), 170(6.69) mm(inch) or in sleeves with a standard width of 
+470 mm / 18.51 inch
+Standard widths for section 8M: 20(0.79), 30(1.18), 50(1.97), 85(3.35)
+mm(inch) or in sleeves with a standard width of 480 mm / 18.90 inch 
+Section 8M
+Section
+Lp (mm)
+Lp (inch)
+z
+*288 - 8M CXA III
+288.00
+11.34
+36
+*304 - 8M CXA III
+304.00
+11.97
+38
+*352 - 8M CXA III
+352.00
+13.86
+44
+376 - 8M CXA III
+376.00
+14.80
+47
+*416 - 8M CXA III
+416.00
+16.38
+52
+*424 - 8M CXA III
+424.00
+16.69
+53
+472 - 8M CXA III
+472.00
+18.58
+59
+480 - 8M CXA III
+480.00
+18.90
+60
+560 - 8M CXA III
+560.00
+22.05
+70
+600 - 8M CXA III
+600.00
+23.62
+75
+624 - 8M CXA III
+624.00
+24.57
+78
+640 - 8M CXA III
+640.00
+25.20
+80
+656 - 8M CXA III
+656.00
+25.83
+82
+720 - 8M CXA III
+720.00
+28.35
+90
+776 - 8M CXA III
+776.00
+30.55
+97
+784 - 8M CXA III
+784.00
+30.87
+98
+800 - 8M CXA III
+800.00
+31.50
+100
+880 - 8M CXA III
+880.00
+34.65
+110
+912 - 8M CXA III
+912.00
+35.91
+114
+920 - 8M CXA III
+920.00
+36.22
+115
+960 - 8M CXA III
+960.00
+37.80
+120
+1040 - 8M CXA III
+1040.00
+40.94
+130
+1120 - 8M CXA III
+1120.00
+44.09
+140
+1200 - 8M CXA III
+1200.00
+47.24
+150
+1280 - 8M CXA III
+1280.00
+50.39
+160
+1304 - 8M CXA III
+1304.00
+51.34
+163
+1328 - 8M CXA III
+1328.00
+52.28
+166
+1360 - 8M CXA III
+1360.00
+53.54
+170
+1424 - 8M CXA III
+1424.00
+56.06
+178
+1440 - 8M CXA III
+1440.00
+56.69
+180
+1600 - 8M CXA III
+1600.00
+62.99
+200
+1760 - 8M CXA III
+1760.00
+69.29
+220
+1800 - 8M CXA III
+1800.00
+70.87
+225
+2000 - 8M CXA III
+2000.00
+78.74
+250
+2248 - 8M CXA III
+2248.00
+88.50
+281
+2400 - 8M CXA III
+2400.00
+94.49
+300
+2800 - 8M CXA III
+2800.00
+110.24
+350
+*3008 - 8M CXA III
+3008.00
+118.43
+376
+*3408 - 8M CXA III
+3408.00
+134.17
+426
+*3808 - 8M CXA III
+3808.00
+149.92
+476
+Features
+– Moderately oil-resistant
+– Resistant to temperatures 
+from –20 °C up to +100 °C 
+(depending on application)
+– Non-ageing and ozone-resistant
+– Suitable for tropical climates
+– Electrically conductive (antistatic) 
+to ISO 9563
+* Available on demand
+Section
+t
+hs
+ht
+(mm)
+(mm)
+(mm)
+8M
+8
+5.60
+3.40
+14M
+14
+10.00
+6.10
+Section
+t
+hs
+ht
+(inch)
+(inch)
+(inch)
+8M
+0.31
+0.22
+0.13
+14M
+0.55
+0.39
+0.24
+Section 14M
+Section
+Lp (mm)
+Lp (inch)
+z
+966 - 14M CXA III
+966.00
+38.03
+69
+1190 - 14M CXA III
+1190.00
+46.85
+85
+1400 - 14M CXA III
+1400.00
+55.12
+100
+1610 - 14M CXA III
+1610.00
+63.39
+115
+1778 - 14M CXA III
+1778.00
+70.00
+127
+1890 - 14M CXA III
+1890.00
+74.41
+135
+2100 - 14M CXA III
+2100.00
+82.68
+150
+2310 - 14M CXA III
+2310.00
+90.94
+165
+2450 - 14M CXA III
+2450.00
+96.46
+175
+2590 - 14M CXA III
+2590.00
+101.97
+185
+2800 - 14M CXA III
+2800.00
+110.24
+200
+3150 - 14M CXA III
+3150.00
+124.02
+225
+3500 - 14M CXA III
+3500.00
+137.80
+250
+3850 - 14M CXA III
+3850.00
+151.57
+275
+4326 - 14M CXA III
+4326.00
+170.31
+309
+4578 - 14M CXA III
+4578.00
+180.24
+327 
+
+CONTI SYNCHROBELT®
+Timing belts, DIN 5296
+9
+Timing belts  
+Standard widths for section MXL: 012 (width 3.18/0.13) 019 (width
+4.76/0.19) 025 (width 6.35/0.25) (mm/inch) or in sleeves with a standard
+width of 480 mm / 18.90 inch
+Section MXL
+Section
+Lp (mm)
+Lp (inch)
+z
+*43.2 MXL
+109.73
+4.32
+54
+44.0 MXL
+111.76
+4.40
+55
+44.8 MXL
+113.79
+4.48
+56
+46.4 MXL
+117.86
+4.64
+58
+48.0 MXL
+121.92
+4.80
+60
+*48.8 MXL
+123.95
+4.88
+61
+*50.4 MXL
+128.02
+5.04
+63
+54.4 MXL
+138.18
+5.44
+68
+56.0 MXL
+142.24
+5.60
+70
+56.8 MXL
+144.27
+5.68
+71
+57.6 MXL
+146.30
+5.76
+72
+60.0 MXL
+152.40
+6.00
+75
+61.6 MXL
+156.46
+6.16
+77
+64.0 MXL
+162.56
+6.40
+80
+*65.6 MXL
+166.62
+6.56
+82
+67.2 MXL
+170.69
+6.72
+84
+*68.0 MXL
+172.72
+6.80
+85
+1
+69.6 MXL
+176.78
+6.96
+87
+70.4 MXL
+178.82
+7.04
+88
+72.0 MXL
+182.88
+7.20
+90
+75.2 MXL
+191.01
+7.52
+94
+76.0 MXL
+193.04
+7.60
+95
+77.6 MXL
+197.10
+7.76
+97
+80.0 MXL
+203.20
+8.00
+100
+80.8 MXL
+205.23
+8.08
+101
+82.4 MXL
+209.30
+8.24
+103
+*84.0 MXL
+213.36
+8.40
+105
+84.8 MXL
+215.39
+8.48
+106
+88.0 MXL
+223.52
+8.80
+110
+89.6 MXL
+227.58
+8.96
+112
+90.4 MXL
+229.62
+9.04
+113
+91.2 MXL
+231.65
+9.12
+114
+94.4 MXL
+239.78
+9.44
+118
+96.0 MXL
+243.84
+9.60
+120
+97.6 MXL
+247.90
+9.76
+122
+98.4 MXL
+249.94
+9.84
+123
+100.0 MXL
+254.00
+10.00
+125
+100.8 MXL
+256.03
+10.08
+126
+*105.6 MXL
+268.22
+10.56
+132
+112.0 MXL
+284.48
+11.20
+140
+120.0 MXL
+304.80
+12.00
+150
+*124.0 MXL
+314.96
+12.40
+155
+131.2 MXL
+333.25
+13.12
+164
+*132.0 MXL
+335.28
+13.20
+165
+132.8 MXL
+337.31
+13.28
+166
+136.0 MXL
+345.44
+13.60
+170
+140.0 MXL
+355.60
+14.00
+175
+144.0 MXL
+365.76
+14.40
+180 
+Section MXL
+Section
+Lp (mm)
+Lp (inch)
+z
+147.2 MXL
+373.89
+14.72
+184
+*180.0 MXL
+457.20
+18.00
+225
+188.8 MXL
+479.55
+18.88
+236
+*200.8 MXL
+510.03
+20.08
+251
+*238.4 MXL
+605.54
+23.84
+298
+277.6 MXL
+705.10
+27.76
+347
+*292.0 MXL
+741.68
+29.20
+365
+*296.8 MXL
+753.87
+29.68
+371
+*297.6 MXL
+755.90
+29.76
+372
+*320.0 MXL
+812.80
+32.00
+400
+*329.6 MXL
+837.18
+32.96
+412
+*347.2 MXL
+881.89
+34.72
+434
+*362.4 MXL
+920.50
+36.24
+453
+*370.4 MXL
+940.82
+37.04
+463
+*398.4 MXL
+1011.94
+39.84
+498
+*402.4 MXL
+1022.10
+40.24
+503
+*404.0 MXL
+1026.16
+40.40
+505
+Features
+– Moderately oil-resistant
+– Resistant to temperatures 
+from –20 °C up to +100 °C 
+(depending on application)
+– Non-ageing and ozone-resistant
+– Suitable for tropical climates
+Size designation (example):
+300 L 075
+300
+30 inch (762.0 mm) pitch length
+L
+3/8 inch (9.525 mm) tooth pitch
+075
+0.75 inch (19.05 mm) timing belt width
+Section
+t
+t
+hs
+hs
+ht
+ht
+(mm)
+(inch)
+(mm)
+(inch)
+(mm)
+(inch)
+MXL
+2.032
+0.08
+1.14
+0.04
+0.51
+0.02
+XL
+5.08
+0.2
+2.30
+0.09
+1.27
+0.05
+L
+9.525
+0.375
+3.60
+0.14
+1.91
+0.08
+H
+12.7
+0.5
+4.30
+0.17
+2.29
+0.09
+XH
+22.225
+0.875
+11.20
+0.44
+6.35
+0.25
+z:  number of teeth
+1 sleeve width
+720 mm / 28.35 inch
+* Available on demand
+
+11
+Timing belts  
+CONTI SYNCHROBELTTiming belts, DIN 5296
+Standard widths for section H: 075 (width 19.05/0.75)100 (width 
+25.40/1.00) 150 (width 38.10/1.50) 200 (width 50.80/2.00) 300 (width
+76.20/3.00) (mm/inch) or in sleeves with a standard width of 
+480 mm / 18.90 inch
+Section H
+Section
+Lp (mm)
+Lp (inch)
+z
+240 H
+609.60
+24.00
+48
+255 H
+647.70
+25.50
+51
+270 H
+685.80
+27.00
+54
+300 H
+762.00
+30.00
+60
+330 H
+838.20
+33.00
+66
+*335 H
+850.90
+33.50
+67
+360 H
+914.40
+36.00
+72
+*370 H
+939.80
+37.00
+74
+390 H
+990.60
+39.00
+78
+420 H
+1066.80
+42.00
+84
+450 H
+1143.00
+45.00
+90
+480 H
+1219.20
+48.00
+96
+510 H
+1295.40
+51.00
+102
+540 H
+1371.60
+54.00
+108
+570 H
+1447.80
+57.00
+114
+600 H
+1524.00
+60.00
+120
+630 H
+1600.20
+63.00
+126
+660 H
+1676.40
+66.00
+132
+700 H
+1778.00
+70.00
+140
+*730 H
+1854.20
+73.00
+146
+750 H
+1905.00
+75.00
+150
+800 H
+2032.00
+80.00
+160
+850 H
+2159.00
+85.00
+170
+900 H
+2286.00
+90.00
+180
+1000 H
+2540.00
+100.00
+200
+1100 H
+2794.00
+110.00
+220
+1250 H
+3175.00
+125.00
+250
+1400 H
+3556.00
+140.00
+280
+1700 H
+4318.00
+170.00
+340
+Standard widths for section XH: 200 (width 50.80/2.00) 300 (width
+76.20/3.00) 400 (width 101.60/4.00) 500 (width 127.00/5.00) (mm/inch) 
+or in sleeves with a standard width of 460 mm / 18.11 inch
+Section XH
+Section
+Lp (mm)
+Lp (inch)
+z
+507 XH
+1289.05
+50.75
+58
+*534 XH
+1356.36
+53.40
+61
+560 XH
+1422.40
+56.00
+64
+630 XH
+1600.20
+63.00
+72
+700 XH
+1778.00
+70.00
+80
+770 XH
+1955.80
+77.00
+88
+840 XH
+2133.60
+84.00
+96
+980 XH
+2489.20
+98.00
+112
+1120 XH
+2844.80
+112.00
+128
+1260 XH
+3200.40
+126.00
+144
+1400 XH
+3556.00
+140.00
+160
+1540 XH
+3911.60
+154.00
+176
+1750 XH
+4445.00
+175.00
+200
+* Available on demand
+
+Section 8M
+Section
+Lp (mm)
+Lp (inch)
+z
+1600 - 8M
+1600.00
+62.99
+200
+1760 - 8M
+1760.00
+69.29
+220
+1800 - 8M
+1800.00
+70.87
+225
+2000 - 8M
+2000.00
+78.74
+250
+2248 - 8M
+2248.00
+88.50
+281
+2400 - 8M
+2400.00
+94.49
+300
+2
+*2600 - 8M
+2600.00
+102.36
+325
+2800 - 8M
+2800.00
+110.24
+350
+*3008 - 8M
+3008.00
+118.43
+376
+2
+*3048 - 8M
+3048.00
+120.00
+381
+2
+*3280 - 8M
+3280.00
+129.13
+410
+*3408 - 8M
+3408.00
+134.17
+426
+2
+*3600 - 8M
+3600.00
+141.73
+450
+*3808 - 8M
+3808.00
+149.92
+476
+2
+*4400 - 8M
+4400.00
+173.23
+530
+Section 8M
+Section
+Lp (mm)
+Lp (inch)
+z
+288 - 8M
+288.00
+11.34
+36
+304 - 8M
+304.00
+11.97
+38
+352 - 8M
+352.00
+13.86
+44
+376 - 8M
+376.00
+14.80
+47
+416 - 8M
+416.00
+16.38
+52
+424 - 8M
+424.00
+16.69
+53
+*472 - 8M
+472.00
+18.58
+59
+480 - 8M
+480.00
+18.90
+60
+560 - 8M
+560.00
+22.05
+70
+600 - 8M
+600.00
+23.62
+75
+*624 - 8M
+624.00
+24.57
+78
+640 - 8M
+640.00
+25.20
+80
+656 - 8M
+656.00
+25.83
+82
+720 - 8M
+720.00
+28.35
+90
+*776 - 8M
+776.00
+30.55
+97
+784 - 8M
+784.00
+30.87
+98
+800 - 8M
+800.00
+31.50
+100
+880 - 8M
+880.00
+34.65
+110
+*912 - 8M
+912.00
+35.91
+114
+920 - 8M
+920.00
+36.22
+115
+960 - 8M
+960.00
+37.80
+120
+1040 - 8M
+1040.00
+40.94
+130
+1120 - 8M
+1120.00
+44.09
+140
+1200 - 8M
+1200.00
+47.24
+150
+1280 - 8M
+1280.00
+50.39
+160
+1304 - 8M
+1304.00
+51.34
+163
+*1328 - 8M
+1328.00
+52.28
+166
+1360 - 8M
+1360.00
+53.54
+170
+1424 - 8M
+1424.00
+56.06
+178
+1440 - 8M
+1440.00
+56.69
+180
+2 sleeve width 400 mm / 15.75 inch        *Available on demand
+Section 14M
+Section
+Lp (mm)
+Lp (inch)
+z
+966 - 14M
+966.00
+38.03
+69
+1190 - 14M
+1190.00
+46.85
+85
+1400 - 14M
+1400.00
+55.12
+100
+1610 - 14M
+1610.00
+63.39
+115
+1778 - 14M
+1778.00
+70.00
+127
+1890 - 14M
+1890.00
+74.41
+135
+2100 - 14M
+2100.00
+82.68
+150
+2310 - 14M
+2310.00
+90.94
+165
+2450 - 14M
+2450.00
+96.46
+175
+2590 - 14M
+2590.00
+101.97
+185
+2800 - 14M
+2800.00
+110.24
+200
+3150 - 14M
+3150.00
+124.02
+225
+3500 - 14M
+3500.00
+137.80
+250
+3850 - 14M
+3850.00
+151.57
+275
+4326 - 14M
+4326.00
+170.31
+309
+4578 - 14M
+4578.00
+180.24
+327
+13
+Timing belts  
+CONTI SYNCHROBELTTiming belts HTD
+Standard widths for section 5M: 9(0.35), 15(0.59), 25(0.98) mm (inch) 
+or in sleeves with a standard width of 480 mm / 18.90 inch
+Standard widths for section 8M: 20(0.79), 30(1.18), 50(1.97), 85(3.35)
+mm(inch) or in sleeves with a standard width of 480 mm / 18.90 inch
+Standard widths for section 14M: 40(1.57), 55(2.17), 85(3.35), 
+115(4.53), 170(6.69) mm(inch) or in sleeves with a standard width 
+of 470 mm / 18.51 inch
+Section 5M
+Section
+Lp (mm)
+Lp (inch)
+z
+600 - 5M
+600.00
+23.62
+120
+615 - 5M
+615.00
+24.21
+123
+620 - 5M
+620.00
+24.41
+124
+630 - 5M
+630.00
+24.80
+126
+635 - 5M
+635.00
+25.00
+127
+665 - 5M
+665.00
+26.18
+133
+700 - 5M
+700.00
+27.56
+140
+710 - 5M
+710.00
+27.95
+142
+740 - 5M
+740.00
+29.13
+148
+755 - 5M
+755.00
+29.72
+151
+800 - 5M
+800.00
+31.50
+160
+835 - 5M
+835.00
+32.87
+167
+840 - 5M
+840.00
+33.08
+168
+860 - 5M
+860.00
+33.87
+172
+890 - 5M
+890.00
+35.04
+178
+900 - 5M
+900.00
+35.43
+180
+925 - 5M
+925.00
+36.42
+185
+950 - 5M
+950.00
+37.40
+190
+1000 - 5M
+1000.00
+39.37
+200
+1050 - 5M
+1050.00
+41.34
+210
+1125 - 5M
+1125.00
+44.29
+225
+1200 - 5M
+1200.00
+47.24
+240
+1270 - 5M
+1270.00
+50.00
+254
+1420 - 5M
+1420.00
+55.91
+284
+1500 - 5M
+1500.00
+59.06
+300
+1595 - 5M
+1595.00
+62.82
+319
+1690 - 5M
+1690.00
+66.56
+338
+1800 - 5M
+1800.00
+70.89
+360
+1870 - 5M
+1870.00
+73.65
+374
+2000 - 5M
+2000.00
+78.77
+400
+2525 - 5M
+2525.00
+99.44
+505 
+
+CONTI SYNCHROLINE®
+Open-ended rubber timing belts HTD
+Open-ended rubber timing belts STD
+15
+Timing belts  
+Features
+– Very hard wearing
+– High tensile strength
+– Low noise emission
+– Resistant to temperatures from 
+–20 °C up to +100 °C
+– Tropicalised, ozone-resistant, 
+moderately oil-resistant
+– Weatherproof
+– Maintenance-free
+– Easy to install
+Minimum order quantity - please enquire as to respective roll length
+Size
+Width
+Width
+(mm)
+(inch)
+HTD 5M
+10
+0.39
+12
+0.47
+15
+0.59
+20
+Size
+Width
+Width
+(mm)
+(inch)
+HTD 8M
+10
+0.39
+12
+0.47
+15
+0.59
+20
+Size
+Width
+Width
+(mm)
+(inch)
+STD S8M
+10
+0.39
+12
+0.47
+15
+0.59
+20
+
+CONTI SYNCHROTWIN® CXP III
+Heavy-duty double-sided timing belts DSTD
+17
+Timing belts  
+Features
+– Moderately oil-resistant
+– Resistant to temperatures 
+from –20 °C up to +100 °C 
+(depending on application)
+– Non-ageing and ozone-resistant
+– Suitable for tropical climates
+– Electrically conductive (antistatic) 
+Size designation (example):
+DSTD 960 - S8M - 50 CXP III
+D
+double-sided timing belt
+960
+960 mm (37.80 inch) pitch length
+8M
+8 mm (0.31 inch) tooth pitch,
+section STD
+50
+50 mm (1.97 inch) timing belt width
+CXP III version
+Section
+t
+hs
+ht
+(mm)
+(mm)
+(mm)
+DS8M
+8
+7.30
+3.00
+Section
+t
+hs
+ht
+(inch)
+(inch)
+(inch)
+DS8M
+0.31
+0.29
+0.12
+Standard widths for section DS8M: 20(0.79), 30(1.18), 
+50(1.97), 85(3.35) mm(inch) or in sleeves with a standard width 
+of 430 mm / 16.93 inch
+Section DS8M
+Section
+Lp (mm)
+Lp (inch)
+z
+*600 - DS8M CXP III
+600.00
+23.62
+75
+*632 - DS8M CXP III
+632.00
+24.88
+79
+*640 - DS8M CXP III
+640.00
+25.20
+80
+*656 - DS8M CXP III
+656.00
+25.83
+82
+*672 - DS8M CXP III
+672.00
+26.46
+84
+*688 - DS8M CXP III
+688.00
+27.09
+86
+*696 - DS8M CXP III
+696.00
+27.40
+87
+*712 - DS8M CXP III
+712.00
+28.03
+89
+*720 - DS8M CXP III
+720.00
+28.35
+90
+*728 - DS8M CXP III
+728.00
+28.66
+91
+*736 - DS8M CXP III
+736.00
+28.98
+92
+*760 - DS8M CXP III
+760.00
+29.92
+95
+*768 - DS8M CXP III
+768.00
+30.24
+96
+*784 - DS8M CXP III
+784.00
+30.87
+98
+*792 - DS8M CXP III
+792.00
+31.18
+99
+*800 - DS8M CXP III
+800.00
+31.50
+100
+*824 - DS8M CXP III
+824.00
+32.44
+103
+*848 - DS8M CXP III
+848.00
+33.39
+106
+*864 - DS8M CXP III
+864.00
+34.02
+108
+*880 - DS8M CXP III
+880.00
+34.65
+110
+*912 - DS8M CXP III
+912.00
+35.91
+114
+*920 - DS8M CXP III
+920.00
+36.22
+115
+*944 - DS8M CXP III
+944.00
+37.17
+118
+*960 - DS8M CXP III
+960.00
+37.80
+120
+*992 - DS8M CXP III
+992.00
+39.06
+124
+*1000 - DS8M CXP III
+1000.00
+39.37
+125
+*1056 - DS8M CXP III
+1056.00
+41.57
+132
+*1064 - DS8M CXP III
+1064.00
+41.89
+133
+*1072 - DS8M CXP III
+1072.00
+42.20
+134
+*1120 - DS8M CXP III
+1120.00
+44.09
+140
+*1136 - DS8M CXP III
+1136.00
+44.72
+142
+*1160 - DS8M CXP III
+1160.00
+45.67
+145
+*1168 - DS8M CXP III
+1168.00
+45.98
+146
+*1176 - DS8M CXP III
+1176.00
+46.30
+147
+*1184 - DS8M CXP III
+1184.00
+46.61
+148
+*1200 - DS8M CXP III
+1200.00
+47.24
+150
+*1216 - DS8M CXP III
+1216.00
+47.87
+152
+*1240 - DS8M CXP III
+1240.00
+48.82
+155
+*1256 - DS8M CXP III
+1256.00
+49.45
+157
+*1264 - DS8M CXP III
+1264.00
+49.76
+158
+*1280 - DS8M CXP III
+1280.00
+50.39
+160
+*1296 - DS8M CXP III
+1296.00
+51.02
+162
+*1304 - DS8M CXP III
+1304.00
+51.34
+163
+*1312 - DS8M CXP III
+1312.00
+51.65
+164
+*1344 - DS8M CXP III
+1344.00
+52.91
+168
+*1368 - DS8M CXP III
+1368.00
+53.86
+171
+*1400 - DS8M CXP III
+1400.00
+55.12
+175
+*1408 – DS8M CXP III
+1408.00
+55.43
+176
+Section DS8M
+Section
+Lp (mm)
+Lp (inch)
+z
+*1440 - DS8M CXP III
+1440.00
+56.69
+180
+*1480 - DS8M CXP III
+1480.00
+58.27
+185
+*1512 - DS8M CXP III
+1512.00
+59.53
+189
+*1552 - DS8M CXP III
+1552.00
+61.10
+194
+*1600 - DS8M CXP III
+1600.00
+62.99
+200
+*1624 - DS8M CXP III
+1624.00
+63.94
+203
+*1760 - DS8M CXP III
+1760.00
+69.29
+220
+*1776 - DS8M CXP III
+1776.00
+69.92
+222
+*1800 - DS8M CXP III
+1800.00
+70.87
+225
+*1816 - DS8M CXP III
+1816.00
+71.50
+227
+*1912 - DS8M CXP III
+1912.00
+75.28
+239
+*2240 - DS8M CXP III
+2240.00
+88.19
+280
+*2392 - DS8M CXP III
+2392.00
+94.17
+299
+z:  number of teeth
+* Available on demand
+
+CONTI SYNCHROTWIN®
+Double-sided timing belts DSTD
+19
+Timing belts  
+Features
+– Moderately oil-resistant
+– Resistant to temperatures 
+from –20 °C up to +100 °C 
+(depending on application)
+– Non-ageing and ozone-resistant
+– Suitable for tropical climates
+– Electrically conductive (antistatic) 
+Size designation (example):
+DSTD 960 - S8M - 50 
+D
+double-sided timing belt
+960
+960 mm (37.80 inch) pitch length
+8M
+8 mm (0.31 inch) tooth pitch,
+section STD
+50
+50 mm (1.97 inch) timing belt width
+Section
+t
+hs
+ht
+(mm)
+(mm)
+(mm)
+DS8M
+8
+7.30
+3.00
+Section
+t
+hs
+ht
+(inch)
+(inch)
+(inch)
+DS8M
+0.31
+0.29
+0.12
+Standard widths for section DS8M: 20(0.79), 30(1.18), 
+50(1.97), 85(3.35) mm(inch) or in sleeves with a standard width 
+of 430 mm / 16.93 inch
+Section DS8M
+Section
+Lp (mm)
+Lp (inch)
+z
+*600 - DS8M
+600.00
+23.62
+75
+*632 - DS8M
+632.00
+24.88
+79
+*640 - DS8M
+640.00
+25.20
+80
+*656 - DS8M
+656.00
+25.83
+82
+*672 - DS8M
+672.00
+26.46
+84
+*688 - DS8M
+688.00
+27.09
+86
+*696 - DS8M
+696.00
+27.40
+87
+*712 - DS8M
+712.00
+28.03
+89
+*720 - DS8M
+720.00
+28.35
+90
+*728 - DS8M
+728.00
+28.66
+91
+*736 - DS8M
+736.00
+28.98
+92
+*760 - DS8M
+760.00
+29.92
+95
+*768 - DS8M
+768.00
+30.24
+96
+*784 - DS8M
+784.00
+30.87
+98
+*792 - DS8M
+792.00
+31.18
+99
+*800 - DS8M
+800.00
+31.50
+100
+*824 - DS8M
+824.00
+32.44
+103
+*848 - DS8M
+848.00
+33.39
+106
+*864 - DS8M
+864.00
+34.02
+108
+*880 - DS8M
+880.00
+34.65
+110
+*912 - DS8M
+912.00
+35.91
+114
+*920 - DS8M
+920.00
+36.22
+115
+*944 - DS8M
+944.00
+37.17
+118
+*960 - DS8M
+960.00
+37.80
+120
+*992 - DS8M
+992.00
+39.06
+124
+*1000 - DS8M
+1000.00
+39.37
+125
+*1056 - DS8M
+1056.00
+41.57
+132
+*1064 - DS8M
+1064.00
+41.89
+133
+*1072 - DS8M
+1072.00
+42.20
+134
+*1120 - DS8M
+1120.00
+44.09
+140
+*1136 - DS8M
+1136.00
+44.72
+142
+*1160 - DS8M
+1160.00
+45.67
+145
+*1168 - DS8M
+1168.00
+45.98
+146
+*1176 - DS8M
+1176.00
+46.30
+147
+*1184 - DS8M
+1184.00
+46.61
+148
+*1200 - DS8M
+1200.00
+47.24
+150
+*1216 - DS8M
+1216.00
+47.87
+152
+*1240 - DS8M 
+1240.00
+48.82
+155
+*1256 - DS8M
+1256.00
+49.45
+157
+*1264 - DS8M
+1264.00
+49.76
+158
+*1280 - DS8M
+1280.00
+50.39
+160
+*1296 - DS8M
+1296.00
+51.02
+162
+*1304 - DS8M
+1304.00
+51.34
+163
+*1312 - DS8M
+1312.00
+51.65
+164
+*1344 - DS8M
+1344.00
+52.91
+168
+*1368 - DS8M
+1368.00
+53.86
+171
+*1400 - DS8M
+1400.00
+55.12
+175
+*1408 - DS8M 
+1408.00
+55.43
+176
+Section DS8M
+Section
+Lp (mm)
+Lp (inch)
+z
+*1440 - DS8M
+1440.00
+56.69
+180
+*1480 - DS8M
+1480.00
+58.27
+185
+*1512 - DS8M
+1512.00
+59.53
+189
+*1552 - DS8M
+1552.00
+61.10
+194
+*1600 - DS8M
+1600.00
+62.99
+200
+*1624 - DS8M
+1624.00
+63.94
+203
+*1760 - DS8M
+1760.00
+69.29
+220
+*1776 - DS8M
+1776.00
+69.92
+222
+*1800 - DS8M
+1800.00
+70.87
+225
+*1816 - DS8M
+1816.00
+71.50
+227
+*1912 - DS8M
+1912.00
+75.28
+239
+*2240 - DS8M
+2240.00
+88.19
+280
+*2392 - DS8M
+2392.00
+94.17
+299
+z:  number of teeth
+* Available on demand
+
+Section STD S8M (HP)
+Section
+b (mm)
+b (inch)
+STD S8M
+10.00 
+0.39
+STD S8M
+15.00 
+0.59
+STD S8M
+20.00 
+0.79
+STD S8M
+30.00 
+1.18
+STD S8M
+50.00 
+1.97
+STD S8M
+85.00 
+3.35
+STD S8M
+100.00 
+3.94
+CONTI SYNCHRODRIVE®
+Open-ended polyurethane timing belts HTD
+Open-ended polyurethane timing belts STD
+21
+Timing belts  
+Available tension member versions:
+HP 
+high power
+HF
+high ﬂexibility
+HS
+high stiffness
+XHP
+extremely high power
+Standard roll lengths 30 m. Alternative tension members, 
+belt widths, shorter lengths, fabric coating (PAR/PAZ) as well as 
+pre-joined belts (for lengths > 1000 mm), available on request.
+Section STD S5M (HP)
+Section
+b (mm)
+b (inch)
+STD S5M
+5.00 
+0.20
+STD S5M
+10.00 
+0.39
+STD S5M
+15.00 
+0.59
+STD S5M
+25.00 
+0.98
+STD S5M
+50.00 
+1.97
+Features
+– Oil-resistant
+– Petrol and benzene resistant
+– Resistant to temperatures 
+from –30 °C up to +80 °C. For operational
+temperatures outside this range please
+seek advice from our technical experts.
+– Hard-wearing
+– Resistant to hydrolysis
+– Resistant to UV radiation and ozone
+– Maintenance-free
+Size designation (example):
+M 30 - 8M - 50 HP [PAZ] [PAR]
+8M - 50 HF -V- 2500/98.42(mm/inch)
+M 30 Length of the rolls
+8M
+8 mm (0.31 inch) tooth pitch
+50
+50 mm (1.97 inch) timing belt width
+HP
+Version HP (high power)
+PAZ
+Fabric coating on tooth side 
+(optional)
+PAR
+Fabric coated backing (optional)
+-V-
+Pre-joined belt 
+e.g. with length 2500/98.42 
+(mm/inch)
+Section
+t
+hs
+ht
+(mm)
+(mm)
+(mm)
+HTD 3M
+3
+2.40
+1.30
+HTD 5M
+5
+3.60
+2.10
+HTD 8M
+8
+5.60
+3.40
+HTD 14M
+14
+10.00
+6.10
+STD S5M
+5
+3.40
+1.90
+STD S8M
+8
+5.20
+3.00
+Section
+t
+hs
+ht
+(inch)
+(inch)
+(inch)
+HTD 3M
+0.12
+0.09
+0.04
+HTD 5M
+0.20
+0.14
+0.08
+HTD 8M
+0.31
+0.22
+0.13
+HTD 14M
+0.55
+0.39
+0.24
+STD S5M
+0.20
+0.13
+0.07
+STD S8M
+0.31
+0.20
+0.12
+Section HTD 3M (HP)
+Section
+b (mm)
+b (inch)
+HTD 3M 
+5.00
+0.20
+HTD 3M
+10.00
+0.39
+HTD 3M 
+15.00
+0.59
+HTD 3M
+25.00
+0.98
+HTD 3M
+50.00
+1.97
+Section HTD 5M (HP)
+Section
+b (mm)
+b (inch)
+HTD 5M 
+5.00
+0.20
+HTD 5M
+10.00
+0.39
+HTD 5M 
+15.00
+0.59
+HTD 5M 
+25.00
+0.98
+HTD 5M 
+50.00
+1.97
+Section HTD 8M (HP)
+Section
+b (mm)
+b (inch)
+HTD 8M
+10.00
+0.39
+HTD 8M
+15.00
+0.59
+HTD 8M
+20.00
+0.79
+HTD 8M
+30.00 
+1.18
+HTD 8M
+50.00 
+1.97
+HTD 8M
+85.00 
+3.35
+HTD 8M
+100.00 
+3.94
+Section HTD 14M (HP)
+Section
+b (mm)
+b (inch)
+HTD 14M
+25.00 
+0.98
+HTD 14M
+40.00 
+1.57
+HTD 14M
+55.00 
+2.17
+HTD 14M
+85.00 
+3.35
+HTD 14M
+100.00 
+3.94
+HTD 14M
+120.00 
+4.72
+
+CONTI SYNCHRODRIVE® N 10
+Nubbed belts
+23
+Timing belts  
+Features
+– Oil-resistant
+– Petrol and benzene
+– Resistant to temperatures 
+from –30 °C up to +80 °C. For operational
+temperatures outside this range please
+seek advice from our technical experts.
+– Hard-wearing
+– Resistant to hydrolysis
+– Resistant to UV radiation and ozone
+– Maintenance-free
+Size designation (example):
+M 30 - N10 – 40 HF
+N10 - 40 HF -V- 2500/98.43(mm/inch)
+M 30 Length of the rolls
+N10
+10 mm (0.39 inch) nubbed pitch
+40
+40 mm (1.57 inch) timing belt width
+HF
+Version HF (high ﬂexibility)
+PAN
+Fabric coating on nubbed side 
+(optional)
+PAR
+Fabric coated backing (optional)
+-V-
+Pre-joined belt e.g. with length 
+2500/98.43 (mm/inch)
+Section
+t
+hs
+ht
+(mm)
+(mm)
+(mm)
+N10
+10
+4.5
+2.4
+Section
+t
+hs
+ht
+(inch)
+(inch)
+(inch)
+N10
+0.39
+0.18
+0.10
+N10 HF
+Section
+Version
+Width (mm)
+Width (inch)
+N10 - 10
+HF
+10
+0.39
+N10 - 20
+HF
+20
+0.79
+N10 - 30
+HF
+30
+1.18
+N10 - 40
+HF
+40
+1.57
+N10 - 50
+HF
+50
+1.97
+N10 - 60
+HF
+60
+2.36
+N10 - 70
+HF
+70
+2.76
+N10 - 80
+HF
+80
+3.53
+N10 - 90
+HF
+90
+3.54
+N10 - 100
+HF
+100
+3.94
+
+Section PL
+Lb
+Lb
+Ribs per 
+sleeve
+(mm)
+(1/10 inch)
++/-2
+25
+V-ribbed belts  
+Section PL
+Lb
+Lb
+Ribs per 
+sleeve
+(mm)
+(1/10 inch)
++/-2
+2286 
+900 
+40
+2388 
+940 
+40
+2515 
+990 
+40
+2693 
+1060 
+40
+2832 
+1115 
+40
+2921 
+1150 
+40
+3010 
+1185 
+40
+3124 
+1230 
+40
+3327 
+1310 
+40
+3531 
+1390 
+40
+3734 
+1470 
+40
+4089 
+1610 
+40
+4191 
+1650 
+40
+4470 
+1760 
+40
+4648 
+1830 
+40
+5029 
+1980 
+40
+5410 
+2130 
+40
+6121 
+2410 
+40
+6883 
+2710 
+40
+7646 
+3010 
+40
+8408 
+3310 
+40
+9169 
+3610 
+40
+9931 
+3910 
+40
+10693 
+4210 
+40
+12217 
+4810 
+40
+13741 
+5410 
+40
+15266 
+6010 
+40
+16764 
+6600 
+40
+CONTI-V MULTIRIBPower, Elast Multiple V-ribbed belts
+991 
+390 
+38 
+1041 
+410 
+38
+1149 
+452 
+38
+1168 
+460 
+118
+1194 
+470 
+118
+1219 
+480 
+118
+1270 
+500 
+78
+1295 
+510 
+118
+1321 
+520 
+38
+1334 
+525 
+38
+1346 
+530 
+118
+1372 
+540 
+118
+1397 
+550 
+118
+1422 
+560 
+38
+1435 
+565 
+38
+1473 
+580 
+38
+1499 
+590 
+38
+1562 
+615 
+118
+1613 
+635 
+78
+1651 
+650 
+38
+1664 
+655 
+78
+1715 
+675 
+118
+1765 
+695 
+118
+1803 
+710 
+38
+1841 
+725 
+78
+1943 
+765 
+78
+1956 
+770 
+38
+1981 
+780 
+38
+2019 
+795 
+78
+2070 
+815 
+78
+2096 
+825 
+38
+2134 
+840 
+78
+2195 
+865 
+38
+2235 
+880 
+78
+2324 
+915 
+78
+2362 
+930 
+78
+2477 
+975 
+78
+2515 
+990 
+78
+2705 
+1065 
+78
+2745 
+1080 
+78
+2845 
+1120 
+78
+2895 
+1140 
+78
+2921 
+1150 
+78
+2997 
+1180 
+78
+3085 
+1215 
+78
+3124 
+1230 
+78
+3289 
+1295 
+78
+3327 
+1310 
+78
+3492 
+1375 
+78
+3696 
+1455 
+78
+4051 
+1595 
+78
+4191 
+1650 
+78
+4318
+1700
+78
+4470 
+1760 
+78
+4622 
+1820 
+78
+5029 
+1980 
+78
+5385 
+2120 
+78
+6096 
+2400 
+78
+7055
+2778
+78
+
+27
+V-belts  
+CONTI-VSTANDARD Multiﬂex Wrapped V-belts
+Section 13/A
+Ref.
+Ld (mm)
+Ld (inch)
+Li (mm)
+Li (inch)
+RMA
+6535056
+590 
+23.23
+560 
+22.05
+A 22 
+6535058
+620 
+24.41
+580 
+22.83
+A 23 
+6535060
+640 
+25.20
+600 
+23.62
+A 24 
+6535063
+660 
+25.98
+630 
+24.80
+A 25 
+6535066
+680 
+26.77
+655 
+25.79
+A 26 
+6535067
+700 
+27.56
+670 
+26.38
+A 26.5 
+6535069
+720 
+28.35
+690 
+27.17
+A 27 
+6535071
+740 
+29.13
+710 
+27.95
+A 28 
+6535073
+760 
+29.92
+730 
+28.74
+A 29 
+6535075
+780 
+30.71
+750 
+29.53
+A 29.5 
+6790077
+790 
+31.10
+767 
+30.20
+A 30 
+6535078
+800 
+31.50
+780 
+30.71
+A 30.5 
+6535079
+810 
+31.89
+787 
+30.98
+A 31 
+6535080
+820 
+32.28
+800 
+31.50
+A 31 
+6535081
+840 
+33.07
+813 
+32.01
+A 32 
+6535082
+850 
+33.46
+825 
+32.48
+A 32.5 
+6535084
+870 
+34.25
+838 
+32.99
+A 33 
+6535083
+875 
+34.45
+850 
+33.46
+A 33.5 
+6535086
+880 
+34.65
+855 
+33.66
+A 34 
+6535088
+890 
+35.04
+875 
+34.45
+A 34.5 
+6535089
+920 
+36.22
+889 
+35.00
+A 35 
+6535090
+930 
+36.61
+900 
+35.43
+A 35.5 
+6535092
+940 
+37.01
+914 
+35.98
+A 36 
+6535093
+950 
+37.40
+925 
+36.42
+A 36.5 
+6535095
+970 
+38.19
+950 
+37.40
+A 37.5 
+6535096
+990 
+38.98
+965 
+37.99
+A 38 
+6535094
+1005 
+39.57
+975 
+38.39
+A 38.5 
+6535100
+1020 
+40.16
+1000 
+39.37
+A 39.5 
+6535102
+1050 
+41.34
+1016 
+40.00
+A 40 
+6735103
+1060 
+41.73
+1030 
+40.55
+A 40.5 
+6535104
+1070 
+42.13
+1041 
+40.98
+A 41 
+6535106
+1090 
+42.91
+1060 
+41.73
+A 42  
+Section 10/Z
+Ref.
+Ld (mm)
+Ld (inch)
+Li (mm)
+Li (inch)
+RMA
+6794121
+1240 
+48.82
+1215 
+47.83
+Z 48 
+6534124
+1250 
+49.21
+1230 
+48.43
+Z 48.5 
+6534125
+1270 
+50.00
+1250 
+49.21
+Z 49 
+6594127
+1290 
+50.79
+1270 
+50.00
+Z 50 
+6534130
+1320 
+51.97
+1300 
+51.18
+Z 51 
+6534132
+1340 
+52.76
+1320 
+51.97
+Z 52 
+6594135
+1370 
+53.94
+1346 
+52.99
+Z 53 
+6594137
+1400 
+55.12
+1371 
+53.98
+Z 54 
+6534140
+1420 
+55.91
+1400 
+55.12
+Z 55 
+6534145
+1470 
+57.87
+1450 
+57.09
+Z 57 
+6534147
+1500 
+59.06
+1475 
+58.07
+Z 58 
+6534150
+1520 
+59.84
+1500 
+59.06
+Z 59 
+6534153
+1550 
+61.02
+1525 
+60.04
+Z 60 
+6594155
+1570 
+61.81
+1550 
+61.02
+Z 61 
+6534160
+1620 
+63.78
+1600 
+62.99
+Z 63 
+6594163
+1650 
+64.96
+1626 
+64.02
+Z 64 
+6594165
+1670 
+65.75
+1651 
+65.00
+Z 65 
+6534168
+1700 
+66.93
+1680 
+66.14
+Z 66 
+6534170
+1720 
+67.72
+1700 
+66.93
+Z 67 
+6534173
+1750 
+68.90
+1730 
+68.11
+Z 68 
+6594175
+1770 
+69.69
+1750 
+68.90
+Z 69 
+6534178
+1800 
+70.87
+1780 
+70.08
+Z 70 
+6534180
+1820 
+71.65
+1800 
+70.87
+Z 71 
+6534183
+1850 
+72.83
+1830 
+72.05
+Z 72 
+6594185
+1870 
+73.62
+1850 
+72.83
+Z 73 
+6534190
+1920 
+75.59
+1900 
+74.80
+Z 75 
+6594197
+2000 
+78.74
+1975 
+77.76
+Z 78 
+6534200
+2020 
+79.53
+2000 
+78.74
+Z 79 
+6534208
+2100 
+82.68
+2080 
+81.89
+Z 82 
+6534212
+2140 
+84.25
+2120 
+83.46
+Z 83.5 
+6534224
+2260 
+88.98
+2240 
+88.19
+Z 88 
+6594236
+2380 
+93.70
+2360 
+92.91
+Z 93 
+6534250
+2520 
+99.21
+2500 
+98.43
+Z 98.5 
+Section 13/A
+Ref.
+Ld (mm)
+Ld (inch)
+Li (mm)
+Li (inch)
+RMA
+6790107
+1105 
+43.50
+1075 
+42.32
+A 42.5 
+6535109
+1130 
+44.49
+1090 
+42.91
+A 43 
+6535111
+1135 
+44.69
+1105 
+43.50
+A 43.5 
+6535112
+1150 
+45.28
+1120 
+44.09
+A 44 
+6535114
+1175 
+46.26
+1143 
+45.00
+A 45 
+6535117
+1200 
+47.24
+1168 
+45.98
+A 46 
+6535118
+1210 
+47.64
+1180 
+46.46
+A 46.5 
+6535120
+1230 
+48.43
+1200 
+47.24
+A 47 
+6535122
+1250 
+49.21
+1220 
+48.03
+A 48 
+6535125
+1280 
+50.39
+1250 
+49.21
+A 49 
+6535127
+1300 
+51.18
+1270 
+50.00
+A 50 
+6535130
+1330 
+52.36
+1300 
+51.18
+A 51 
+6535132
+1360 
+53.54
+1320 
+51.97
+A 52 
+6535135
+1380 
+54.33
+1346 
+52.99
+A 53 
+6535137
+1410 
+55.51
+1372 
+54.02
+A 54 
+6535140
+1430 
+56.30
+1400 
+55.12
+A 55 
+6535142
+1460 
+57.48
+1422 
+55.98
+A 56 
+6535145
+1480 
+58.27
+1448 
+57.01
+A 57 
+6535148
+1510 
+59.45
+1475 
+58.07
+A 58 
+6535150
+1530 
+60.24
+1500 
+59.06
+A 59 
+6535153
+1550 
+61.02
+1525 
+60.04
+A 60 
+6535155
+1580 
+62.20
+1550 
+61.02
+A 61 
+6535158
+1610 
+63.39
+1575 
+62.01
+A 62 
+6535160
+1640 
+64.57
+1600 
+62.99
+A 63 
+6535163
+1660 
+65.35
+1625 
+63.98
+A 64 
+6535165
+1690 
+66.54
+1651 
+65.00
+A 65 
+6535168
+1710 
+67.32
+1676 
+65.98
+A 66 
+6535170
+1740 
+68.50
+1700 
+66.93
+A 67 
+6535173
+1760 
+69.29
+1725 
+67.91
+A 68 
+6535175
+1780 
+70.08
+1750 
+68.90
+A 69 
+6535178
+1810 
+71.26
+1780 
+70.08
+A 70 
+6535180
+1840 
+72.44
+1800 
+70.87
+A 71 
+6590182
+1860 
+73.23
+1825 
+71.85
+A 72 
+6535185
+1890 
+74.41
+1854 
+72.99
+A 73 
+6590188
+1920 
+75.59
+1880 
+74.02
+A 74 
+6535190
+1930 
+75.98
+1900 
+74.80
+A 75 
+6590193
+1960 
+77.17
+1930 
+75.98
+A 76 
+6590196
+1990 
+78.35
+1956 
+77.01
+A 77 
+6535197
+2010 
+79.13
+1980 
+77.95
+A 78 
+6535200
+2050 
+80.71
+2000 
+78.74
+A 79
+6535201
+2060 
+81.10
+2010 
+79.13
+A 79.5 
+6535203
+2070 
+81.50
+2030 
+79.92
+A 80 
+6535204
+2080 
+81.89
+2040 
+80.31
+A 80.5 
+6535206
+2090 
+82.28
+2057 
+80.98
+A 81 
+6535208
+2110 
+83.07
+2083 
+82.01
+A 82 
+6535210
+2140 
+84.25
+2100 
+82.68
+A 83 
+6535212
+2150 
+84.65
+2120 
+83.46
+A 83.5 
+6590213
+2160 
+85.04
+2134 
+84.02
+A 84 
+6535215
+2200 
+86.61
+2150 
+84.65
+A 85 
+6535218
+2220 
+87.40
+2184 
+85.98
+A 86 
+6535220
+2240 
+88.19
+2200 
+86.61
+A 87 
+6535224
+2270 
+89.37
+2240 
+88.19
+A 88 
+6590226
+2290 
+90.16
+2261 
+89.02
+A 89 
+6535229
+2320 
+91.34
+2285 
+89.96
+A 90 
+6590231
+2340 
+92.13
+2311 
+90.98
+A 91 
+6590234
+2370 
+93.31
+2337 
+92.01
+A 92 
+6535236
+2400 
+94.49
+2360 
+92.91
+A 93 
+6590239
+2420 
+95.28
+2388 
+94.02
+A 94 
+6590241
+2450 
+96.46
+2413 
+95.00
+A 95 
+6535244
+2480 
+97.64
+2435 
+95.87
+A 96 
+6535248
+2500 
+98.43
+2475 
+97.44
+A 97 
+6535250
+2530 
+99.61
+2500 
+98.43
+A 98 
+6535254
+2570 
+101.18
+2540 
+100.00
+A 100 
+6590259
+2620 
+103.15
+2591 
+102.01
+A 102 
+6515265
+2680 
+105.51
+2650 
+104.33
+A 104 
+6590267
+2700 
+106.30
+2667 
+105.00
+A 105 
+6515273
+2760 
+108.66
+2730 
+107.48
+A 107
+6590274
+2770 
+109.05
+2743 
+107.99
+A 108 
+
+29
+V-belts  
+CONTI-VSTANDARD Multiﬂex Wrapped V-belts
+Section 20/-
+Ref.
+Ld (mm)
+Ld (inch)
+Li (mm)
+Li (inch)
+RMA
+6741190
+1948 
+76.69
+1900 
+74.80
+6741195
+1998 
+78.66
+1950 
+76.77
+6741200
+2048 
+80.63
+2000 
+78.74
+6741206
+2108 
+82.99
+2060 
+81.10
+6741212
+2168 
+85.35
+2120 
+83.46 
+6741224
+2308 
+90.87
+2240 
+88.19 
+6741236
+2408 
+94.80
+2360 
+92.91
+6741250
+2548 
+100.31
+2500 
+98.43
+6741265
+2698 
+106.22
+2650 
+104.33
+6721280
+2848 
+112.13
+2800 
+110.24
+6721300
+3048 
+120.00
+3000 
+118.11
+6721315
+3198 
+125.91
+3150 
+124.02 
+6721335
+3398 
+133.78
+3350 
+131.89
+6721355
+3598 
+141.65
+3550 
+139.76 
+6721375
+3798 
+149.53
+3750 
+147.64
+6721400
+4048 
+159.37
+4000 
+157.48
+6721425
+4298 
+169.21
+4250 
+167.32
+6721450
+4548 
+179.06
+4500 
+177.17 
+6761050
+5048 
+198.74
+5000 
+196.85
+6761053
+5348 
+210.55
+5300 
+208.66
+6761055
+5548 
+218.43
+5500 
+216.54
+6761056
+5648 
+222.36
+5600 
+220.47
+6761060
+6048 
+238.11
+6000 
+236.22 
+6761071
+7148 
+281.42
+7100 
+279.53
+6761080
+8048 
+316.85
+8000 
+314.96
+Section 17/B
+Ref.
+Ld (mm)
+Ld (inch)
+Li (mm)
+Li (inch)
+RMA
+6516325
+3290 
+129.53
+3250 
+127.95
+B 128 
+6591330
+3350 
+131.89
+3302 
+130.00
+B 130 
+6516335
+3400 
+133.86
+3350 
+131.89
+B 132 
+6591338
+3420 
+134.65
+3378 
+132.99
+B 133 
+6591340
+3450 
+135.83
+3404 
+134.02
+B 134 
+6516345
+3500 
+137.80
+3450 
+135.83
+B 136 
+6591350
+3550 
+139.76
+3505 
+137.99
+B 138 
+6516355
+3600 
+141.73
+3550 
+139.76
+B 140 
+6791358
+3620 
+142.52
+3581 
+140.98
+B 141 
+6591360
+3650 
+143.70
+3600 
+141.73
+B 142 
+6516366
+3700 
+145.67
+3658 
+144.02
+B 144 
+6591370
+3740 
+147.24
+3700 
+145.67
+B 146 
+6516375
+3800 
+149.61
+3750 
+147.64
+B 148 
+6591381
+3850 
+151.57
+3810 
+150.00
+B 150 
+6591385
+3890 
+153.15
+3850 
+151.57 
+B 151.5 
+6591386
+3900 
+153.54
+3861 
+152.01
+B 152 
+6591391
+3950 
+155.51
+3912 
+154.02
+B 154 
+6591395
+3990 
+157.09
+3950 
+155.51
+B 156 
+6516400
+4060 
+159.84
+4000 
+157.48
+B 158 
+6591411
+4160 
+163.78
+4115 
+162.01
+B 162 
+6591417
+4210 
+165.75
+4166 
+164.02
+B 164 
+6516420
+4250 
+167.32
+4200 
+165.35
+B 165 
+6516425
+4300 
+169.29
+4250 
+167.32
+B 167 
+6591427
+4310 
+169.68
+4267 
+167.99
+B 168 
+6591432
+4360 
+171.65
+4318 
+170.00
+B 170 
+6516439
+4430 
+174.41
+4394 
+172.99
+B 173 
+6591445
+4500 
+177.17
+4450 
+175.20
+B 175 
+6516450
+4540 
+178.74
+4500 
+177.17
+B 177 
+6716457
+4610 
+181.50
+4572 
+180.00
+B 180 
+6791470
+4740 
+186.61
+4699 
+185.00
+B 185 
+6716475
+4790 
+188.58
+4750 
+187.01
+B 187 
+6791488
+4920 
+193.70
+4877 
+192.01
+B 192 
+6791495
+5000 
+196.85
+4953 
+195.00
+B 195 
+6756050
+5040 
+198.42
+5000 
+196.85
+B 197 
+6756065
+5140 
+202.36
+5100 
+200.79
+B 200 
+6756053
+5340 
+210.24
+5300 
+208.66
+B 209 
+6791054
+5370 
+211.42
+5334 
+210.00
+B 210 
+6756055
+5540 
+218.11
+5500 
+216.54
+B 217 
+6756056
+5640 
+222.05
+5600 
+220.47
+B 220 
+6791058
+5780 
+227.56
+5740 
+225.98
+B 226 
+6756060
+6040 
+237.80
+6000 
+236.22
+B 236 
+6791061
+6070 
+238.98
+6045 
+237.99
+B 238 
+6756069
+6140 
+241.73
+6096 
+240.00
+B 240 
+6756063
+6340 
+249.61
+6300 
+248.03
+B 248 
+6791065
+6540 
+257.48
+6500 
+255.91
+B 256 
+6756067
+6750 
+265.75
+6700 
+263.78
+B 264 
+6791070
+7050 
+277.56
+7000 
+275.59
+B 276 
+6756071
+7150 
+281.50
+7100 
+279.53
+B 280 
+6756066
+8430 
+331.89
+8382 
+330.00
+B 330 
+6756068
+8810 
+346.85
+8763 
+345.00
+B 345 
+Section 22/C
+Ref.
+Ld (mm)
+Ld (inch)
+Li (mm)
+Li (inch)
+RMA
+6742109
+1150 
+45.28
+1090 
+42.91
+C 43 
+6792120
+1260 
+49.61
+1200 
+47.24
+C 47 
+6742122
+1275 
+50.20
+1220 
+48.03
+C 48 
+6742125
+1300 
+51.18
+1250 
+49.21
+C 49 
+6792127
+1320 
+51.97
+1270 
+50.00
+C 50 
+6742129
+1350 
+53.15
+1295 
+50.98
+C 51 
+6742132
+1380 
+54.33
+1320 
+51.97
+C 52 
+6742135
+1410 
+55.51
+1350 
+53.15
+C 53 
+6742140
+1450 
+57.09
+1400 
+55.12
+C 55 
+6792142
+1480 
+58.27
+1425 
+56.10
+C 56 
+6792145
+1510 
+59.45
+1450 
+57.09
+C 57 
+6792147
+1530 
+60.24
+1475 
+58.07
+C 58 
+6742150
+1560 
+61.42
+1500 
+59.06
+C 59 
+6742151
+1580 
+62.20
+1524 
+60.00
+C 60 
+6742155
+1600 
+62.99
+1550 
+61.02
+C 61 
+6742160
+1650 
+64.96
+1600 
+62.99
+C 63 
+6422000
+1680
+66.14
+1625
+63.98
+C 64
+6792165
+1700 
+66.93
+1650 
+64.96
+C 65 
+6792168
+1730 
+68.11
+1676 
+65.98
+C 66 
+6742170
+1760 
+69.29
+1700 
+66.93
+C 67 
+6742173
+1780 
+70.08
+1727 
+67.99
+C 68 
+6792175
+1810 
+71.26
+1750 
+68.90
+C 69 
+6792178
+1830 
+72.05
+1778 
+70.00
+C 70 
+6742180
+1860 
+73.23
+1800 
+70.87
+C 71 
+6792183
+1880 
+74.02
+1829 
+72.01
+C 72 
+6792185
+1910 
+75.20
+1854 
+72.99
+C 73 
+6792188
+1940 
+76.38
+1880 
+74.02
+C 74 
+6742190
+1950 
+76.77
+1900 
+74.80
+C 75 
+6792193
+1980 
+77.95
+1930 
+75.98
+C 76 
+6792196
+2010 
+79.13
+1956 
+77.01
+C 77 
+6792197
+2030 
+79.92
+1981 
+77.99
+C 78 
+6742200
+2060 
+81.10
+2000 
+78.74
+C 79 
+6792203
+2090 
+82.28
+2032 
+80.00
+C 80 
+6742206
+2110 
+83.07
+2057 
+80.98
+C 81 
+6742212
+2180 
+85.83
+2120 
+83.46
+C 83.5 
+6792213
+2190 
+86.22
+2135 
+84.06
+C 84 
+6742216
+2200 
+86.61
+2159 
+85.00
+C 85 
+6792218
+2240 
+88.19
+2184 
+85.98
+C 86 
+6742224
+2300 
+90.55
+2240 
+88.19
+C 88 
+6792226
+2320 
+91.34
+2261 
+89.02
+C 89 
+Section 20/-
+Ref.
+Ld (mm)
+Ld (inch)
+Li (mm)
+Li (inch)
+RMA
+6741090
+948 
+37.32
+900 
+35.43
+6741101
+1048 
+41.26
+1000 
+39.37 
+6741106
+1108 
+43.62
+1060 
+41.73
+6741112
+1168 
+45.98
+1120 
+44.09
+6741118
+1228 
+48.35
+1180 
+46.46
+6741121
+1263 
+49.72
+1215 
+47.83
+6741125
+1298 
+51.10
+1250 
+49.21
+6741128
+1323 
+52.09
+1275 
+50.20 
+6741132
+1368 
+53.86
+1320 
+51.97
+6741140
+1448 
+57.01
+1400 
+55.12
+6741145
+1498 
+58.98
+1450 
+57.09 
+6741150
+1548 
+60.94
+1500 
+59.06
+6741160
+1648 
+64.88
+1600 
+62.99
+6741166
+1708 
+67.24
+1660 
+65.35
+6741171
+1748 
+68.82
+1700 
+66.93 
+
+31
+V-belts  
+CONTI-VSTANDARD Multiﬂex Wrapped V-belts
+Section 32/D
+Ref.
+Ld (mm)
+Ld (inch)
+Li (mm)
+Li (inch)
+RMA
+6793200
+2080 
+81.89
+2000 
+78.74
+D 79 
+6724212
+2200 
+86.61
+2120 
+83.46
+D 83 
+6793236
+2440 
+96.06
+2360 
+92.91
+D 93 
+6724250
+2560 
+100.79
+2500 
+98.43
+D 98 
+6724265
+2720 
+107.09
+2650 
+104.33
+D 104 
+6793267
+2740 
+107.87
+2670 
+105.12
+D 105 
+6724280
+2870 
+112.99
+2800 
+110.24
+D 110 
+6724300
+3070 
+120.87
+3000 
+118.11
+D 118 
+6793305
+3130 
+123.23
+3048 
+120.00
+D 120 
+6724315
+3230 
+127.17
+3150 
+124.02
+D 124 
+6793325
+3330 
+131.10
+3250 
+127.95
+D 128 
+6724335
+3430 
+135.04
+3350 
+131.89
+D 132 
+6793342
+3500 
+137.80
+3425 
+134.84
+D 135 
+6724316
+3530 
+138.98
+3450 
+135.83
+D 136 
+6724355
+3630 
+142.91
+3550 
+139.76
+D 140 
+6793366
+3730 
+146.85
+3658 
+144.02
+D 144 
+6724375
+3830 
+150.79
+3750 
+147.64
+D 148 
+6793381
+3890 
+153.15
+3810 
+150.00
+D 150 
+6724317
+3990 
+157.09
+3910 
+153.94
+D 154 
+6724394
+4020 
+158.27
+3940 
+155.12
+D 155 
+6724400
+4080 
+160.63
+4000 
+157.48
+D 158 
+6724322
+4160 
+163.78
+4075 
+160.43
+D 160 
+6793411
+4190 
+164.96
+4115 
+162.01
+D 162 
+6724425
+4320 
+170.08
+4250 
+167.32
+D 167 
+6793439
+4470 
+175.98
+4394 
+172.99
+D 173 
+6724450
+4570 
+179.92
+4500 
+177.17
+D 177 
+6793457
+4650 
+183.07
+4572 
+180.00
+D 180 
+6724320
+4700 
+185.04
+4620 
+181.89
+D 182 
+6724475
+4830 
+190.16
+4750 
+187.01
+D 187 
+6793482
+4900 
+192.91
+4826 
+190.00
+D 190 
+6793495
+5030 
+198.03
+4953 
+195.00
+D 195 
+6764050
+5080 
+200.00
+5000 
+196.85
+D 197 
+6793051
+5260 
+207.09
+5182 
+204.02
+D 204 
+6793052
+5330 
+209.84
+5258 
+207.01
+D 207 
+6764053
+5360 
+211.02
+5300 
+208.66
+D 209 
+6793054
+5400 
+212.60
+5330 
+209.84
+D 210 
+6764056
+5660 
+222.83
+5600 
+220.47
+D 220 
+6793057
+5790 
+227.95
+5715 
+225.00
+D 225 
+6793058
+5870 
+231.10
+5791 
+227.99
+D 228 
+6764058
+5930 
+233.46
+5850 
+230.31
+D 230 
+6764060
+6070 
+238.98
+6000 
+236.22
+D 236 
+6793061
+6120 
+240.94
+6045 
+237.99
+D 238 
+6793062
+6170 
+242.91
+6096 
+240.00
+D 240 
+6764063
+6370 
+250.79
+6300 
+248.03
+D 248 
+6764067
+6780 
+266.93
+6700 
+263.78
+D 264 
+6793068
+6890 
+271.26
+6807 
+267.99
+D 268 
+6793069
+6940 
+273.23
+6858 
+270.00
+D 270 
+6764071
+7190 
+283.07
+7100 
+279.53
+D 280 
+6724318
+7490 
+294.88
+7417 
+292.01
+D 292 
+6764075
+7590 
+298.82
+7500 
+295.28
+D 295 
+6793076
+7650 
+301.18
+7569 
+297.99
+D 298 
+6793077
+7700 
+303.15
+7620 
+300.00
+D 300 
+6764080
+8080 
+318.11
+8000 
+314.96
+D 315 
+6793083
+8460 
+333.07
+8382 
+330.00
+D 330 
+6764085
+8580 
+337.79
+8500 
+334.65
+D 335 
+6724319
+8840 
+348.03
+8760 
+344.88
+D 345 
+6764090
+9070 
+357.09
+9000 
+354.33
+D 354 
+6793091
+9170 
+361.02
+9093 
+357.99
+D 358 
+6764095
+9580 
+377.17
+9500 
+374.02
+D 374 
+6793097
+9830 
+387.01
+9754 
+384.02
+D 384 
+6793100
+9980 
+392.91
+9906 
+390.00
+D 390 
+6764100
+10080 
+396.85
+10000 
+393.70
+D 394 
+6793101
+10700 
+421.26
+10617 
+417.99
+D 418 
+6724202
+10780 
+424.41
+10700 
+421.26
+D 421 
+6764112
+11280 
+444.09
+11200 
+440.94
+D 441 
+6793121
+12220 
+481.10
+12141 
+477.99
+D 478 
+6764125
+12580 
+495.28
+12500 
+492.13
+D 492 
+Section 40/E
+Ref.
+Ld (mm)
+Ld (inch)
+Li (mm)
+Li (inch)
+RMA
+6765050
+5080 
+200.00
+5000 
+196.85
+E 197 
+6765056
+5670 
+223.23
+5600 
+220.47
+E 220 
+6765071
+7190 
+283.07
+7100 
+279.53
+E 280 
+6765080
+8080 
+318.11
+8000 
+314.96
+E 315 
+6765090
+9070 
+357.09
+9000 
+354.33
+E 354 
+6765100
+10090 
+397.24
+10000 
+393.70
+E 394 
+6765101
+11280 
+444.09
+11200 
+440.94
+E 441 
+
+33
+V-belts  
+Section SPC
+Ref.
+Ld (mm)
+Ld (inch)
+6575203
+2000
+78.74 
+6575212
+2120 
+83.46
+6575227
+2240 
+88.19
+6575239
+2360 
+92.91
+6575253
+2500 
+98.43
+6575268
+2650 
+104.33
+6575283
+2800 
+110.24
+6575303
+3000 
+118.11
+6575318
+3150 
+124.02
+6575338
+3350 
+131.89
+6575358
+3550 
+139.76
+6575378
+3750 
+147.64
+6575403
+4000 
+157.48
+6575428
+4250 
+167.32
+6575453
+4500 
+177.17
+6775478
+4750 
+187.01
+6775503
+5000 
+196.85
+6775508
+5300 
+208.66
+6775563
+5600 
+220.47
+6775504
+6000 
+236.22
+6775630
+6300 
+248.03
+6775505
+6700 
+263.78
+6775506
+7100 
+279.53
+6775511
+7500 
+295.28
+6775507
+8000 
+314.96
+6775510
+8500 
+334.65
+6775564
+9000 
+354.33
+6775509
+9500 
+374.02
+6775560
+10000 
+393.70
+6775211
+10600 
+417.32
+6775567
+11200 
+440.94
+6775565
+12000 
+472.44
+6775566
+12250 
+482.28
+6775568
+12500 
+492.13
+Section 19
+Ref.
+Ld (mm)
+Ld (inch)
+6773125
+1400 
+55.12
+6773150
+1475 
+58.07
+6773162
+1600 
+62.99
+6773170
+1675 
+65.94
+6773175
+1750 
+68.90
+6773190
+1875 
+73.82
+6773192
+1900 
+74.80
+6773215
+2120 
+83.46
+6773250
+2475 
+97.44
+6773251
+2500 
+98.43
+6773270
+2675 
+105.31
+6773282
+2800 
+110.24
+6743238
+4025 
+158.46
+6773450
+4475 
+176.18
+Section SPB
+Ref.
+Ld (mm)
+Ld (inch)
+6774127
+1250 
+49.21
+6774134
+1320 
+51.97
+6797136
+1340 
+52.76
+6674000
+1360 
+53.54
+6774142
+1400 
+55.12
+6797143
+1410 
+55.51
+6774143
+1450 
+57.09
+6774144
+1472 
+57.95
+6574153
+1500 
+59.06
+6574046
+1550
+61.02
+6574162
+1600 
+62.99
+6474000*
+1650
+64.96
+6574172
+1700 
+66.93
+6574180
+1778 
+70.00
+6574182
+1800 
+70.87
+6574188
+1860 
+73.23
+6574192
+1900 
+74.80
+6574193
+1950 
+76.77
+6574202
+2000 
+78.74
+6597203
+2020 
+79.53
+6574050
+2060
+81.10
+6574212
+2098 
+82.60
+6574214
+2120 
+83.46
+6597217
+2150 
+84.65
+6574040
+2180
+85.83
+6574226
+2240 
+88.19
+6574228
+2264 
+89.13
+6597230
+2280 
+89.76
+6574230
+2310 
+90.94
+6574238
+2360 
+92.91
+6574241
+2391 
+94.13
+6597243
+2410 
+94.88
+Section SPA
+Ref.
+Ld (mm)
+Ld (inch)
+6572239
+2360 
+92.91
+6572241
+2382 
+93.78
+6572245
+2432 
+95.75
+6572065
+2475 
+97.44
+6572250
+2482 
+97.72
+6572251
+2500 
+98.43
+6572255
+2532 
+99.69
+6572260
+2582 
+101.65
+6572263
+2607 
+102.64
+6572265
+2632 
+103.62
+6572266
+2650 
+104.33
+6572270
+2682 
+105.59
+6572275
+2732 
+107.56
+6572280
+2782 
+109.53
+6572281
+2800 
+110.24
+6572285
+2832 
+111.50
+6572286
+2847 
+112.09
+6572290
+2882 
+113.46
+6572295
+2932 
+115.43
+6572300
+2982 
+117.40
+6572301
+3000 
+118.11
+6572305
+3032 
+119.37
+6572310
+3082 
+121.34
+6572311
+3150 
+124.02
+6596320
+3182 
+125.28
+6572330
+3282 
+129.21
+6572336
+3350 
+131.89
+6572341
+3550 
+139.76
+6472000
+3650 
+143.70
+6572344
+3750 
+147.64
+6572342
+4000 
+157.48
+6596427
+4250 
+167.32
+6572343
+4500 
+177.17
+Section SPB
+Ref.
+Ld (mm)
+Ld (inch)
+6474000
+2430 
+95.67
+6574252
+2500 
+98.43
+6574253
+2518 
+99.13
+6597255
+2530 
+99.61
+6574267
+2650 
+104.33
+6597270
+2680 
+105.51
+6474000*
+2720
+107.09
+6574282
+2800 
+110.24
+6597286
+2840 
+111.81
+6574036
+2900 
+114.17
+6597301
+2990 
+117.72
+6574302
+3000 
+118.11
+6574309
+3070 
+120.87
+6574317
+3150 
+124.02
+6597319
+3170 
+124.80
+6574327
+3250 
+127.95
+6574337
+3350 
+131.89
+6474000
+3450 
+135.83
+6574357
+3550 
+139.76
+6574302
+3650
+143.70
+6574377
+3750 
+147.64
+6597382
+3800 
+149.61
+6474000
+3870 
+152.36
+6574402
+4000 
+157.48
+6597408
+4060 
+159.84
+6574427
+4250 
+167.32
+6597433
+4310 
+169.69
+6574452
+4500 
+177.17
+6597458
+4560 
+179.53
+6674000
+4620 
+181.89
+6774453
+4750 
+187.01
+6597484
+4820 
+189.76
+6774145
+4842 
+190.63
+6774502
+5000 
+196.85
+6774503
+5058 
+199.13
+6797509
+5070 
+199.61
+6774532
+5300 
+208.66
+6797540
+5380 
+211.81
+6774562
+5600 
+220.47
+6797570
+5680 
+223.62
+6774602
+6000 
+236.22
+6774061
+6300 
+248.03
+6797064
+6340 
+249.61
+6774563
+6500 
+255.91
+6774672
+6700 
+263.78
+6774571
+7100 
+279.53
+6774575
+7500 
+295.28
+6774580
+8000 
+314.96
+Section SPA
+Ref.
+Ld (mm)
+Ld (inch)
+6572046
+1175 
+46.26
+6572120
+1180 
+46.46
+6572123
+1207 
+47.52
+6572047
+1225 
+48.23
+6572125
+1232 
+48.50
+6572048
+1250 
+49.21
+6572128
+1257 
+49.49
+6572129
+1272 
+50.08
+6572130
+1282 
+50.47
+6572049
+1300 
+51.18
+6572133
+1307 
+51.46
+6572132
+1320 
+51.97
+6572135
+1332 
+52.44
+6572138
+1357 
+53.43
+6596139
+1367 
+53.82
+6572050
+1375 
+54.13
+6572140
+1382 
+54.41
+6572051
+1400 
+55.12
+6572143
+1407 
+55.39
+6572052
+1425 
+56.10
+6572145
+1432 
+56.38
+6572148
+1457 
+57.36
+6572150
+1482 
+58.35
+6572053
+1500 
+59.06
+6572153
+1507 
+59.33
+6572054
+1525 
+60.04
+6572155
+1532 
+60.31
+6572157
+1557 
+61.30
+6572160
+1582 
+62.28
+6572055
+1600 
+62.99
+6572163
+1607 
+63.27
+6572165
+1632 
+64.25
+6572168
+1657 
+65.24
+6572056
+1675 
+65.94
+6572170
+1682 
+66.22
+6572057
+1700 
+66.93
+6572173
+1707 
+67.20
+6572175
+1732 
+68.19
+6572176
+1757 
+69.17
+6572180
+1782 
+70.16
+6572058
+1800 
+70.87
+6572183
+1807 
+71.14
+6572185
+1832 
+72.13
+6572188
+1857 
+73.11
+6572190
+1882 
+74.09
+6572059
+1900 
+74.80
+6572193
+1907 
+75.08
+6572060
+1925 
+75.79
+6572195
+1932 
+76.06
+6572194
+1957 
+77.05
+6572200
+1982 
+78.03
+6572201
+2000 
+78.74
+6572202
+2007
+79.02
+6572205
+2032 
+80.00
+6572208
+2057 
+80.98
+6572210
+2082 
+81.97
+6572062
+2120 
+83.46
+6572215
+2132 
+83.94
+6572220
+2182 
+85.91
+6596222
+2207 
+86.89
+6572224
+2227 
+87.68
+6572225
+2232 
+87.87
+6572226
+2240 
+88.19
+6572230
+2282 
+89.84
+6572063
+2300 
+90.55
+6572233
+2307 
+90.83
+6572235
+2332 
+91.81
+6572238
+2357 
+92.80
+CONTI-VSTANDARD Ultraﬂex Wrapped V-belts
+Intermediate lengths and 
+minimum purchase quantities
+available on request.
+
+35
+V-belts  
+Section XPA
+Ref.
+Ld (mm)
+Ld (inch)
+RMA
+6577171
+930 
+36.61
+6577223
+950 
+37.40
+6577173
+960 
+37.80
+6577174
+980 
+38.58
+6577227
+1000 
+39.37
+6577350
+1030 
+40.55
+6577232
+1060 
+41.73
+6577351
+1090 
+42.91
+6577237
+1120 
+44.09
+6577352
+1140 
+44.88
+6577353
+1150 
+45.28
+6577242
+1180 
+46.46
+6577354
+1210 
+47.64
+6577355
+1230 
+48.43
+6577248
+1250 
+49.21
+6577356
+1280 
+50.39
+6577357
+1300 
+51.18
+6577254
+1320 
+51.97
+6577358
+1340 
+52.76
+6577359
+1360 
+53.54
+6577360
+1380 
+54.33
+6577261
+1400 
+55.12
+6577361
+1430 
+56.30
+6577362
+1450 
+57.09
+6577363
+1480 
+58.27
+6577267
+1500 
+59.06
+6577364
+1530 
+60.24
+6577365
+1550 
+61.02
+6577366
+1580 
+62.20
+6577272
+1600 
+62.99
+6577367
+1630 
+64.17
+6577368
+1650 
+64.96
+6577369
+1680 
+66.14
+6577276
+1700 
+66.93
+6577370
+1750 
+68.90
+6577278
+1800 
+70.87
+6577371
+1850 
+72.83
+6577280
+1900 
+74.80
+6577372
+1950 
+76.77
+6577282
+2000 
+78.74
+6577293
+2082
+81.97
+6577283
+2120 
+83.46
+6577284
+2240 
+88.19
+6577285
+2360 
+92.91
+6577286
+2500 
+98.43
+6577287
+2650 
+104.33
+6577288
+2800 
+110.24
+6577289
+3000 
+118.11
+6577290
+3150 
+124.02
+6577291
+3350 
+131.89
+6577292
+3550 
+139.76
+CONTI-V ADVANCE FO-Z Heavy-duty cogged raw edge V-belts
+Section XPB
+Ref.
+Ld (mm)
+Ld (inch)
+RMA
+6577400
+1250 
+49.21
+6577401
+1320 
+51.97
+6577402
+1400
+55.12 
+6570038
+1450
+57.09
+6577403
+1500 
+59.06
+6570113
+1550
+61.02
+6577404
+1600 
+62.99
+6577405
+1700
+66.93 
+6577944
+1750
+68.90
+6577406
+1800 
+70.87
+6577407
+1900 
+74.80
+6570189
+1950
+76.77
+6577408
+2000 
+78.74
+6577176
+2060
+81.10
+6577177
+2100
+82.67
+6577409
+2120 
+83.46
+6577410
+2240 
+88.19
+6577948
+2280
+89.76
+6577411
+2360 
+92.91
+6577666
+2410
+94.88
+6577412
+2500 
+98.43
+6577413
+2650 
+104.33
+6577414
+2800 
+110.24
+6577415
+3000 
+118.11
+6577416
+3150 
+124.02
+6577417
+3350 
+131.89
+6577418
+3550 
+139.76
+Section XPC
+Ref.
+Ld (mm)
+Ld (inch)
+RMA
+6577450
+2000 
+78.74
+6577451
+2120 
+83.46
+6577452
+2240 
+88.19
+6577453
+2360 
+92.91
+6577454
+2500 
+98.43
+6577455
+2650 
+104.33
+6577456
+2800 
+110.24
+6577457
+3000 
+118.11
+6577458
+3150 
+124.02
+6577459
+3350 
+131.89
+6577460
+3550 
+139.76
+* Available on demand
+
+37
+V-belts  
+CONTI-V ADVANCE FO-Z Classic Heavy-duty cogged raw edge V-belts
+Section 10/Z
+Ref.
+Li (mm)
+Li (inch)
+RMA
+6534003
+375 N
+14.76 N 
+6534004
+380 N
+14.96 N 
+6534005
+400 N
+15.75 N 
+6534006
+425 N
+16.73 N 
+6432000 *
+440 N
+17.32 N
+6534010
+450 N
+17.72 N
+Z 17.75 
+6594046
+460 N
+18.11 N
+Z 18 
+6534012
+475 N
+18.70
+Z 18.5 
+6534013
+500 N
+19.69 N
+Z 19.75 
+6534001
+520 N
+20.47 N
+Z 20.5 
+6594052
+525 N
+20.67 N
+6534007
+530 N
+20.87 N
+Z 21 
+6534008
+560 N
+22.05 N
+Z 22 
+6534002
+575 N
+22.64 N
+Z 22.5 
+6594059
+590 N
+23.23 N
+Z 23 
+6534011
+600 N
+23.62 N
+Z 23.5 
+6594061
+615 N
+24.21 N
+Z 24 
+6534009
+630 N
+24.80 N
+Z 25 
+6594065
+650 N
+25.59 N
+Z 25.5 
+6594066
+660 N
+25.98 N
+Z 26 
+6534014
+670 N
+26.38 N
+Z 26.5 
+6594068
+680 N
+26.77 N
+Z 27 
+6432000 *
+700 N
+27.56 N
+6534016
+710 N
+27.95 N
+Z 28 
+6534017
+725 N
+28.54 N
+Z 28.5 
+6534018
+750 N
+29.53 N
+Z 29.5 
+6534019
+765 N
+30.12 N
+Z 30 
+6534020
+775 N
+30.51 N
+Z 30.5 
+6534021
+790 N
+31.10 N
+Z 31 
+6534022
+800 N
+31.50 N
+Z 31.5 
+6534023
+820 N
+32.28 N
+Z 32 
+6534024
+825 N
+32.48 N
+6534025
+840 N
+33.07 N
+Z 33 
+6534026
+850 N
+33.46 N
+Z 33.5 
+6534027
+865 N
+34.06 N
+Z 34 
+6534028
+875 N
+34.45 N
+Z 34.5 
+6534029
+900 N
+35.43 N
+Z 35.5 
+6534030
+925 N
+36.42 N
+Z 36.5 
+6534031
+940 N
+37.01 N
+Z 37 
+6534032
+950 N
+37.40 N
+Z 37.5 
+6534033
+980 N
+38.58 N
+Z 38.5 
+Section 8/-
+Ref.
+Li (mm)
+Li (inch)
+RMA
+6533142
+430 N
+16.93 N
+6533170
+450 
+17.72 
+6533147
+475 N
+18.70 N 
+6533171
+495 
+19.49 
+6533155
+530 
+20.87 
+6533156
+560 N
+22.05 N 
+6533158
+580 N
+22.83 N 
+6533173
+600 
+23.62 
+6533162
+630 N
+24.80 N 
+6533174
+655 N
+25.79 N 
+6533163
+670 N
+26.38 N 
+6533164
+680 N
+26.77 N 
+6533165
+700 N
+27.56 N 
+6533161
+710 N
+27.95 N 
+6533172
+717 N
+28.23 N 
+6533175
+750 N
+29.53 N 
+6533180
+800 N
+31.50 N 
+Section 13/A
+Ref.
+Li (mm)
+Li (inch)
+RMA
+6535001
+400 N
+15.75 N 
+6590041
+407 N
+16.02 N
+6590046
+460 N
+18.11 N
+6432000 *
+475 N
+18.70 N 
+6535002
+483 N
+19.02 N 
+6590051
+508 N
+20.00 N 
+6432000 *
+525 N
+20.67 N 
+6535003
+535 N
+21.06 N 
+6432000 *
+540 N
+21.26 N 
+6535004
+560 N
+22.05 N
+A 22 
+6535005
+580 N
+22.83 N
+A 23 
+6535006
+600 N
+23.62 N
+A 24 
+6535007
+630 N
+24.80 N
+A 25 
+6535008
+655 N
+25.79 N
+A 26 
+6535009
+670 N
+26.38 N
+A 26.5 
+6535010
+690 N
+27.17 N
+A 27 
+6535011
+710 N
+27.95 N
+A 28 
+6535012
+730 N
+28.74 N
+A 29 
+6535013
+750 N
+29.53 N
+A 29.5 
+6535014
+767 N
+30.20 N
+A 30 
+6535015
+780 N
+30.71 N
+A 30.5 
+6535016
+787 N
+30.98 N
+A 31
+* Available on demand
+
+F HP
+Section
+Width (mm)
+Width (inch)
+F10 
+10
+0.39
+F15
+15
+0.59
+F20
+20
+0.79
+F25
+25
+0.98
+F30
+30
+1.18
+F40
+40
+1.57
+F50
+50
+1.97
+F85
+85
+3.35
+F100
+100
+3.94
+CONTI POLYFLAT®
+Open-ended polyurethane ﬂat belts
+39
+Flat belts  
+Size designation (example):
+M 30 F 20 HP
+F 20 HF -V- 2500/98.43 (mm/inch)
+M 30 Length of the rolls
+F
+Flat belt
+20
+20 mm (0.79 inch) timing belt width
+HP
+Version HP (high power)
+Section
+h
+(mm)
+F HP  
+2.30
+(Preferred type)
+F HF *
+2.10
+F HS *
+2.50
+F XHP *
+3.00
+Available tension member versions:
+HP 
+high power
+HF
+high ﬂexibility
+HS
+high stiffness
+XHP
+extremely high power
+Standard roll lengths 30 m. Alternative tension members, 
+belt widths, shorter lengths, fabric coating (PAR/PAZ) as well as 
+pre-joined belts (for lengths > 1000 mm), available on request.
+* Available on demand
+Features
+– Oil-resistant
+– Petrol and benzene
+– Resistant to temperatures 
+from –30 °C up to +80 °C. For operational
+temperatures outside this range please
+seek advice from our technical experts.
+– Hard-wearing
+– Resistant to hydrolysis
+– Resistant to UV radiation and ozone
+– Maintenance-free
+
+41
+Timing belts  
+CONTI VARISPEEDVaridur, Agridur Variable speed belts for variator drives
+Height 10 mm (28°)
+Li (mm) 
+Li (inch)
+1050
+1060
+1073
+1080
+1120
+1160
+1190
+1200
+1220
+1250
+1300
+1320
+1365
+1400
+1500
+1600
+1630
+1652
+1700
+1800
+1810
+1915
+2000
+2065
+2500
+41.34
+41.73
+42.24
+42.52
+44.09
+45.67
+46.85
+47.24
+48.03
+49.21
+51.18
+51.97
+53.74
+55.12
+59.06
+62.99
+64.17
+65.04
+66.93
+70.87
+71.26
+75.39
+78.74
+81.30
+98.43
+Height 16 mm (30°)
+Li (mm) 
+Li (inch)
+1069
+1150
+1180
+1250
+1320
+1400
+1450
+1500
+1525
+1540
+1600
+1700
+1725
+1800
+1900
+1925
+2000
+2100
+2165
+2240
+2425
+2500
+2725
+3075
+42.09
+45.28
+46.46
+49.21
+51.97
+55.12
+57.09
+59.06
+60.04
+60.63
+62.99
+66.93
+67.91
+70.87
+74.80
+75.79
+78.74
+82.68
+85.24
+88.19
+95.47
+98.43
+107.28
+121.06
+Height 22 mm (30°)
+Li (mm) 
+Li (inch)
+1700
+1800
+2000
+2240
+2500
+2800
+3160
+66.93
+70.87
+78.74
+88.19
+98.43
+110.24
+124.41
+Height 25 mm (30°)
+Li (mm) 
+Li (inch)
+1890
+2000
+2118
+2378
+2678
+3028
+3428
+3430
+74.41
+78.74
+83.39
+93.62
+105.43
+119.21
+134.96
+135.04
+Height 18 mm (30°)
+Li (mm) 
+Li (inch)
+1400
+1440
+1600
+1700
+1800
+2000
+2060
+2240
+2500
+2800
+3150
+55.12
+56.69
+62.99
+66.93
+70.87
+78.74
+81.10
+88.19
+98.43
+110.24
+124.02
+Height 20 mm (30°)
+Li (mm) 
+Li (inch)
+1400
+1500
+1600
+1625
+1700
+1710
+1800
+1906
+2000
+2025
+2065
+2146
+2240
+2406
+2500
+2706
+2800
+3056
+3456
+55.12
+59.06
+62.99
+63.98
+66.93
+67.32
+70.87
+75.04
+78.74
+79.72
+81.30
+84.49
+88.19
+94.72
+98.43
+106.54
+110.24
+120.31
+136.06 
+Height 13 mm (28°)
+Li (mm) 
+Li (inch)
+600
+625
+650
+675
+700
+725
+750
+800
+850
+870
+900
+925
+950
+960
+970
+980
+1000
+1025
+1040
+1060
+1120
+1140
+1180
+1188
+1250
+1265
+1320
+1338
+1400
+1500
+1538
+1600
+1700
+1738
+1750
+1800
+1920
+1938
+2000
+2065
+2120
+2178
+2240
+2438
+2476
+2580
+2800
+23.62
+24.61
+25.59
+26.57
+27.56
+28.54
+29.53
+31.50
+33.46
+34.25
+35.43
+36.42
+37.40
+37.80
+38.19
+38.58
+39.37
+40.35
+40.94
+41.73
+44.09
+44.88
+46.46
+46.77
+49.21
+49.80
+51.97
+52.68
+55.12
+59.06
+60.55
+62.99
+66.93
+68.43
+68.90
+70.87
+75.59
+76.30
+78.74
+81.30
+83.46
+85.75
+88.19
+95.98
+97.48
+101.57
+110.24
+Stock items on request
+
+43
+Proﬁle SPZ
+Lw/Lp (mm)
+Lw/Lp (inch)
+900
+912
+925
+937
+950
+987
+1047
+1112
+1120
+1137
+1162
+1180
+1187
+1202
+1212
+1237
+1250
+1262
+1267
+1312
+1320
+1337
+1347
+1362
+1387
+1400
+1412
+1437
+1462
+1487
+1500
+1512
+1537
+1562
+1587
+1600
+1612
+1637
+1662
+1687
+1700
+1737
+1762
+1787
+1800
+1812
+1837
+1862
+1887
+1900
+1937
+1987
+2000
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* 
+35.43
+35.91
+36.42
+36.89
+37.40
+38.86
+41.22
+43.78
+44.09
+44.76
+45.75
+46.46
+46.73
+47.32
+47.72
+48.70
+49.21
+49.69
+49.88
+51.65
+51.97
+52.64
+53.03
+53.62
+54.61
+55.12
+55.59
+56.57
+57.56
+58.54
+59.06
+59.53
+60.51
+61.50
+62.48
+62.99
+63.46
+64.45
+65.43
+66.42
+66.93
+68.39
+69.37
+70.35
+70.87
+71.34
+72.32
+73.31
+74.29
+74.80
+76.26
+78.23
+78.74
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* 
+*
+*
+*
+Proﬁle SPZ
+Lw/Lp (mm)
+Lw/Lp (inch)
+2120
+2137
+2187
+2240
+2262
+2287
+2300
+2360
+2450
+2500
+2650
+2800
+3000
+3150
+3350
+3550
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+83.46
+84.13
+86.10
+88.19
+89.06
+90.04
+90.55
+92.91
+96.46
+98.43
+104.33
+110.24
+118.11
+124.02
+131.89
+139.76
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Proﬁle SPC
+Lw/Lp (mm)
+Lw/Lp (inch)
+2650
+2800
+3000
+3150
+3350
+3550
+3750
+4000
+4250
+4500
+4750
+5000
+5300
+5600
+6000
+6300
+6700
+7100
+7500
+8000
+8500
+9000
+9500
+10000
+10600
+11200
+11800
+12500
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+104.33
+110.24
+118.11
+124.02
+131.89
+139.76
+147.64
+157.48
+167.32
+177.17
+187.01
+196.85
+208.66
+220.47
+236.22
+248.03
+263.78
+279.53
+295.28
+314.96
+334.65
+354.33
+374.02
+393.70
+417.32
+440.94
+464.57
+492.13
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Proﬁle SPB
+Lw/Lp (mm)
+Lw/Lp (inch)
+2000
+2100
+2240
+2360
+2500
+2650
+2800
+3000
+3150
+3350
+3550
+3750
+4000
+4250
+4500
+4750
+5000
+5300
+5600
+6000
+6300
+6700
+7100
+7500
+800
+9500
+10000
+*
+*
+*
+*
+*
+*
+*
+78.74
+82.68
+88.19
+92.91
+98.43
+104.33
+110.24
+118.11
+124.02
+131.89
+139.76
+147.64
+157.48
+167.32
+177.17
+187.01
+196.85
+208.66
+220.47
+236.22
+248.03
+263.78
+279.53
+295.28
+31.50
+374.02
+393.70
+*
+*
+*
+*
+*
+*
+*
+Proﬁle SPA
+Lw/Lp (mm)
+Lw/Lp (inch)
+2182
+2207
+2240
+2282
+2300
+2332
+2360
+2382
+2432
+2482
+2500
+2532
+2582
+2607
+2632
+2650
+2682
+2732
+2782
+2800
+2832
+2847
+2882
+2932
+3000
+3032
+3082
+3150
+3182
+3282
+3350
+3382
+3550
+3750
+4000
+4250
+4500
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+85.91
+86.89
+88.19
+89.84
+90.55
+91.81
+92.91
+93.78
+95.75
+97.72
+98.43
+99.69
+101.65
+102.64
+103.62
+104.33
+105.59
+107.56
+109.53
+110.24
+111.50
+112.09
+113.46
+115.43
+118.11
+119.37
+121.34
+124.02
+125.28
+129.21
+131.89
+133.15
+139.76
+147.64
+157.48
+167.32
+177.17
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Proﬁle SPA
+Lw/Lp (mm)
+Lw/Lp (inch)
+900
+1000
+1107
+1132
+1157
+1180
+1200
+1232
+1250
+1272
+1282
+1300
+1332
+1367
+1382
+1400
+1432
+1457
+1482
+1500
+1532
+1557
+1582
+1600
+1632
+1667
+1682
+1700
+1707
+1732
+1757
+1782
+1800
+1832
+1857
+1882
+1900
+1932
+1957
+1982
+2000
+2032
+2067
+2082
+2120
+2132
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+35.43
+39.37
+43.58
+44.57
+45.55
+46.46
+47.24
+48.50
+49.21
+50.08
+50.47
+51.18
+52.44
+53.82
+54.41
+55.12
+56.38
+57.36
+58.35
+59.06
+60.31
+61.30
+62.28
+62.99
+64.25
+65.63
+66.22
+66.93
+67.20
+68.19
+69.17
+70.16
+70.87
+72.13
+73.11
+74.09
+74.80
+76.06
+77.05
+78.03
+78.74
+80.00
+81.38
+81.97
+83.46
+83.94
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+V-belts  
+CONTI-VMULTIBELT Banded V-belts
+* Available on demand
+
+Heavy-duty raw edge
+cogged V-belts 
+DIN 7753
+CONTI-V ADVANCE FO-Z
+XPZ
+10
+8.5
+4.5
+8
+2.0
+La = Ld + 13
+La = Li + 51
+Li = Ld - 38
+Li = La - 51
+0.072
+XPA
+13
+11.0
+6.8
+9
+2.8
+La = Ld + 18
+La = Li + 57
+Li = Ld - 39
+Li = La - 57
+0.112
+XPB
+16.3
+14.0
+7.3
+13
+3.5
+La = Ld + 22
+La = Li + 82
+Li = Ld - 60
+Li = La - 82
+0.192
+XPC
+22
+19.0
+10.3
+17
+4.8
+La = Ld + 30
+La = Li +107
+Li = Ld - 77
+Li = La -107
+0.370
+Narrow section
+wrapped V-belts 
+DIN  7753
+CONTI-V STANDARD 
+Ultraﬂex
+SPZ*
+9.7
+8.5
+4
+8
+2.0
+La = Ld + 13
+La = Li + 51
+Li = Ld - 38
+Li = La - 51
+0.073
+SPA
+12.7
+11.0
+5.6
+10
+2.8
+La = Ld + 18
+La = Li + 63
+Li = Ld - 45
+Li = La - 63
+0.100
+SPB*
+16.3
+14.0
+7.1
+13
+3.5
+La = Ld + 22
+La = Li + 82
+Li = Ld - 60
+Li = La - 82
+0.178
+19
+18.6
+15.0
+8
+15.7
+3.5
+La = Ld + 22
+La = Li + 99
+Li = Ld - 77
+Li = La - 99
+0.271
+SPC
+22
+19.0
+9.3
+18
+4.8
+La = Ld + 30
+La = Li + 113
+Li = Ld - 83
+Li = La - 113
+0.380
+Classical section
+raw edge V-belts
+DIN 2215
+CONTI-V ADVANCE 
+FO-Z / FO-Z Classic
+5/-
+5
+4.2
+2.9
+3
+1.3
+La = Ld + 8
+La = Li + 19
+Ld = Li + 11
+Ld = La - 8
+0.015
+6/Y
+6
+5.3
+3.2
+4
+1.6
+La = Ld + 10
+La = Li + 25
+Ld = Li + 15
+Ld = La - 10
+0.023
+8/-
+8
+6.7
+4.6
+5
+2.0
+La = Ld + 12
+La = Li + 31
+Ld = Li + 19
+Ld = La - 12
+0.041
+10/Z
+10
+8.5
+5.9
+6
+2.5
+La = Ld + 16
+La = Li + 38
+Ld = Li + 22
+Ld = La - 16
+0.060
+13/A
+13
+11.0
+7.5
+8
+3.3
+La = Ld + 20
+La = Li + 50
+Ld = Li + 30
+Ld = La - 20
+0.105
+Classical section
+wrapped V-belts
+DIN 2215
+CONTI-V STANDARD 
+Multiﬂex
+8/-
+8
+6.7
+4.6
+5
+2.0
+La = Ld + 12
+La = Li + 31
+Ld = Li + 19
+Ld = La - 12
+0.040
+10/Z
+10
+8.5
+5.9
+6
+2.5
+La = Ld + 16
+La = Li + 38
+Ld = Li + 22
+Ld = La - 16
+0.060
+13/A
+13
+11.0
+7.5
+8
+3.3
+La = Ld + 20
+La = Li + 50
+Ld = Li + 30
+Ld = La - 20
+0.105
+17/B
+17
+14.0
+9.4
+11
+4.2
+La = Ld + 26
+La = Li + 69
+Ld = Li + 43
+Ld = La - 26
+0.170
+20/-
+20
+17.0
+11.4
+12.5
+4.8
+La = Ld + 31
+La = Li + 79
+Ld = Li + 48
+Ld = La - 31
+0.240
+22/C
+22
+19.0
+12.4
+14
+5.7
+La = Ld + 36
+La = Li + 88
+Ld = Li + 52
+Ld = La - 36
+0.300
+25/-
+25
+21.0
+14.0
+16
+6.3
+La = Ld + 40
+La = Li + 101
+Ld = Li + 61
+Ld = La - 40
+0.430
+32/D
+32
+27.0
+18.3
+20
+8.1
+La = Ld + 51
+La = Li + 126
+Ld = Li + 75
+Ld = La - 51
+0.630
+40/E
+40
+32.0
+22.8
+25
+12.0
+La = Ld + 75
+La = Li + 157
+Ld = Li + 82
+Ld = La - 75
+0.970
+Conversion table
+CONTIV-belt and 
+CONTIMultiple V-ribbed belts
+V-belts
+Multiple V-ribbed belts
+Conversion table (mm)
+Multible V-ribbed belts
+DIN 7867
+CONTI-V MULTIRIB
+PJ
+2.34
+3.8
+1.2
+Lw = Lb + 8
+0.009
+PK
+3.56
+5.0
+1.5
+Lw = Lb + 10
+0.021
+PL
+4.70
+9.0
+3.0
+Lw = Lb + 19
+0.040
+PM
+9.40
+14.5
+4.0
+Lw = Lb + 25
+0.120
+Nominal
+length
+Nominal
+length
+Nominal
+length
+Nominal
+length
+Nominal
+length
+Belt width (top) 
+Pitch width  
+Belt width (bottom) 
+Belt height
+Pitch height 
+Outer length 
+La
+Datum length 
+Ld
+Inner length
+Li
+Weight 
+(kg/m) 
+Rib pitch
+Belt height
+Reference line
+(difference = mm)
+Reference length 
+Lb
+Pitch length 
+Lw
+Weight per rib 
+(kg/m) 
+Measurements in mm
+Measurements in mm
+45
+
+47
+Conversion table (mm)
+Conversion table
+Variable speed belts and timing belts
+DIN 7719 / ISO 1604
+CONTIVARISPEED 
+Variﬂex
+17/6 (W 16)
+17
+16
+14.2
+6 
+1.5
+26
+La = Ld + 10
+La = Li + 38
+Nomin. length
+Li = La - 38
+Li = Ld- 28
+0.112
+21/7 (W 20)
+21
+20
+17.5
+7
+1.75
+28
+La = Ld + 11
+La = Li + 44
+Nomin. length
+Li = La - 44
+Li = Ld - 33
+0.160
+22/6
+22
+21.3
+19.2
+6
+1.5
+26
+La = Ld + 10
+La = Li+ 38
+La = Li + 28
+Li = La - 10
+Nomin. length
+0.145 
+26/8 (W 25)
+26
+25
+22
+8
+2
+28
+La = Ld + 12
+La = Li + 50
+Nomin. length
+Li = La - 50
+Li = Ld - 33
+0.225
+28/8
+28
+27.1
+24.3
+8
+2
+26
+La = Ld + 12
+La = Li + 50
+Ld = Li + 38
+Li = La - 12
+Nomin. length
+0.245
+33/10 (W 31.5)
+33
+31.5
+28
+10
+2.5
+28
+La = Ld + 16
+La = Li+ 63
+Nomin. length
+Li = La + 63
+Li = Ld - 47
+0.360
+37/10
+37
+35.7
+32
+10
+2.5
+28
+La = Ld + 16
+La = Li+ 63
+La = Li + 47
+Li = La + 16
+Nomin. length
+0.400
+42/13 (W 40)
+42
+40
+35.5
+13
+3.25
+28
+La = Ld + 20
+La = Li + 82
+Nomin. length
+Li = La + 82
+Li = Ld - 62
+0.600
+47/13
+47
+45.4
+40.5
+13
+3.25
+28
+La = Ld + 20
+La = Li + 82
+La = Li + 62
+Li = La + 20
+Nomin. length
+0.675
+52/16 (W 50)
+52
+50
+43.4
+16
+4
+30
+La = Ld + 25
+La = Li + 100
+Nomin. length
+Li = La + 100
+Li = Ld - 75
+0.915
+55/16
+55
+53
+47
+16
+4
+28
+La = Ld + 25
+La = Li + 100
+La = Li + 75
+Li = La + 25
+Nomin. length
+0.915
+65/20 (W 63)
+65
+63
+54.3
+20
+5
+30
+La = Ld + 32
+La = Li+ 126
+Nomin. length
+Li = La + 126
+Li = Ld - 94
+1.430
+83/26 (W 80)
+83
+80
+68.1
+26
+6.5
+32
+La = Ld + 41
+La = Li + 163
+Nomin. length
+Li = La + 163
+Li = Ld - 122
+2.365
+Variable speed belts
+Belt width (top) 
+Pitch width  
+Belt width (bottom) 
+Belt height
+Pitch height 
+Flank 
+Outer length 
+La
+Datum length 
+Ld
+Inner length
+Li
+Weight 
+(kg/m) 
+Measurements in mm
+Timing belts DIN 5296
+CONTI SYNCHROBELT
+MXL
+1.14
+0.51
+1.14
+0.254
+40.0
+XL
+2.30
+1.27
+2.57
+0.254
+50.0
+L
+3.60
+1.91
+4.65
+0.381
+40.0
+H
+4.30
+2.29
+6.12
+0.686
+40.0
+XH
+11.20
+6.35
+12.57
+1.397
+40.0
+Timing belts
+Belt height
+Tooth height 
+Tooth width
+Pitch height
+Flank angle in °
+Measurements in mm
+
+49
+Conversion table (mm)
+Conversion table
+Timing Belts and 
+double-sided timing belts
+Timing belts
+CONTI SYNCHROBELTHTD
+3M
+3
+2.40
+1.20
+1.8
+0.380
+–
+Pitch length in mm
+–
+5M
+5
+3.60
+2.10
+2.9
+0.570
+–
+Pitch length in mm
+–
+8M
+8
+5.60
+3.40
+5.1
+0.686
+–
+Pitch length in mm
+–
+14M
+14
+10.00
+6.10
+8.9
+1.395
+–
+Pitch length in mm
+–
+Timing belts
+CONTI SYNCHROBELTSTD
+S8M
+8
+5.30
+2.95
+5.1
+0.686
+–
+Pitch length in mm
+–
+Double-sided timing belts
+CONTISYNCHROTWIN
+D5M
+5
+5.40
+2.10
+2.90
+0.570
+–
+Pitch length in mm
+–
+D8M
+8
+8.20
+3.40
+5.10
+0.686
+–
+Pitch length in mm
+–
+D14M
+14
+15.20
+6.10
+8.90
+1.395
+–
+Pitch length in mm
+–
+DS8M
+8
+7.30
+3.00
+5.10
+0.686
+–
+Pitch length in mm
+–
+DH
+9.525
+6.00
+2.29
+6.12
+0.686
+40.0
+Pitch length in 1/10 
+Nominal length x 25.4
+Double-sided timing belts
+CONTISYNCHROTWIN
+D5M CXP III
+5
+5.40
+2.10
+2.90
+0.570
+–
+Pitch length in mm
+–
+D8M CXP III
+8
+8.20
+3.40
+5.10
+0.686
+–
+Pitch length in mm
+–
+D14M CXP III
+14
+15.20
+6.10
+8.90
+1.395
+–
+Pitch length in mm
+–
+DS8M CXP III
+8
+7.30
+3.00
+5.10
+0.686
+–
+Pitch length in mm
+–
+Timing belts
+CONTI SYNCHROFORCEHTD
+3M CXP III
+3
+2.40
+1.20
+1.8
+0.380
+–
+Pitch length in mm
+–
+5M CXP III
+5
+3.60
+2.10
+2.9
+0.570
+–
+Pitch length in mm
+–
+8M CXP III
+8
+5.60
+3.40
+5.1
+0.686
+–
+Pitch length in mm
+–
+14M CXP III
+14
+10.00
+6.10
+8.9
+1.395
+–
+Pitch length in mm
+–
+8M CXA III
+8
+5.60
+3.40
+5.1
+0.686
+–
+Pitch length in mm
+–
+14M CXA III
+14
+10.00
+6.10
+8.9
+1.395
+–
+Pitch length in mm
+–
+Timing belts
+CONTI SYNCHROFORCESTD
+S8M CXP III
+8
+5.30
+2.95
+5.1
+0.686
+–
+Pitch length in mm
+–
+S8M CXA III
+8
+5.30
+2.95
+5.1
+0.686
+–
+Pitch length in mm
+–
+Timing belts
+Belt height
+Tooth height
+Tooth width
+Pitch height
+Flank angle in°
+Tooth pitch
+Measurements in mm
+Nominal length
+Pitch length 
+Lw
+
+The ContiTech Division is a 
+development partner and an 
+original equipment supplier to
+many industries, and it provides
+high-grade functional parts, 
+components and systems. 
+With their know-how in rubber
+and plastics technology, the nine
+business units make a contri-
+bution to safe and comfortable
+mobility.
+This is what the ContiTech 
+brand is all about. 
+ContiTech
+Specialist in rubber and 
+plastics technology
+
+---
+
+ContiTech   Specialist in rubber and plastics technology
+ContiTech Antriebssysteme GmbH
+Continentalstraße 1, D-29451 Dannenberg
+Phone +49 5861 806-0
+Fax +49 5861 806-302
+E-Mail: dannenberg@antriebssysteme.contitech.de
+ContiTech Antriebssysteme GmbH 
+Postfach 445, D-30004 Hannover
+Philipsbornstraße 1, D-30165 Hannover
+Phone +49 511 938-71
+Fax +49 511 938-52 32
+Email: industrie.as@antriebssysteme.contitech.de 
+www.contitech.de/antriebssysteme
+Power transmission technology
+worldwide
+ContiTech 
+Antriebssysteme GmbH 
+D-30004 Hannover
+ContiTech-INA GmbH & Co. KG
+Belt Drive Systems
+D-91072 Herzogenaurach
+Continental do Brasil
+Produtos Automotivos Ltda.
+BR-84043-450 Ponta Grossa-Pr
+ContiTech 
+Power Transmission
+Systems Ltd.
+GB - Wigan, WN2 4WZ
+ContiTech Mexicana S.A. de C.V.
+ContiTech Power 
+Transmission Products
+MEX-C.P. 78090 San Luis Potosí, 
+S.L.P.
+ContiTech-Jiebao
+Power Transmission Systems Ltd.
+PRC-315611 Zhejiang
+ContiTech Romania S.R.L.
+Parcul Industrial Freidorf
+ROM-1900 Timisoara
+www.contitech.de
+WT 5500 E  03.05 (DMR)   Printed with CONTI AIR® offset printing blankets on leached paper free of chlorine
+Certifications
+ContiTech service worldwide
+ContiTech 
+Kautschuk- und Kunststoff
+Vertriebsgesellschaft m.b.H.
+Gewerbestraße 14
+A-2351 Wiener Neudorf
+Phone 02236 4 91 01
+Fax 02236 4 91 01 49
+ContiTech Belux
+Industriepark, Molenberglei 24
+B-2627 Schelle
+Phone 03 8 80 71 40
+Fax 03 8 80 71 41
+ContiTech Continental Suisse S.A.
+Lerzenstrasse 19
+CH-8953 Dietikon 1 
+Phone 043 343 20 10
+Fax 043 343 20 11
+ContiTech Antriebssysteme GmbH
+Niederlassung Berlin
+Köpenicker Straße 184
+D-12355 Berlin (Rudow)
+Phone 030-66 92 08 03
+Fax 030-66 92 05 05
+Verkaufsbüro Mitte
+Am Waldstadion 4
+D-37699 Fürstenberg
+Phone 05271-9 58 01
+Fax 05271-59 20
+Verkaufsbüro Süd
+Pfahlbühlstraße 75
+D-71384 Weinstadt
+Phone 07151-96 79 47
+Fax 07151-96 79 48
+Continental Industrias 
+del Caucho S.A. ContiTech
+Cityparc-Ronda de Dalt
+Ctra. de Hospitalet 147
+E-08940 Cornellà (Barcelona)
+Phone 93 480 04 00
+Fax 93 480 04 01
+ContiTech France SNC
+3, rue Fulgence Bienvenue CE 147
+F-92631 Gennevilliers 
+Phone 1 41.47.92.92
+Fax 1 47.92.08.22
+Z.I. de la Silardiére
+F-42500 Le Chambon Feugerolles
+Phone 4 77.10.19.45/46
+Fax 4 77.10.19.71
+ContiTech Power 
+Transmission Systems Ltd.
+Leigh Rd, Hindley Green
+GB-Wigan, WN 2, 4WZ
+Phone 1942 52 55 00
+Fax 1942 52 40 00
+ContiTech AG Shanghai Office
+Rm. 906B Block C
+Orient International Plaza
+No. 85 Lou Shan Guan Lu
+PRC-200335 Shanghai
+Phone 021 62 78 77 38
+Fax 021 62 78 77 40
+ContiTech Scandinavia AB
+Finlandsgatan 14
+S-16493 Kista 
+Phone 08 4 44 13 30
+Fax 08 7 50 55 66
+Continental 
+Tyre and Rubber (S) Ltd.
+298 Tiong Bahru Road
+#02-01 Tower Block
+Tiong Bahru Plaza
+SGP-Singapore 168730
+Phone 6 377 1223
+Fax 6 377 2202
+ContiTech North America, Inc.
+136, Summit Avenue
+USA-Montvale, NJ 07645
+Phone 201 930-0600
+Fax 201 930-0050
+EN ISO 9001
+CERT
+EN ISO 9001
+CERT
+EN ISO 9001
+CERT
+The content of this publication is provided for information only and without res-
+ponsibility. ContiTech AG's obligations and responsibilities regarding its pro-
+ducts are governed solely by the agreements under which they are sold. Un-
+less otherwise agreed in writing, the information contained herein does not
+become part of these agreements. This publication does not contain any gua-
+rantee or agreed quality of ContiTech AG’s products or any warranty of merch-
+antability, fitness for a particular purpose and non-infringement. ContiTech AG
+may make changes in the products or services described at any time without
+notice. This publication is provided on an "as is" basis. To the extent permitted
+by law, ContiTech AG makes no warranty, express or implied, and assumes no
+liability in connection with the use of the information contained in this publica-
+tion. ContiTech AG is not liable for any direct, indirect, incidental, consequen-
+tial or punitive damages arising out of the use of this publication. Information
+contained herein is not intended to announce product availability anywhere in
+the world. © 2005 ContiTech AG. All rights reserved.

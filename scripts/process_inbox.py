@@ -413,7 +413,7 @@ def process_file(file_path: Path, dry_run: bool = False) -> Optional[Dict]:
     info(f"  ID: {article_id}")
     
     # Создаём путь для статьи
-    article_slug = to_kebab_case(title)[:50]  # Ограничиваем длину
+    article_slug = to_kebab_case(title)[:50].strip('-')  # Ограничиваем длину
     article_dir = KB_ROOT / topic / article_slug
     article_readme = article_dir / "README.md"
     
