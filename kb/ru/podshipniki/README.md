@@ -80,7 +80,6 @@ updated: "2026-02-06"
 
 - [Sealed Spherical Roller Bearings](./sealed-spherical-roller-bearings/README.md)
 
-- [Needle Roller Cages for Big End  dup2](./needle-roller-cages-for-big-end-dup2/README.md)
 
 - [Каталог подшипников SNFA.](./katalog-podshipnikov-snfa/README.md)
 
@@ -92,15 +91,12 @@ updated: "2026-02-06"
 
 - [Сферические роликоподшипники FAG](./sfericheskie-rolikopodshipniki-fag/README.md)
 
-- [Needle Roller Bearings  dup2](./needle-roller-bearings-dup2/README.md)
 
 - [Catalogue 2013](./catalogue-2013/README.md)
 
 - [Каталог подшипников IBB.](./katalog-podshipnikov-ibb/README.md)
 
-- [TIMKEN PRODUCTS CATALOG D1  dup2](./timken-products-catalog-d1-dup2/README.md)
 
-- [brands (2)  dup2](./brands-2-dup2/README.md)
 
 - [Каталог подшипников IBC.](./katalog-podshipnikov-ibc/README.md)
 
@@ -108,7 +104,6 @@ updated: "2026-02-06"
 
 - [Каталог подшипников NMB.](./katalog-podshipnikov-nmb/README.md)
 
-- [Каталог зубчатых шестерен без ступицы  dup2](./katalog-zubchatyh-shesteren-bez-stupitsy-dup2/README.md)
 
 - [Каталог подшипников SNH](./katalog-podshipnikov-snh/README.md)
 
@@ -120,13 +115,11 @@ updated: "2026-02-06"
 
 - [Автомобильные комплекты подшипников SKF, FAG, SNR, TIMKEN, FERSA A&S, QH   Подшипники в Беларуси](./avtomobilnye-komplekty-podshipnikov-skf-fag-snr-ti/README.md)
 
-- [Игольчатые роликоподшипники NTN  dup2](./igolchatye-rolikopodshipniki-ntn-dup2/README.md)
 
 - [High precision ball bearings](./high-precision-ball-bearings/README.md)
 
 - [Крестовины карданного вала и крестовины вала рулевого управления   Подшипники в Беларуси](./krestoviny-kardannogo-vala-i-krestoviny-vala-rulev/README.md)
 
-- [Caged Roller Bearings  dup2](./caged-roller-bearings-dup2/README.md)
 
 - [Каталог сверхточных подшипников NSK.](./katalog-sverhtochnyh-podshipnikov-nsk/README.md)
 
@@ -134,7 +127,6 @@ updated: "2026-02-06"
 
 - [Каталог десятого подшипникового завода](./katalog-desyatogo-podshipnikovogo-zavoda/README.md)
 
-- [CYLINDRICAL ROLLER BEARING CATALOG  dup2](./cylindrical-roller-bearing-catalog-dup2/README.md)
 
 - [Каталог подшипников LSA GROUP INC для грузовой автотехники.](./katalog-podshipnikov-lsa-group-inc-dlya-gruzovoy-a/README.md)
 
@@ -162,7 +154,6 @@ updated: "2026-02-06"
 
 - [Из чего состоит подшипник   Подшипники в Беларуси](./iz-chego-sostoit-podshipnik-podshipniki-v-belarusi/README.md)
 
-- [High precision ball bearings  dup2](./high-precision-ball-bearings-dup2/README.md)
 
 - [Общий каталог подшипников Kaydon.](./obschiy-katalog-podshipnikov-kaydon/README.md)
 
@@ -182,7 +173,6 @@ updated: "2026-02-06"
 
 - [Каталог подшипников качения NSK](./katalog-podshipnikov-kacheniya-nsk/README.md)
 
-- [Deep groove Ball Bearings  dup2](./deep-groove-ball-bearings-dup2/README.md)
 
 - [Шарнирные подшипников INA. Шарнирные головки INA.](./sharnirnye-podshipnikov-ina-sharnirnye-golovki-ina/README.md)
 
@@ -198,7 +188,6 @@ updated: "2026-02-06"
 
 - [Каталог  сверхпрецизионных подшипников Myonic.](./katalog-sverhpretsizionnyh-podshipnikov-myonic/README.md)
 
-- [www.craft bearings.com  dup2](./wwwcraft-bearingscom-dup2/README.md)
 
 - [Каталог подшипников KRW](./katalog-podshipnikov-krw/README.md)
 
@@ -208,9 +197,7 @@ updated: "2026-02-06"
 
 - [Каталог сверхточных подшипников NSK.](./katalog-sverhtochnyh-podshipnikov-nsk/README.md)
 
-- [Machined Type Caged Needle Roller Bearings  dup2](./machined-type-caged-needle-roller-bearings-dup2/README.md)
 
-- [Корпусные подшипниковые узлы Nke  dup2](./korpusnye-podshipnikovye-uzly-nke-dup2/README.md)
 
 - [Каталог MARKES. Ролики конвейерные.](./katalog-markes-roliki-konveyernye/README.md)
 
@@ -228,15 +215,12 @@ updated: "2026-02-06"
 
 - [Гибридные подшипники   Подшипники в Беларуси   Aprom](./gibridnye-podshipniki-podshipniki-v-belarusi-aprom/README.md)
 
-- [TIMKEN ENGINEERING MANUAL  dup2](./timken-engineering-manual-dup2/README.md)
 
-- [TIMKEN ANGULAR CONTACT BALL BEARING CATALOG  dup2](./timken-angular-contact-ball-bearing-catalog-dup2/README.md)
 
 - [Каталог подшипников IBB.](./katalog-podshipnikov-ibb/README.md)
 
 - [Каталог подшипников HARP.](./katalog-podshipnikov-harp/README.md)
 
-- [Precision Rolling Bearings  dup2](./precision-rolling-bearings-dup2/README.md)
 
 - [Каталог игольчатых роликовых подшипников IKO.](./katalog-igolchatyh-rolikovyh-podshipnikov-iko/README.md)
 
@@ -246,7 +230,6 @@ updated: "2026-02-06"
 
 - [LARGE BEARINGS](./large-bearings/README.md)
 
-- [Ball Bearings  dup2](./ball-bearings-dup2/README.md)
 
 - [Machined Type Caged Needle Roller Bearings](./machined-type-caged-needle-roller-bearings/README.md)
 
@@ -270,7 +253,6 @@ updated: "2026-02-06"
 
 - [Needle Roller Bearings with Thrust Ball Bearing  dup2](./needle-roller-bearings-with-thrust-ball-bearing-du/README.md)
 
-- [brands (2)  dup3](./brands-2-dup3/README.md)
 
 - [Каталог подшипников Fersa для легковых автомобилей](./katalog-podshipnikov-fersa-dlya-legkovyh-avtomobil/README.md)
 
@@ -278,23 +260,19 @@ updated: "2026-02-06"
 
 - [Precision Rolling Bearings](./precision-rolling-bearings/README.md)
 
-- [Шариковые и роликовые подшипники NTN  dup2](./sharikovye-i-rolikovye-podshipniki-ntn-dup2/README.md)
 
 - [Шарнирные подшипников INA. Шарнирные головки INA.](./sharnirnye-podshipnikov-ina-sharnirnye-golovki-ina/README.md)
 
 - [Каталог подшипниковых узлов ASAHI.](./katalog-podshipnikovyh-uzlov-asahi/README.md)
 
-- [Каталог зубчатых шестерен со ступицей  dup3](./katalog-zubchatyh-shesteren-so-stupitsey-dup3/README.md)
 
 - [Каталог подшипников для экстремальных температур BECO.](./katalog-podshipnikov-dlya-ekstremalnyh-temperatur/README.md)
 
-- [Bearings for  dup2](./bearings-for-dup2/README.md)
 
 - [Ball Bearings](./ball-bearings/README.md)
 
 - [SKF spherical plain](./skf-spherical-plain/README.md)
 
-- [SKF composite  dup2](./skf-composite-dup2/README.md)
 
 - [Фильтра   Подшипники в Беларуси](./filtra-podshipniki-v-belarusi/README.md)
 
@@ -302,7 +280,6 @@ updated: "2026-02-06"
 
 - [Deep groove Ball Bearings](./deep-groove-ball-bearings/README.md)
 
-- [Каталог зубчатых шестерен со ступицей  dup2](./katalog-zubchatyh-shesteren-so-stupitsey-dup2/README.md)
 
 - [Каталог части номенклатуры подшипников FAG, INA.](./katalog-chasti-nomenklatury-podshipnikov-fag-ina/README.md)
 
@@ -316,7 +293,6 @@ updated: "2026-02-06"
 
 - [Угол контакта - подшипники шариковые радиально-упорные однорядные.](./ugol-kontakta-podshipniki-sharikovye-radialno-upor/README.md)
 
-- [CRAFT BEARINGS QUALITY CONTROL  dup2](./craft-bearings-quality-control-dup2/README.md)
 
 - [Хранение и упаковка подшипников   Подшипники в Беларуси](./hranenie-i-upakovka-podshipnikov-podshipniki-v-bel/README.md)
 
@@ -328,7 +304,6 @@ updated: "2026-02-06"
 
 - [Каталог подшипников NMB.](./katalog-podshipnikov-nmb/README.md)
 
-- [Высокотемпературные подшипники skf  dup2](./vysokotemperaturnye-podshipniki-skf-dup2/README.md)
 
 - [Каталог систем линейного перемещения ABBA](./katalog-sistem-lineynogo-peremescheniya-abba/README.md)
 
@@ -336,7 +311,6 @@ updated: "2026-02-06"
 
 - [Needle Roller Bearings](./needle-roller-bearings/README.md)
 
-- [ПОДШИПНИКИ  dup2](./podshipniki-dup2/README.md)
 
 - [Каталог подшипников KDF.](./katalog-podshipnikov-kdf/README.md)
 
@@ -358,7 +332,6 @@ updated: "2026-02-06"
 
 - [Needle Roller Bearings with Thrust Ball Bearing](./needle-roller-bearings-with-thrust-ball-bearing/README.md)
 
-- [Separable Roller Followers  dup2](./separable-roller-followers-dup2/README.md)
 
 - [10-32](./10-32/README.md)
 
@@ -372,7 +345,6 @@ updated: "2026-02-06"
 
 - [Нагрузка на подшипники](./nagruzka-na-podshipniki/README.md)
 
-- [High Rigidity Type Crossed Roller Bearings V  dup2](./high-rigidity-type-crossed-roller-bearings-v-dup2/README.md)
 
 - [Хранение и упаковка подшипников](./hranenie-i-upakovka-podshipnikov/README.md)
 
@@ -386,11 +358,8 @@ updated: "2026-02-06"
 
 - [Каталог подшипников NKE.](./katalog-podshipnikov-nke/README.md)
 
-- [ROlling Bearings  dup2](./rolling-bearings-dup2/README.md)
 
-- [SKF spherical plain  dup2](./skf-spherical-plain-dup2/README.md)
 
-- [Radial insert ball bearings  dup2](./radial-insert-ball-bearings-dup2/README.md)
 
 - [Каталог подшипников SNH](./katalog-podshipnikov-snh/README.md)
 
@@ -402,7 +371,6 @@ updated: "2026-02-06"
 
 - [Каталог подшипниковых узлов ASAHI.](./katalog-podshipnikovyh-uzlov-asahi/README.md)
 
-- [Подшипники SKF  dup2](./podshipniki-skf-dup2/README.md)
 
 - [NSK high performance bearings help to maximize uptime](./nsk-high-performance-bearings-help-to-maximize-upt/README.md)
 
@@ -412,9 +380,7 @@ updated: "2026-02-06"
 
 - [КИТАЙСКИЕ ПОДШИПНИКИ](./kitayskie-podshipniki/README.md)
 
-- [APTM Bearings for Industrial Applications  dup2](./aptm-bearings-for-industrial-applications-dup2/README.md)
 
-- [Experts in Bearing Solutions  dup2](./experts-in-bearing-solutions-dup2/README.md)
 
 - [Автомобильные комплекты подшипников SKF, FAG, SNR, TIMKEN, FERSA A&S, QH](./avtomobilnye-komplekty-podshipnikov-skf-fag-snr-ti/README.md)
 
@@ -430,9 +396,7 @@ updated: "2026-02-06"
 
 - [Обгонные муфты INA - HF, HFL.](./obgonnye-mufty-ina-hf-hfl/README.md)
 
-- [Каталог зубчатых шестерен без ступицы  dup3](./katalog-zubchatyh-shesteren-bez-stupitsy-dup3/README.md)
 
-- [Игольчатые роликоподшипники NTN  dup3](./igolchatye-rolikopodshipniki-ntn-dup3/README.md)
 
 - [BALL BEARING](./ball-bearing/README.md)
 
@@ -444,7 +408,6 @@ updated: "2026-02-06"
 
 - [Сферические роликоподшипники FAG](./sfericheskie-rolikopodshipniki-fag/README.md)
 
-- [Шариковые и роликовые подшипники NTN  dup3](./sharikovye-i-rolikovye-podshipniki-ntn-dup3/README.md)
 
 - [Каталог игольчатых подшипников NBS.](./katalog-igolchatyh-podshipnikov-nbs/README.md)
 
@@ -452,31 +415,25 @@ updated: "2026-02-06"
 
 - [Общий каталог подшипников MONTON](./obschiy-katalog-podshipnikov-monton/README.md)
 
-- [TIMKEN DEEP GROOVE BALL BEARING CATALOG  dup2](./timken-deep-groove-ball-bearing-catalog-dup2/README.md)
 
 - [brands (2)](./brands-2/README.md)
 
 - [Каталог подшипников GAMET BEARINGS.](./katalog-podshipnikov-gamet-bearings/README.md)
 
-- [Slewing bearings  dup2](./slewing-bearings-dup2/README.md)
 
 - [Каталог подшипников Fersa.](./katalog-podshipnikov-fersa/README.md)
 
 - [Шариковая опора   Подшипники в Беларуси   Aprom](./sharikovaya-opora-podshipniki-v-belarusi-aprom/README.md)
 
-- [ПОДШИПНИКОВ  dup2](./podshipnikov-dup2/README.md)
 
 - [Каталог тонких подшипников подшипников Kaydon высокоточной серии Reali-Slim.](./katalog-tonkih-podshipnikov-podshipnikov-kaydon-vy/README.md)
 
-- [SKF heavy duty  dup2](./skf-heavy-duty-dup2/README.md)
 
 - [NSK high performance bearings help to maximize uptime  dup2](./nsk-high-performance-bearings-help-to-maximize-upt/README.md)
 
-- [Sealed Spherical Roller Bearings  dup2](./sealed-spherical-roller-bearings-dup2/README.md)
 
 - [Каталог зубчатых шестерен с каленом зубом и со ступицей  dup2](./katalog-zubchatyh-shesteren-s-kalenom-zubom-i-so-s/README.md)
 
-- [LARGE BEARINGS  dup2](./large-bearings-dup2/README.md)
 
 - [Общий каталог подшипников SKF](./obschiy-katalog-podshipnikov-skf/README.md)
 
@@ -484,11 +441,9 @@ updated: "2026-02-06"
 
 - [Cross Roller Ring Series](./cross-roller-ring-series/README.md)
 
-- [ПОДШИПНИКОВЫЕ  dup2](./podshipnikovye-dup2/README.md)
 
 - [Корпусные подшипники skf](./korpusnye-podshipniki-skf/README.md)
 
-- [www.fersa.com  dup2](./wwwfersacom-dup2/README.md)
 
 - [Подшипниковые заводы на территории СНГ](./podshipnikovye-zavody-na-territorii-sng/README.md)
 
