@@ -19,7 +19,6 @@ updated: 2026-02-07
 
 - [Сводный файл (продолжение) — часть 5](./svodnyy-fayl-prodolzhenie-chast-5/README.md)
 
-- [Каталог звезд CHIARAVALLI  dup2](./katalog-zvezd-chiaravalli-dup2/README.md)
 
 - [Каталог подшипников ZVL Slovakia.](./katalog-podshipnikov-zvl-slovakia/README.md)
 
@@ -33,19 +32,15 @@ updated: 2026-02-07
 
 - [TIMKEN METRIC TAPERED ROLLER BEARINGS](./timken-metric-tapered-roller-bearings/README.md)
 
-- [Каталог ремней Gates  dup2](./katalog-remney-gates-dup2/README.md)
 
 - [Аналоги подшипников ГОСТ   ISO](./analogi-podshipnikov-gost-iso/README.md)
 
-- [Machined needle roller bearings  dup2](./machined-needle-roller-bearings-dup2/README.md)
 
-- [Hybrid Bearing Units for Special Environments  dup2](./hybrid-bearing-units-for-special-environments-dup2/README.md)
 
 - [Каталог промышленных приводных ремней Optibelt.](./katalog-promyshlennyh-privodnyh-remney-optibelt/README.md)
 
 - [Spindle Bearings](./spindle-bearings/README.md)
 
-- [Каталог ремней CONTITECH  dup3](./katalog-remney-contitech-dup3/README.md)
 
 - [Tapered Roller Bearings RBC Tapered Thrust Bearings](./tapered-roller-bearings-rbc-tapered-thrust-bearing/README.md)
 
@@ -53,7 +48,6 @@ updated: 2026-02-07
 
 - [Rolling bearings(1)](./rolling-bearings1/README.md)
 
-- [Корпусные подшипники skf  dup2](./korpusnye-podshipniki-skf-dup2/README.md)
 
 - [Hybrid Bearing Units for Special Environments](./hybrid-bearing-units-for-special-environments/README.md)
 
@@ -65,15 +59,11 @@ updated: 2026-02-07
 
 - [Зазор в подшипниках качения](./zazor-v-podshipnikah-kacheniya/README.md)
 
-- [Каталог втулок скольжения ISB  dup3](./katalog-vtulok-skolzheniya-isb-dup3/README.md)
 
-- [www.ntn snr.com  dup2](./wwwntn-snrcom-dup2/README.md)
 
 - [ROlling Bearings](./rolling-bearings/README.md)
 
-- [Высокотемпературные подшипники skf  dup3](./vysokotemperaturnye-podshipniki-skf-dup3/README.md)
 
-- [Cross Roller Ring Series  dup2](./cross-roller-ring-series-dup2/README.md)
 
 - [Сводный файл (продолжение) — часть 2](./svodnyy-fayl-prodolzhenie-chast-2/README.md)
 
@@ -91,9 +81,7 @@ updated: 2026-02-07
 
 - [SPHERICAL ROLLER](./spherical-roller/README.md)
 
-- [Каталог ремней Elatech  dup3](./katalog-remney-elatech-dup3/README.md)
 
-- [Каталог зубчатых реек  dup3](./katalog-zubchatyh-reek-dup3/README.md)
 
 - [Шкивы SKF для узких клиновых ремней.](./shkivy-skf-dlya-uzkih-klinovyh-remney/README.md)
 
@@ -103,7 +91,6 @@ updated: 2026-02-07
 
 - [Thrust Needle Roller Bearings](./thrust-needle-roller-bearings/README.md)
 
-- [Каталог звезд Sati  dup2](./katalog-zvezd-sati-dup2/README.md)
 
 - [Подшипник с перекрестными роликами](./podshipnik-s-perekrestnymi-rolikami/README.md)
 
@@ -115,15 +102,12 @@ updated: 2026-02-07
 
 - [Каталог звезд со ступицей под расточку A стандарта ASA ANSI  dup3](./katalog-zvezd-so-stupitsey-pod-rastochku-a-standar/README.md)
 
-- [cepi dlja selhoztehniki skf  dup2](./cepi-dlja-selhoztehniki-skf-dup2/README.md)
 
 - [Генеральный каталог EPK.](./generalnyy-katalog-epk/README.md)
 
 - [Аналоги подшипников ГОСТ   ISO   Подшипники в Беларуси](./analogi-podshipnikov-gost-iso-podshipniki-v-belaru/README.md)
 
-- [Shell Type Caged Needle Roller Bearings  dup2](./shell-type-caged-needle-roller-bearings-dup2/README.md)
 
-- [cepi dlja selhoztehniki skf  dup3](./cepi-dlja-selhoztehniki-skf-dup3/README.md)
 
 - [Маркировка подшипников](./markirovka-podshipnikov/README.md)
 
@@ -131,7 +115,6 @@ updated: 2026-02-07
 
 - [Каталог подшипников RBC.](./katalog-podshipnikov-rbc/README.md)
 
-- [Корпусные подшипниковые узлы Nke  dup3](./korpusnye-podshipnikovye-uzly-nke-dup3/README.md)
 
 - [Isolates Vibration](./isolates-vibration/README.md)
 
@@ -141,7 +124,6 @@ updated: 2026-02-07
 
 - [Catalogue GLF 1P](./catalogue-glf-1p/README.md)
 
-- [Каталог втулок скольжения ISB  dup2](./katalog-vtulok-skolzheniya-isb-dup2/README.md)
 
 - [Machined needle roller bearings](./machined-needle-roller-bearings/README.md)
 
@@ -149,7 +131,6 @@ updated: 2026-02-07
 
 - [Tребования к посадкам подшипников   Подшипники в Беларуси](./trebovaniya-k-posadkam-podshipnikov-podshipniki-v/README.md)
 
-- [SPHERICAL ROLLER  dup2](./spherical-roller-dup2/README.md)
 
 - [Общий каталог. Стандартные подшипники KOYO.](./obschiy-katalog-standartnye-podshipniki-koyo/README.md)
 
@@ -163,13 +144,11 @@ updated: 2026-02-07
 
 - [Зазор в подшипниках качения   Подшипники в Беларуси](./zazor-v-podshipnikah-kacheniya-podshipniki-v-belar/README.md)
 
-- [Heim Bearings  dup2](./heim-bearings-dup2/README.md)
 
 - [Каталог шарнирных подшипников FLURO.](./katalog-sharnirnyh-podshipnikov-fluro/README.md)
 
 - [Tребования к посадкам подшипников](./trebovaniya-k-posadkam-podshipnikov/README.md)
 
-- [Каталог звезд Sati  dup3](./katalog-zvezd-sati-dup3/README.md)
 
 - [ISO](./iso/README.md)
 
@@ -187,15 +166,12 @@ updated: 2026-02-07
 
 - [Аналоги дополнительных знаков условных обозначений подшипников ГОСТ   ISO](./analogi-dopolnitelnyh-znakov-uslovnyh-oboznacheniy/README.md)
 
-- [Подшипники ISO  dup2](./podshipniki-iso-dup2/README.md)
 
-- [Thrust Needle Roller Bearings  dup2](./thrust-needle-roller-bearings-dup2/README.md)
 
 - [Heavy Duty Needle Roller Bearings](./heavy-duty-needle-roller-bearings/README.md)
 
 - [Втулки скольжения. Подшипники скольжения](./vtulki-skolzheniya-podshipniki-skolzheniya/README.md)
 
-- [Plain Bearings  dup2](./plain-bearings-dup2/README.md)
 
 - [Класс точности подшипников ГОСТ, ISO, ABEC](./klass-tochnosti-podshipnikov-gost-iso-abec/README.md)
 
@@ -203,7 +179,6 @@ updated: 2026-02-07
 
 - [Условное обозначение  игольчатых  подшипников серии К, КК, ИК, ИКВ, КВК, КСК, АК](./uslovnoe-oboznachenie-igolchatyh-podshipnikov-seri/README.md)
 
-- [Isolates Vibration  dup2](./isolates-vibration-dup2/README.md)
 
 - [Втулки скольжения. Подшипники скольжения   Aprom](./vtulki-skolzheniya-podshipniki-skolzheniya-aprom/README.md)
 
@@ -229,11 +204,9 @@ updated: 2026-02-07
 
 - [Каталог подшипников LSK.](./katalog-podshipnikov-lsk/README.md)
 
-- [ПОДШИПНИКИ ГОСТ  dup2](./podshipniki-gost-dup2/README.md)
 
 - [Каталог ступичных подшипников CRAFT для коммерческого транспорта.](./katalog-stupichnyh-podshipnikov-craft-dlya-kommerc/README.md)
 
-- [Heavy Duty Needle Roller Bearings  dup2](./heavy-duty-needle-roller-bearings-dup2/README.md)
 
 - [Сферический подшипник скольжения](./sfericheskiy-podshipnik-skolzheniya/README.md)
 
@@ -271,7 +244,6 @@ updated: 2026-02-07
 
 - [Каталог Звезд без ступицы под расточку A стандарта ASA ANSI  dup3](./katalog-zvezd-bez-stupitsy-pod-rastochku-a-standar/README.md)
 
-- [Spherical Plain Bearings  dup2](./spherical-plain-bearings-dup2/README.md)
 
 - [BALL BEARING](./ball-bearing/README.md)
 
@@ -295,11 +267,9 @@ updated: 2026-02-07
 
 - [Каталог Звезд без ступицы под расточку A стандарта ASA ANSI  dup2](./katalog-zvezd-bez-stupitsy-pod-rastochku-a-standar/README.md)
 
-- [Каталог звезд CHIARAVALLI  dup3](./katalog-zvezd-chiaravalli-dup3/README.md)
 
 - [The bearings are fitted with a newly developed slide layer FLUROGLIDE MEDIA SOLI](./the-bearings-are-fitted-with-a-newly-developed-sli/README.md)
 
-- [Каталог ремней OPTIBELT  dup2](./katalog-remney-optibelt-dup2/README.md)
 
 - [TIMKEN DEEP GROOVE BALL BEARING CATALOG](./timken-deep-groove-ball-bearing-catalog/README.md)
 
@@ -307,11 +277,9 @@ updated: 2026-02-07
 
 - [Аналоги подшипников ISO   ГОСТ](./analogi-podshipnikov-iso-gost/README.md)
 
-- [Номенклатура аналогов (1)  dup2](./nomenklatura-analogov-1-dup2/README.md)
 
 - [UBC Precision Bearing Manufacturing Co. Ltd. is a manufacturer of high grade  dup2](./ubc-precision-bearing-manufacturing-co-ltd-is-a-ma/README.md)
 
-- [TIMKEN METRIC TAPERED ROLLER BEARINGS  dup2](./timken-metric-tapered-roller-bearings-dup2/README.md)
 
 - [ГОСТ подшипники   стандарты   Подшипники в Беларуси](./gost-podshipniki-standarty-podshipniki-v-belarusi/README.md)
 

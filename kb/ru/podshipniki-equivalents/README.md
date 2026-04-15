@@ -13,15 +13,12 @@ updated: 2026-02-07
 
 ## Статьи
 
-- [Deep Groove Ball Bearings  dup2](./deep-groove-ball-bearings-dup2/README.md)
 
 - [Каталог подшипников FBJ.](./katalog-podshipnikov-fbj/README.md)
 
 - [Условное обозначение упорно-радиальных двухрядных роликовых комбинированых подшипников РИК, РИКБ, РИК...К, РИКБ...К](./uslovnoe-oboznachenie-uporno-radialnyh-dvuhryadnyh/README.md)
 
-- [аналоги узлов  dup2](./analogi-uzlov-dup2/README.md)
 
-- [Импортные аналоги российских подшипников  dup2](./importnye-analogi-rossiyskih-podshipnikov-dup2/README.md)
 
 - [Каталог подшипников FBJ.](./katalog-podshipnikov-fbj/README.md)
 
@@ -29,7 +26,6 @@ updated: 2026-02-07
 
 - [Шарнирные головки - шарнирные наконечники - наконечники штоков](./sharnirnye-golovki-sharnirnye-nakonechniki-nakonec/README.md)
 
-- [АНАЛОГИ  dup2](./analogi-dup2/README.md)
 
 - [Линейные направляющие качения и скольжения](./lineynye-napravlyayuschie-kacheniya-i-skolzheniya/README.md)
 

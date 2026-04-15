@@ -45,7 +45,6 @@ updated: 2026-02-07
 
 - [Условное обозначение подшипников по ЕТУ 100, ЕТУ 500 и ТУ](./uslovnoe-oboznachenie-podshipnikov-po-etu-100-etu/README.md)
 
-- [Обозначение  dup2](./oboznachenie-dup2/README.md)
 
 - [Условное обозначение  игольчатых подшипников с одним наружным штампованым кольцом  серии 94, НК, НД, СК, СН, ВК, ГК](./uslovnoe-oboznachenie-igolchatyh-podshipnikov-s-od/README.md)
 

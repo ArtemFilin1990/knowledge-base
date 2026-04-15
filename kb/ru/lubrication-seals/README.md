@@ -13,7 +13,6 @@ updated: 2026-02-07
 
 ## Статьи
 
-- [Каталог ремней Gates  dup3](./katalog-remney-gates-dup3/README.md)
 
 - [Каталог сальников TTO.](./katalog-salnikov-tto/README.md)
 
