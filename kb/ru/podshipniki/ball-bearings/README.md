@@ -1,37 +1,2131 @@
 ---
-id: KB-RU-000186
-title: "Шариковые подшипники"
-topic: "podshipniki-ball-bearings"
-tags: ["подшипники", "шариковые"]
+id: KB-RU-000778
+title: Ball Bearings
+topic: podshipniki
+tags: ["imported-from-inbox", "bearings"]
 status: draft
-source: "[[TBD]]"
-created: 2026-02-05
-updated: 2026-02-05
+source: inbox/Ball_Bearings.md
+created: 2026-04-15
+updated: 2026-04-15
 ---
 
-# Шариковые подшипники
+# Ball Bearings
 
-Черновая заготовка для раздела о шариковых подшипниках.
+Ball Bearings
+Shield and
+Seal Types
+For New Technology Network
+R
+CAT. No. 3015-#／E
+corporation
 
-## Подразделы
-- [Радиальные шариковые (глубокий желоб)](./deep-groove-ball/README.md)
-- [Радиально-упорные шариковые](./angular-contact-ball/README.md)
-- [Самоустанавливающиеся шариковые](./self-aligning-ball/README.md)
-- [Упорные шариковые](./thrust-ball/README.md)
-- [Миниатюрные и тонкосекционные](./miniature-and-thin-section/README.md)
-- [Керамические шариковые](./ceramic-ball/README.md)
+1
+NTN Ball Bearings
+Shield and Seal Types
+●Features
+Bearing Design and Features …………………………P2
+Seal/shield Bearing Types and Selection
+……………P2
+●Test Data for Seal Performance ……………………………………P3
+●Service Life of Prelubricating Grease ……………………………P4
+●Bearing Precision ……………………………………………………P5
+●Dimension Tables
+Bearing bore 10～25mm………………P6～P7
+Bearing bore 28～55mm………………P8～P9
+Bearing bore 55～85mm
+…………P10～P11
+Bearing bore 85～160mm …………P12～P13
+Machinery is being made smaller and more compact; the same is demanded
+of bearings.
+NTN seal and shield type ball bearings are built to meet these trends.
+They simplify shaft design, are maintenance-free, and are the bearing of
+choice for an increasing number of applications.
+INDEX
 
-## См. также
-- [Типы подшипников](../../bearings/types/README.md)
+3
+NTN Ball Bearings Shield and Seal Types
+■Grease leakage test
+Test Conditions
+Bearings
+:6305
+Grease
+:Shell Alvania 3,3.5g packed
+Revolution
+:1800 r/min, 600 r/min
+Atmospheric temperature :80℃
+Time
+:200 hrs
+Quantity tested
+:5 pcs. each
+2. Test Data for Seal Performance
+〒 
+120
+100
+80
+60
+40
+20
+0
+30
+25
+20
+15
+10
+5
+0
+ZZ
+LLB
+LLU
+Rise in Temperature ˚C
+Friction Torque　N･mm
+Friction Torgue
+Rise in Temperature
+Figure 1. Friction torque and temperature rise test data
+20
+15
+10
+5
+0
+20
+50
+100
+200
+Time hrs
+Grease Leakage %
+Each point indicates the average Value N=5
+LLU
+ZZ 1800 r/min
+LLB 600 r/min
+The larger grease leakage with the LLU at 1800 rpm is due to
+bearing temperature rise.
+Figure 2. Grease leakage test data
+■Friction torque and temperature rise test
+Test Conditions
+Bearings
+:6305
+Grease
+:Shell Alvania 3,3.5g packed
+Revolution
+:1800 r/min
+Time
+:20 minutes
+Load
+:radial load 29 N
+Quantity tested
+:5 pcs. each
+■Dust test
+Test Conditions
+Bearings
+:6305
+Grease
+:Shell Alvania 3,3.5g packed
+Revolution
+:1800 r/min
+Load
+:radial load 29 N
+Volume of testing machine :40 liter
+Dust
+:Oxidized ferrous powder
+(2kg) + lime (1.0kg) mixture
+Time
+:1 hour
+■Muddy water splash test
+Test Conditions
+Bearings
+:6304
+Grease
+:Shell Alvania 3,2g packed
+Revolution
+:3000 r/min
+Muddy water
+:5 wt% of class 8 of JIS Z 8901
+Kanto loam powder
+Muddy water flow :30 cc/min
+Test time
+:10 cycles over 240 hrs
+(Each cycle consists of 3 hours of 
+spraying and 21 hours of drying)
+Table 3 Dust resistance test data
+1
+Type
+ZZ
+LLB
+LLU
+2.5
+2.5
+3   
+2
+3
+3
+2   
+2.5
+3   
+2.5
+2.5
+3   
+2.25
+2.62
+3.00
+2
+3
+4
+average
+Ratings 3 : Complete absence of dust
+2 : Slight presence of dust observed
+1 : Presence of dust clearly observed
+Table 4 Muddy water splash test data
+Ratings 4 : No penetration whatsoever
+3 : Very slight penetration of muddy water is apparent
+2 : Some penetration of muddy water is apparent
+1 : Considerable penetration of muddy water is apparent
+1
+Type
+LLU
+LLB
+3
+2
+2
+1
+2
+1
+4
+2
+3
+2
+2
+3
+4
+5
+2.8
+1.6
+average
 
-## Источники и примечания
-- Source: `[[TBD]]`
-- Notes: `[[TBD]]`
+4. Bearing Precision
+5
+NTN Ball Bearings Shield and Seal Types
+d 
+（mm）
+∆dmp
+Vdp
+Vdmp
+Kia
+Sd
+Sia
+Class
+0
+Class
+0
+Class
+6
+Class
+5
+Class
+4
+Class
+0
+Class
+6
+Class
+5
+Class
+4
+Class
+6
+Class
+5
+Class1
+4
+Bearing series
+68, 69
+Bearing series
+60
+Class
+0
+Class
+6
+Class
+5
+Class
+4
+Class
+0
+Class
+6
+Class
+5
+Class
+4
+Class
+0
+Class
+6
+Class
+5
+Class
+4
+Class
+0
+Class
+6
+Class
+5
+Class
+4
+Class
+5
+Class
+4
+Class
+5
+Class
+4
+Class
+0,6
+Class
+5,4
+Bearing series
+62, 63
+high low high low high low high low
+high low high low
+over incl.
+∆Bs
+0
+0
+0
+0
+0
+0
+0
+－  8
+－  8
+－10
+－12
+－15
+－20
+－25
+0
+0
+0
+0
+0
+0
+0
+－120
+－120
+－120
+－120
+－150
+－200
+－250
+0
+0
+0
+0
+0
+0
+0
+－  40
+－  80
+－120
+－120
+－150
+－200
+－250
+0
+0
+0
+0
+0
+0
+0
+－  7
+－  7
+－  8
+－10
+－12
+－15
+－18
+0
+0
+0
+0
+0
+0
+0
+－  5
+－  5
+－  6
+－  8
+－  9
+－10
+－13
+0
+0
+0
+0
+0
+0
+0
+10
+10
+13
+15
+19
+25
+31
+  9
+  9
+10
+13
+15
+19
+23
+  5
+  5
+  6
+  8
+  9
+10
+13
+  4
+  4
+  5
+  6
+  7
+  8
+10
+  8
+  8
+10
+12
+19
+25
+31
+  7
+  7
+  8
+10
+15
+19
+23
+  4
+  4
+  5
+  6
+  7
+  8
+10
+3
+3
+4
+5
+5
+6
+8
+  6
+  6
+  8
+  9
+11
+15
+19
+  5
+  5
+  6
+  8
+  9
+11
+14
+  4
+  4
+  5
+  6
+  7
+  8
+10
+3
+3
+4
+5
+5
+6
+8
+  6
+  6
+  8
+  9
+11
+15
+19
+  5
+  5
+  6
+  8
+  9
+11
+14
+3
+3
+3
+4
+5
+5
+7
+2   
+2   
+2.5
+3   
+3.5
+4   
+5   
+10
+10
+13
+15
+20
+25
+30
+  6
+  7
+  8
+10
+10
+13
+18
+4
+4
+4
+5
+5
+6
+8
+2.5
+2.5
+3   
+4   
+4   
+5   
+6   
+  7
+  7
+  8
+  8
+  8
+  9
+10
+3
+3
+4
+4
+5
+5
+6
+  7
+  7
+  8
+  8
+  8
+  9
+10
+3
+3
+4
+4
+5
+5
+7
+15
+20
+20
+20
+25
+25
+30
+15
+20
+20
+20
+25
+25
+30
+5
+5
+5
+5
+6
+7
+8
+2.5
+2.5
+2.5
+3   
+4   
+4   
+5   
+－  4
+－  4
+－  5
+－  6
+－  7
+－  8
+－10
+    2.5
+  10
+  18
+  30
+  50
+  80
+120
+10
+18
+30
+50
+80
+120
+180
+max
+max
+max
+max
+max
+VBs
+max
+max
+max
+Unit μm
+d
+= Nominal bore diameter
+∆dmp = Single plane mean bore diameter deviation
+Vdp
+= Single radial plane bore diameter variation
+Vdmp = Mean single plane bore diameter variation
+Kia
+= Inner ring radial runout 
+Sd
+= Face runout with bore  
+Sia
+= Inner ring axial runout (with side) 
+∆Bs
+= Inner ring width deviation
+VBs
+= Inner ring width varietion   
+Inner ring
+D
+= Nominal outside diameter
+∆Dmp = Single plane mean outside diameter deviation
+VDp = Single radial plane outside diameter variation
+VDmp = Mean single plane outside diameter variation
+Kea
+= Outer ring radial runout 
+SD
+= Outside surface inclination  
+Sea
+= Outside ring axial runout
+∆Cs
+= Outer ring width deviation
+VCs
+= Outer ring width variation   
+Outer ring
+(1) Inner ring tolerance
+(2) Outer ring tolerance
+0
+0
+0
+0
+0
+0
+0
+－  9
+－11
+－13
+－15
+－18
+－25
+－30
+0
+0
+0
+0
+0
+0
+0
+－  8
+－  9
+－11
+－13
+－15
+－18
+－20
+0
+0
+0
+0
+0
+0
+0
+－  6
+－  7
+－  9
+－10
+－11
+－13
+－15
+0
+0
+0
+0
+0
+0
+0
+12
+16
+20
+26
+30
+38
+45
+10
+13
+16
+20
+25
+30
+35
+  7
+  8
+10
+11
+14
+19
+23
+  6
+  7
+  8
+10
+11
+14
+15
+3
+4
+5
+5
+6
+7
+8
+2.5
+3   
+3.5
+4   
+5   
+5   
+6   
+15
+20
+25
+35
+40
+45
+50
+  9
+10
+13
+18
+20
+23
+25
+  6
+  7
+  8
+10
+11
+13
+15
+  4
+  5
+  5
+  6
+  7
+  8
+10
+  8
+  8
+  8
+  9
+10
+10
+11
+4
+4
+4
+5
+5
+5
+7
+  8
+  8
+10
+11
+13
+14
+15
+  5
+  5
+  5
+  6
+  7
+  8
+10
+Identical to
+∆Bs of inner
+ring of same
+bearing
+Identical to
+∆Bs and VBs
+of inner ring
+of same
+bearing
+  5
+  5
+  6
+  8
+  8
+  8
+10
+2.5
+2.5
+3   
+4   
+5   
+5   
+7   
+－  5
+－  6
+－  7
+－  8
+－  9
+－10
+－11
+18
+30
+50
+80
+120
+150
+180
+30
+50
+80
+120
+150
+180
+250
+D 
+（mm） 
+∆Dmp
+VDp
+VDmp
+Kea
+SD
+Sea
+Class
+0
+Class
+0
+Class
+0
+Class
+6
+Class
+5
+Class
+4
+Class
+0
+Class
+0
+Class
+6
+Class
+5
+Class
+4
+Class
+6
+Class
+5
+Class
+4
+Class
+5
+Class
+4
+Class
+5
+Class
+4
+Class
+6
+Class
+6
+Class
+5
+Class2
+4
+over incl. high
+low high
+low
+high
+low
+high
+low
+all type
+∆Cs
+Bearing series
+62,63
+Bearing series
+60,62,63
+max
+max
+max
+VCs
+max
+max
+max
+Unit μm
+1 The dimensional difference ∆ds of bore diameter to applied for class 4 and 2 is the same as the tolerance of dimentional difference ∆dmp of average bore diameter.
+     However, the dimensional difference is applied to diameter series 0, 1, 2, 3 and 4 against Class 4, and to all the diameter series against Class 2.
+2 Same as 1 but ∆Ds+∆Dmp rather than ∆ds+∆dmp
+high
+low
 
-## Контроль качества
-- [ ] Есть метаданные (id/topic/status/source)
-- [ ] Понятно без внешнего контекста
-- [ ] Есть примеры
-- [ ] Нет противоречий
-- [ ] Есть 3–7 ссылок «См. также»
-- [ ] Для `status: verified` нет `[[TBD]]`
+7
+6800ZZ
+6800LLB
+―
+6800LLU
+12
+12.5
+17
+0.3
+0.005
+6900ZZ
+6900LLB
+―
+6900LLU
+12
+13
+20
+0.3
+0.009
+6000ZZ
+6000LLB
+6000LLH
+6000LLU
+12
+13.5
+24
+0.3
+0.019
+6200ZZ
+6200LLB
+6200LLH
+6200LLU
+14
+16
+26
+0.6
+0.032
+6300ZZ
+6300LLB
+6300LLH
+6300LLU
+14
+17
+31
+0.6
+0.053
+6801ZZ
+6801LLB
+―
+6801LLU
+14
+14.5
+19
+0.3
+0.006
+6901ZZ
+6901LLB
+―
+6901LLU
+14
+15
+22
+0.3
+0.011
+6001ZZ
+6001LLB
+6001LLH
+6001LLU
+14
+16
+26
+0.3
+0.021
+6201ZZ
+6201LLB
+6201LLH
+6201LLU
+16
+17
+28
+0.6
+0.037
+6301ZZ
+6301LLB
+6301LLH
+6301LLU
+17
+18.5
+32
+1
+0.06
+6802ZZ
+6802LLB
+―
+6802LLU
+17
+17.5
+22
+0.3
+0.007
+6902ZZ
+6902LLB
+―
+6902LLU
+17
+17.5
+26
+0.3
+0.016
+6002ZZ
+6002LLB
+6002LLH
+6002LLU
+17
+19
+30
+0.3
+0.03
+6202ZZ
+6202LLB
+6202LLH
+6202LLU
+19
+20
+31
+0.6
+0.045
+6302ZZ
+6302LLB
+6302LLH
+6302LLU
+20
+23
+37
+1
+0.082
+6803ZZ
+6803LLB
+―
+6803LLU
+19
+19.5
+24
+0.3
+0.008
+6903ZZ
+6903LLB
+―
+6903LLU
+19
+20
+28
+0.3
+0.018
+6003ZZ
+6003LLB
+6003LLH
+6003LLU
+19
+21
+33
+0.3
+0.039
+6203ZZ
+6203LLB
+6203LLH
+6203LLU
+21
+23
+36
+0.6
+0.066
+6303ZZ
+6303LLB
+6303LLH
+6303LLU
+22
+25
+42
+1
+0.115
+6804ZZ
+6804LLB
+―
+6804LLU
+22
+22.5
+30
+0.3
+0.019
+6904ZZ
+6904LLB
+―
+6904LLU
+22
+24
+35
+0.3
+0.036
+6004ZZ
+6004LLB
+6004LLH
+6004LLU
+24
+26
+38
+0.6
+0.069
+6204ZZ
+6204LLB
+6204LLH
+6204LLU
+25
+28
+42
+1
+0.106
+6304ZZ
+6304LLB
+6304LLH
+6304LLU
+26.5
+28.5
+45.5
+1
+0.144
+60/22ZZ
+60/22LLB
+60/22LLH
+60/22LLU
+26
+26.5
+40
+0.6
+0.074
+62/22ZZ
+62/22LLB
+62/22LLH
+62/22LLU
+27
+29.5
+45
+1
+0.117
+63/22ZZ
+63/22LLB
+63/22LLH
+63/22LLU
+28.5
+31
+49.5
+1
+0.176
+6805ZZ
+6805LLB
+―
+6805LLU
+27
+28
+35
+0.3
+0.022
+6905ZZ
+6905LLB
+―
+6905LLU
+27
+29
+40
+0.3
+0.042
+6005ZZ
+6005LLB
+6005LLH
+6005LLU
+29
+30.5
+43
+0.6
+0.08
+6205ZZ
+6205LLB
+6205LLH
+6205LLU
+30
+32
+47
+1
+0.128
+6305ZZ
+6305LLB
+6305LLH
+6305LLU
+31.5
+35
+55.5
+1
+0.232
+Bearing numbers 2
+Abutment and fillet dimensions
+Mass
+mm
+kg
+Non-contact
+Low torque
+Contact
+da3
+Da3
+ras
+Sealed type
+type
+type
+type
+min
+max
+max
+max
+(approx.)
+2 Single sealed and shielded bearings are also available.
+3 This dimension applies to sealed and shielded bearings.
+ra
+da
+Da
+NTN Ball Bearings Shield and Seal Types
+
+9
+60/28ZZ
+60/28LLB
+60/28LLH
+60/28LLU
+32
+34
+48
+0.6
+0.098
+62/28ZZ
+62/28LLB
+62/28LLH
+62/28LLU
+33
+35.5
+53
+1
+0.171
+63/28ZZ
+63/28LLB
+63/28LLH
+63/28LLU
+34.5
+38.5
+61.5
+1
+0.284
+6806ZZ
+6806LLB
+―
+6806LLU
+32
+33
+40
+0.3
+0.026
+6906ZZ
+6906LLB
+―
+6906LLU
+32
+34
+45
+0.3
+0.048
+6006ZZ
+6006LLB
+6006LLH
+6006LLU
+35
+37
+50
+1
+0.116
+6206ZZ
+6206LLB
+6206LLH
+6206LLU
+35
+39
+57
+1
+0.199
+6306ZZ
+6306LLB
+6306LLH
+6306LLU
+36.5
+43
+65.5
+1
+0.36
+60/32ZZ
+60/32LLB
+60/32LLH
+60/32LLU
+37
+39
+53
+1
+0.129
+62/32ZZ
+62/32LLB
+62/32LLH
+62/32LLU
+37
+40
+60
+1
+0.226
+63/32ZZ
+63/32LLB
+63/32LLH
+63/32LLU
+38.5
+43.5
+68.5
+1
+0.382
+6807ZZ
+6807LLB
+―
+6807LLU
+37
+38
+45
+0.3
+0.029
+6907ZZ
+6907LLB
+―
+6907LLU
+39
+40
+51
+0.6
+0.074
+6007ZZ
+6007LLB
+6007LLH
+6007LLU
+40
+42
+57
+1
+0.155
+6207ZZ
+6207LLB
+6207LLH
+6207LLU
+41.5
+45
+65.5
+1
+0.288
+6307ZZ
+6307LLB
+6307LLH
+6307LLU
+43
+47
+72
+1.5
+0.457
+6808ZZ
+6808LLB
+―
+6808LLU
+42
+43
+50
+0.3
+0.033
+6908ZZ
+6908LLB
+―
+6908LLU
+44
+45
+58
+0.6
+0.11
+6008ZZ
+6008LLB
+6008LLH
+6008LLU
+45
+47
+63
+1
+0.19
+6208ZZ
+6208LLB
+6208LLH
+6208LLU
+46.5
+51
+73.5
+1
+0.366
+6308ZZ
+6308LLB
+6308LLH
+6308LLU
+48
+54
+82
+1.5
+0.63
+6809ZZ
+6809LLB
+―
+6809LLU
+47
+48
+56
+0.3
+0.04
+6909ZZ
+6909LLB
+―
+6909LLU
+49
+51
+64
+0.6
+0.128
+6009ZZ
+6009LLB
+6009LLH
+6009LLU
+50
+52.5
+70
+1
+0.237
+6209ZZ
+6209LLB
+6209LLH
+6209LLU
+51.5
+55.5
+78.5
+1
+0.398
+6309ZZ
+6309LLB
+6309LLH
+6309LLU
+53
+61.5
+92
+1.5
+0.814
+6810ZZ
+6810LLB
+―
+6810LLU
+52
+54
+63
+0.3
+0.052
+6910ZZ
+6910LLB
+―
+6910LLU
+54
+55.5
+68
+0.6
+0.132
+6010ZZ
+6010LLB
+6010LLH
+6010LLU
+55
+57.5
+75
+1
+0.261
+6210ZZ
+6210LLB
+6210LLH
+6210LLU
+56.5
+60
+83.5
+1
+0.454
+6310ZZ
+6310LLB
+6310LLH
+6310LLU
+59
+68.5
+101
+2
+1.07
+6811ZZ
+6811LLB
+―
+6811LLU
+57
+59
+70
+0.3
+0.083
+Bearing numbers 2
+Abutment and fillet dimensions
+Mass
+mm
+kg
+Non-contact
+Low torque
+Contact
+da3
+Da3
+ras
+Sealed type
+type
+type
+type
+min
+max
+max
+max
+(approx.)
+2 Single sealed and shielded bearings are also available.
+3 This dimension applies to sealed and shielded bearings.
+ra
+da
+Da
+NTN Ball Bearings Shield and Seal Types
+
+11
+6911ZZ
+6911LLB
+―
+6911LLU
+60
+61.5
+75
+1
+0.18
+6011ZZ
+6011LLB
+―
+6011LLU
+61.5
+64
+83.5
+1
+0.388
+6211ZZ
+6211LLB
+―
+6211LLU
+63
+67
+92
+1.5
+0.601
+6311ZZ
+6311LLB
+―
+6311LLU
+64
+74
+111
+2
+1.37
+6812ZZ
+6812LLB
+―
+6812LLU
+62
+64.5
+76
+0.3
+0.106
+6912ZZ
+6912LLB
+―
+6912LLU
+65
+66.5
+80
+1
+0.193
+6012ZZ
+6012LLB
+―
+6012LLU
+66.5
+69
+88.5
+1
+0.414
+6212ZZ
+6212LLB
+―
+6212LLU
+68
+75
+102
+1.5
+0.783
+6312ZZ
+6312LLB
+―
+6312LLU
+71
+80.5
+119
+2
+1.73
+6813ZZ
+6813LLB
+―
+6813LLU
+69
+70
+81
+0.6
+0.128
+6913ZZ
+6913LLB
+―
+6913LLU
+70
+71.5
+85
+1
+0.206
+6013ZZ
+6013LLB
+―
+6013LLU
+71.5
+73
+93.5
+1
+0.421
+6213ZZ
+6213LLB
+―
+6213LLU
+73
+80.5
+112
+1.5
+0.99
+6313ZZ
+6313LLB
+―
+6313LLU
+76
+86
+129
+2
+2.08
+6814ZZ
+6814LLB
+―
+6814LLU
+74
+75.5
+86
+0.6
+0.137
+6914ZZ
+6914LLB
+―
+6914LLU
+75
+77.5
+95
+1
+0.334
+6014ZZ
+6014LLB
+―
+6014LLU
+76.5
+80.5
+103.5
+1
+0.604
+6214ZZ
+6214LLB
+―
+6214LLU
+78
+85
+117
+1.5
+1.07
+6314ZZ
+6314LLB
+―
+6314LLU
+81
+92.5
+139
+2
+2.52
+6815ZZ
+6815LLB
+―
+6815LLU
+79
+80
+91
+0.6
+0.145
+6915ZZ
+6915LLB
+―
+6915LLU
+80
+82.5
+100
+1
+0.353
+6015ZZ
+6015LLB
+―
+6015LLU
+81.5
+85.5
+108.5
+1
+0.649
+6215ZZ
+6215LLB
+―
+6215LLU
+83
+90.5
+122
+1.5
+1.18
+6315ZZ
+6315LLB
+―
+6315LLU
+86
+99
+149
+2
+3.02
+6816ZZ
+6816LLB
+―
+6816LLU
+84
+85
+96
+0.6
+0.154
+6916ZZ
+6916LLB
+―
+6916LLU
+85
+88
+105
+1
+0.373
+6016ZZ
+6016LLB
+―
+6016LLU
+86.5
+91.5
+118.5
+1
+0.854
+6216ZZ
+6216LLB
+―
+6216LLU
+89
+95.5
+131
+2
+1.4
+6316ZZ
+6316LLB
+―
+6316LLU
+91
+105
+159
+2
+3.59
+6817ZZ
+6817LLB
+―
+6817LLU
+90
+91
+105
+1
+0.27
+6917ZZ
+6917LLB
+―
+6917LLU
+91.5
+94
+113.5
+1
+0.536
+6017ZZ
+6017LLB
+―
+6017LLU
+91.5
+97
+123.5
+1
+0.89
+6217ZZ
+6217LLB
+―
+6217LLU
+94
+103
+141
+2
+1.79
+Bearing numbers 2
+Abutment and fillet dimensions
+Mass
+mm
+kg
+Non-contact
+Low torque
+Contact
+da3
+Da3
+ras
+Sealed type
+type
+type
+type
+min
+max
+max
+max
+(approx.)
+2 Single sealed and shielded bearings are also available.
+3 This dimension applies to sealed and shielded bearings.
+ra
+da
+Da
+NTN Ball Bearings Shield and Seal Types
+
+13
+ra
+da
+Da
+6317ZZ
+6317LLB
+6317LLU
+98
+112
+167
+2.5
+4.23
+6818ZZ
+6818LLB
+6818LLU
+95
+96
+110
+1
+0.285
+6918ZZ
+6918LLB
+6918LLU
+96.5
+99
+118.5
+1
+0.554
+6018ZZ
+6018LLB
+6018LLU
+98
+102
+132
+1.5
+1.02
+6218ZZ
+6218LLB
+6218LLU
+99
+109
+151
+2
+2.15
+6318ZZ
+6318LLB
+6318LLU
+103
+118
+177
+2.5
+4.91
+6819ZZ
+6819LLB
+6819LLU
+100
+101
+115
+1
+0.3
+6919ZZ
+6919LLB
+6919LLU
+101.5
+104
+123.5
+1
+0.579
+6019ZZ
+6019LLB
+6019LLU
+103
+109
+137
+1.5
+1.08
+6219ZZ
+6219LLB
+6219LLU
+106
+116
+159
+2
+2.62
+6319ZZ
+―
+6319LLU
+108
+125
+187
+2.5
+5.67
+6820ZZ
+6820LLB
+6820LLU
+105
+106
+120
+1
+0.313
+6920ZZ
+6920LLB
+6920LLU
+106.5
+110
+133.5
+1
+0.785
+6020ZZ
+6020LLB
+6020LLU
+108
+110
+142
+1.5
+1.15
+6220ZZ
+6220LLB
+6220LLU
+111
+122
+169
+2
+3.14
+6320ZZ
+―
+6320LLU
+113
+133
+202
+2.5
+7
+6921ZZ
+6921LLB
+6921LLU
+111.5
+115
+138.5
+1
+0.816
+6021ZZ
+6021LLB
+6021LLU
+114
+119
+151
+2
+1.59
+6221ZZ
+―
+6221LLU
+116
+125
+179
+2
+3.7
+6321ZZ
+―
+6321LLU
+118
+134
+212
+2.5
+8.05
+6922ZZ
+6922LLB
+6922LLU
+116.5
+120
+143.5
+1
+0.849
+6022ZZ
+6022LLB
+6022LLU
+119
+126
+161
+2
+1.96
+6222ZZ
+―
+6222LLU
+121
+132
+189
+2
+4.36
+6322ZZ
+―
+6322LLU
+123
+149
+227
+2.5
+9.54
+6024ZZ
+6024LLB
+6024LLU
+129
+136
+171
+2
+2.07
+6224ZZ
+―
+6224LLU
+131
+143
+204
+2
+5.15
+6026ZZ
+―
+6026LLU
+139
+148
+191
+2
+3.16
+6028ZZ
+―
+6028LLU
+149
+158
+201
+2
+3.35
+6030ZZ
+―
+6030LLU
+161
+169
+214
+2
+4.08
+6032ZZ
+―
+6032LLU
+171
+183
+229
+2
+5.05
+Bearing numbers 2
+Abutment and fillet dimensions
+Mass
+mm
+kg
+Non-contact
+Contact
+da3
+Da3
+ras
+Sealed type
+type
+type
+min
+max
+max
+max
+(approx.)
+2 Single sealed and shielded bearings are also available.
+3 This dimension applies to sealed and shielded bearings.
+NTN Ball Bearings Shield and Seal Types

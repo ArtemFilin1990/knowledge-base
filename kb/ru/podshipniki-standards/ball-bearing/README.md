@@ -1,0 +1,2602 @@
+---
+id: KB-RU-000636
+title: BALL BEARING
+topic: podshipniki-standards
+tags: ["imported-from-inbox", "bearings", "standards"]
+status: draft
+source: inbox/BALL_BEARING.md
+created: 2026-04-15
+updated: 2026-04-15
+---
+
+# BALL BEARING
+
+2
+TIMKEN
+® BALL BEARING 
+HOUSED UNITS 
+UC-SERIES
+
+3
+For more than 110 years, Timken innovations continue to keep the 
+world in motion, including the invention of the wide inner ring 
+bearing and the ball bearing housed unit. We continue that 
+innovation by applying our extensive engineering knowledge of 
+bearings, metallurgy, seals and end-user applications to deliver 
+optimized performance from our housed unit product line.
+DESIGNED FOR OPTIMIZED PERFORMANCE
+TIMKEN® BALL BEARING HOUSED UNITS 
+Timken supports your job sites with a team of service engineers available around 
+the world. Their services help extend maintenance cycles and maximize uptime.  
+Timken is your single-source for friction management, with a full range of bearings 
+and related accessories including greases, seals, tools, training, repair services and 
+condition monitoring systems.
+Timken ball bearing housed units help improve efﬁciencies through:
+WIDE RANGE OF READY-TO-MOUNT UNITS 
+t 'JWFEJGGFSFOUIPVTJOHEFTJHOTQMVTreplacement 
+
+inserts are offered in metric and imperial sizes.
+t 4FUTDSFXMPDLJOHEFTJHOBMMPXTGPS  
+
+easy installation.
+t &YUFOTJWFSBOHFPGTJ[FTNFFUTUIFOFFET 
+
+of a wide range of applications.
+t *OUFSDIBOHFBCMFXJUIPVUNPEJmDBUJPOJO 
+
+many applications.
+t -PDBMJOTUPDLBWBJMBCJMJUZFOTVSFTUIFTFSWJDF 
+
+levels you expect.
+30#6454&"-*/(%&4*(/&%'035)&.045
+DEMANDING ENVIRONMENTS
+t 1SFDJTJPOTFBMJOHQSPWJEFTFYUFOEFECFBSJOHMJGF
+
+and reduced lubrication leakage.
+t #POEFETFBMEFTJHOJODMVEFTBTUFFMnJOHFS 
+
+for additional bearing protection.
+t &GGFDUJWFHSFBTFSFUFOUJPOBOESFEVDFE
+
+debris and moisture ingress improve 
+
+bearing performance.
+*/$3&"4&%&26*1.&/5615*.&"/%3&%6$&%."*/5&/"/$&$045
+t #FBSJOHTXJUITQIFSJDBMPVUFSSJOHTBOEQSFDJTJPONBDIJOFEDBTUJSPO 
+
+housings help prevent outer ring rotation.  
+t #FBSJOHTXJUITUBOETUBUJDNJTBMJHONFOUPGUIFTIBGUPG¦EFHSFFT
+t %FTJHOFEGPSOPSNBMPQFSBUJPOCFUXFFO¦¡$BOE¡$
+t 8JEFJOOFSSJOHCBMMCFBSJOHTEFMJWFSHSFBUFSTIBGUTVQQPSU
+t )JHITUSFOHUIIPVTJOHTBSFTVJUFEGPSNPTUJOEVTUSJBMBQQMJDBUJPOT
+t #FBSJOHTBSFQSFMVCSJDBUFEBOESFBEZGPSJNNFEJBUFJOTUBMMBUJPO
+t 5JNLFOLOPXMFEHFBOETVQQPSUDPNFTUBOEBSE
+
+5
+UC
+Cylindrical 
+bore, spherical 
+outer diameter, 
+set screw 
+locking 
+mechanism
+P
+1JMMPXCMPDLVOJU
+F
+Four-bolt 
+nBOHFEVOJU
+FL
+Two-bolt 
+nBOHFEVOJU
+T
+Take-up unit
+FC
+1JMPUFESPVOE
+nBOHFEVOJU
+2
+Standard 
+industrial 
+series
+SERIES
+CODE
+BEARING 
+INSERT CODE
+HOUSING 
+CODE
+01
+
+
+04 or higher
+/PNJOBMCPSFEJBNFUFSNN
+Nominal bore diameter = 15 mm
+Nominal bore diameter = 17 mm
+Bore diameter (mm) = bore diameter code x 5
+Example:
+
+UCF201  = 12 mm bore  
+
+  (Four-bolt ﬂanged unit)
+
+UCP211 = 55 mm bore 
+
+  (Pillow block unit)
+BORE DIAMETER CODE
+METRIC
+CONFIGURATIONS 
+TO MEET YOUR NEEDS
+BALL HOUSED UNITS   
+Standard series – wide inner ring, set 
+screw locking mechanism
+HOUSING TYPES
+1JMMPXCMPDL
+UXPCPMUnBOHF
+GPVSCPMU
+nBOHF
+QJMPUFESPVOEnBOHFBOEUBLFVQ
+METRIC BORE SIZESNNoNN
+INCH BORE SIZES JOoJO
+NOMENCLATURE
+UC   P   2   05
+Housing
+Code
+Bearing 
+Insert Code
+Series
+Code
+Bore 
+Diameter 
+Code
+Nominal bore diameter = bore diameter 
+
+DPEF
+Example:
+ UCF201-8  = 8⁄16 in. or 1⁄2 in. bore  
+
+  (Four-bolt ﬂanged unit)
+ UCP205-16 = 16⁄16 in. or 1 in. bore 
+
+  (Pillow block unit)
+¦8 or higher
+BORE DIAMETER CODE
+IMPERIAL
+
+7
+Housing (pillow block)
+Hexagon socket 
+set screw
+High-performance seal
+Engineered balls and cage
+Wide inner ring
+Outer ring with spherical 
+outside diameter
+Lubrication groove
+
+9
+The following tables provide useful installation details related to shaft tolerance and torque for set screws and bolts. 
+TECHNICAL DATA
+(1) These are for normal service; for heavy loads, high speeds or vertical  
+ shaft applications, consult your equipment manufacturer or your local  
+ Timken representative.
+46((&45&%4)"'550-&3"/$&(1)
+TABLE
+2
+46((&45&%#0-5.06/5*/(50326&
+TABLE
+4
+mm
+BOLT SIZE
+TIGHTENING TORQUE
+M10
+M12
+M14
+M16
+M20
+M22
+3⁄8
+1⁄2
+5⁄8
+3⁄4
+7⁄8
+Nm
+12 – 21
+21 – 37
+34 – 60
+53 – 93
+104 – 186
+143 – 256
+in.
+ft. - lbs.
+9.0 – 15.5
+15.5 – 27.5
+39.0 – 68.5
+76.5 – 137.0
+105.5 – 190.0
+46((&45&%4&54$3&85*()5&/*/(50326&
+TABLE
+3
+SET 
+SCREW SIZE
+M6 x 0.75
+M8 x 1
+M10 x 1.25
+M12 x 1.5
+mm
+in.
+1⁄4  – 28 UNF
+5⁄6  – 24 UNF
+TIGHTENING
+TORQUE
+Nm
+4
+8.5
+17.5
+28
+in. - lbs.
+35.4
+75.2
+SHAFT SIZE
+SHAFT TOLERANCE
+Over
+Incl.
+Min.
+Max.
+mm 
+in.
+mm 
+in.
+mm 
+in.
+mm 
+in.
+12.000
+18.000
+0.000
+– 0.011
+0.500
+0.625
+0.000
+– 0.0005
+19.000
+30.000
+0.000
+– 0.013
+0.750
+1.000
+0.000
+– 0.0005
+31.000
+50.000
+0.000
+– 0.016
+1.125
+1.938
+0.000
+– 0.0005
+51.000
+80.000
+0.000
+– 0.019
+2.000
+3.125
+0.000
+– 0.0010
+81.000
+90.000
+0.000
+– 0.022
+3.250
+3.500
+0.000
+– 0.0010
+
+11
+Continued from previous page.
+Shaft Dia.
+Pillow block
+Designation
+Bearing
+Designation
+Basic Load Ratings
+Dimensions
+Bolt
+Size
+Weight
+Dynamic
+Static
+d
+Cr
+C0r
+H
+L
+L1
+A
+H1
+J
+H2
+S
+B
+N
+N1
+mm
+in.
+kN
+lbs.
+kN
+lbs.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+kg
+lbs.
+1 7⁄8
+UCP210-30
+UC210-30
+35.1
+7891
+23.3
+5238
+57.2
+2 1⁄4
+206
+8 1⁄8
+60
+2 3⁄8
+60
+2 3⁄8
+21
+13⁄16
+159
+6 1⁄4
+113
+4 7⁄16
+19
+0.748
+51.6
+2.031
+20
+25⁄32
+22
+7⁄8
+M16
+5⁄8
+2.9
+6.4
+1 15⁄16
+UCP210-31
+UC210-31
+50
+UCP210
+UC210
+2
+UCP210-32
+UC210-32
+2
+UCP211-32
+UC211-32
+43.4
+9757
+29.4
+6609
+63.5
+2 1⁄2
+219
+8 5⁄8
+64.5
+2 35⁄64
+60
+2 3⁄8
+23
+29⁄32
+171
+6 23⁄32
+125
+4 29⁄32
+22.2
+0.874
+55.6
+2.189
+20
+25⁄32
+22
+7⁄8
+M16
+5⁄8
+3.6
+7.9
+2 1⁄8
+UCP211-34
+UC211-34
+2 3⁄16
+UCP211-35
+UC211-35
+55
+UCP211
+UC211
+2 1⁄4
+UCP212-36
+UC212-36
+52.4
+11780
+36.2
+8138
+69.8
+2 3⁄4
+241
+9 1⁄2
+72.5
+2 55⁄64
+70
+2 3⁄4
+25
+31⁄32
+184
+7 1⁄4
+138
+5 7⁄16
+25.4
+1.000
+65.1
+2.563
+20
+25⁄32
+25
+31⁄32
+M16
+5⁄8
+4.9
+10.8
+60
+UCP212
+UC212
+2 3⁄8
+UCP212-38
+UC212-38
+2 7⁄16
+UCP212-39
+UC212-39
+2 1⁄2
+UCP213-40
+UC213-40
+57.2
+40.1
+76.2
+265
+78
+70
+27
+203
+150
+25.4
+65.1
+35
+30
+M20
+5.9
+13.0
+65
+UCP213
+UC213
+12859
+9015
+3
+10 7⁄16
+3 1⁄16
+2 3⁄4
+1 1⁄16
+8
+5 29⁄32
+1.000
+2.563
+31⁄32
+1 3⁄16
+3⁄4
+2 3⁄4
+UCP214-44
+UC214-44
+62.2
+44.1
+79.4
+266
+75
+72
+27
+210
+156
+30.2
+74.6
+25
+30
+M20
+6.8
+15.0
+70
+UCP214
+UC214
+13983
+9914
+3 1⁄8
+10 15⁄32 2 61⁄64
+2 27⁄32
+1 1⁄16
+8 9⁄32
+6 5⁄32
+1.189
+2.937
+31⁄32
+1 3⁄16
+3⁄4
+2 15⁄16
+UCP215-47
+UC215-47
+67.4
+15152
+48.3
+10858
+82.6
+3 1⁄4
+275
+10 13⁄16
+77.5
+3 3⁄64
+74
+2 29⁄32
+28
+1 7⁄64
+217
+8 17⁄32
+162
+6 3⁄8
+33.3
+1.311
+77.8
+3.063
+25
+31⁄32
+30
+1 3⁄16
+M20
+3⁄4
+7.4
+16.3
+75
+UCP215
+UC215
+3
+UCP215-48
+UC215-48
+3 1⁄8
+UCP216-50
+UC216-50
+72.7
+53.0
+88.9
+292
+83
+78
+30
+232
+174
+33.3
+82.6
+25
+35
+M20
+9.0
+19.8
+80
+UCP216
+UC216
+16344
+11915
+3 1⁄2
+11 1⁄2
+3 17⁄64
+3 1⁄16
+1 3⁄16
+9 1⁄8
+6 27⁄32
+1.311
+3.252
+31⁄32
+1 3⁄8
+3⁄4
+3 1⁄4
+UCP217-52
+UC217-52
+84.0
+61.9
+95.2
+310
+87
+83
+32
+247
+185
+34.1
+85.7
+25
+40
+M20
+10.8
+23.8
+85
+UCP217
+UC217
+18884
+13916
+3 3⁄4
+12 7⁄32
+3 27⁄64
+3 9⁄32
+1 1⁄4
+9 23⁄32
+7 9⁄32
+1.343
+3.374
+31⁄32
+1 9⁄16
+3⁄4
+3 1⁄2
+UCP218-56
+UC218-56
+96.1
+71.5
+101.6
+327
+94
+88
+33
+262
+198
+39.7
+96
+27
+45
+M22
+13.9
+30.6
+90
+UCP218
+UC218
+21604
+16074
+4
+12 7⁄8
+3 45⁄64
+3 15⁄32
+1 19⁄64
+10 5⁄16
+7 25⁄32
+1.563
+3.780
+1 1⁄16
+1 25⁄32
+7⁄8
+
+13
+Continued from previous page.
+AO
+(4) N
+Shaft Dia.
+Four-Bolt 
+Flange
+Designation
+Bearing
+Designation
+Basic Load Ratings
+Dimensions
+Bolt
+Size
+Weight
+Dynamic
+Static
+d
+Cr
+C0r
+L
+J
+A1
+A
+AO
+S
+B
+A2
+N
+mm
+in.
+kN
+lbs.
+kN
+lbs.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+kg
+lbs.
+1  7⁄8
+UCF210-30
+UC210-30
+35.1
+7891
+23.3
+5238
+143
+5 5⁄8
+111
+4 3⁄8
+16
+5⁄8
+40
+1 9⁄16
+54.6
+2 5⁄32
+19
+0.748
+51.6
+2.031
+22
+55⁄64
+16
+5⁄8
+M14
+1⁄2
+2.5
+5.5
+1 15⁄16
+UCF210-31
+UC210-31
+50
+UCF210
+UC210
+2
+UCF210-32
+UC210-32
+2
+UCF211-32
+UC211-32
+43.4
+9757
+29.4
+6609
+162
+6 3⁄8
+130
+5 1⁄8
+18
+23⁄32
+43
+1 11⁄16
+58.4
+2 5⁄16
+22.2
+0.874
+55.6
+2.189
+25
+63⁄64
+19
+3⁄4
+M16
+5⁄8
+3.4
+7.5
+2 1⁄8
+UCF211-34
+UC211-34
+55
+UCF211
+UC211
+2 3⁄16
+UCF211-35
+UC211-35
+2 1⁄4
+UCF212-36
+UC212-36
+52.4
+11780
+36.2
+8138
+175
+6 7⁄8
+143
+5 5⁄8
+18
+23⁄32
+48
+1 7⁄8
+68.7
+2 23⁄32
+25.4
+1.000
+65.1
+2.563
+29
+1 9⁄64
+19
+3⁄4
+M16
+5⁄8
+4.2
+9.3
+60
+UCF212
+UC212
+2 3⁄8
+UCF212-38
+UC212-38
+2 7⁄16
+UCF212-39
+UC212-39
+2 1⁄2
+UCF213-40
+UC213-40
+57.2
+40.1
+187
+149
+22
+50
+69.7
+25.4
+65.1
+30
+19
+M16
+5.2
+11.5
+65
+UCF213
+UC213
+12859
+9015
+7 3⁄8
+5 55⁄64
+7⁄8
+1 31⁄32
+2 3⁄4
+1.000
+2.563
+1 3⁄16
+3⁄4
+5⁄8
+2 3⁄4
+UCF214-44
+UC214-44
+62.2
+44.1
+193
+152
+22
+54
+75.4
+30.2
+74.6
+31
+19
+M16
+5.9
+13.0
+70
+UCF214
+UC214
+13983
+9914
+7 19⁄32
+5 63⁄64
+7⁄8
+2 1⁄8
+2 31⁄32
+1.189
+2.937
+1 7⁄32
+3⁄4
+5⁄8
+75
+UCF215
+UC215
+67.4
+15152
+48.3
+10858
+200
+7 7⁄8
+159
+6 17⁄64
+22
+7⁄8
+56
+2 7⁄32
+78.5
+3 3⁄32
+33.3
+1.311
+77.8
+3.0603
+34
+1 11⁄32
+19
+3⁄4
+M16
+5⁄8
+6.4
+14.1
+2 15⁄6
+UCF215-47
+UC215-47
+3
+UCF215-48
+UC215-48
+3 1⁄8
+UCF216-50
+UC216-50
+72.7
+53.0
+208
+165
+22
+58
+83.3
+33.3
+82.6
+34
+23
+M20
+7.3
+16.1
+80
+UCF216
+UC216
+16344
+11915
+8 3⁄16
+6 1⁄2
+7⁄8
+2 9⁄32
+3 9⁄32
+1.311
+3.252
+1 11⁄32
+29⁄32
+3⁄4
+3 1⁄4
+UCF217-52
+UC217-52
+84.0
+61.9
+220
+175
+24
+63
+87.6
+34.1
+85.7
+36
+23
+M20
+8.9
+19.6
+85
+UCF217
+UC217
+18884
+13916
+8 21⁄32
+6 57⁄64
+15⁄16
+2 15⁄32
+3 7⁄16
+1.343
+3.374
+1 13⁄32
+29⁄32
+3⁄4
+3 1⁄2
+UCF218-56
+UC218-56
+96.1
+71.5
+235
+187
+25
+68
+96.3
+39.7
+96
+40
+23
+M20
+11.4
+25.1
+90
+UCF218
+UC218
+21604
+16074
+9 1⁄4
+7 23⁄64
+31⁄32
+2 11⁄16
+3 25⁄32
+1.563
+3.780
+1 9⁄16
+29⁄32
+3⁄4
+
+15
+Continued from previous page.
+Shaft Dia.
+Two-Bolt 
+Flange
+Designation
+Bearing
+Designation
+Basic Load Ratings
+Dimensions
+Bolt
+Size
+Weight
+Dynamic
+Static
+d
+Cr
+C0r
+H
+J
+A1
+A
+AO
+L
+A2
+S
+B
+N
+mm
+in.
+kN
+lbs.
+kN
+lbs.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+kg
+lbs.
+1 7⁄8
+UCFL210-30
+UC210-30
+35.1
+7891
+23.3
+5238
+197
+7 3⁄4
+157
+6 3⁄16
+15
+19⁄32
+40
+1 9⁄16
+54.6
+2 5⁄32
+115
+4 17⁄32
+22
+55⁄64
+19
+0.748
+51.6
+2.031
+19
+3⁄4
+M16
+5⁄8
+2.2
+4.9
+1 15⁄16
+UCFL210-31
+UC210-31
+50
+UCFL210
+UC210
+2
+UCFL210-32
+UC210-32
+2
+UCFL211-32
+UC211-32
+43.4
+9757
+29.4
+6609
+224
+8 13⁄16
+184
+7 1⁄4
+18
+23⁄32
+43
+1 11⁄16
+58.4
+2 5⁄16
+130
+5 1⁄8
+25
+63⁄64
+22.2
+0.874
+55.6
+2.189
+19
+3⁄4
+M16
+5⁄8
+3.3
+7.3
+2 1⁄8
+UCFL211-34
+UC211-34
+55
+UCFL211
+UC211
+2 3⁄16
+UCFL211-35
+UC211-35
+2 1⁄4
+UCFL212-36
+UC212-36
+52.4
+11780
+36.2
+8138
+250
+9 27⁄32
+202
+7 61⁄64
+18
+23⁄32
+48
+1 7⁄8
+68.7
+2 23⁄32
+140
+5 1⁄2
+29
+1 9⁄64
+25.4
+1.000
+65.1
+2.563
+23
+29⁄32
+M20
+3⁄4
+4.2
+9.3
+60
+UCFL212
+UC212
+2 3⁄8
+UCFL212-38
+UC212-38
+2 7⁄16
+UCFL212-39
+UC212-39
+2 1⁄2
+UCFL213-40
+UC213-40
+57.2
+40.1
+258
+210
+20
+50
+69.7
+155
+30
+25.4
+65.1
+23
+M20
+5.1
+11.2
+65
+UCFL213
+UC213
+12859
+9015
+10 5⁄32
+8 17⁄64
+25⁄32
+1 31⁄32
+2 3⁄4
+6 3⁄32
+1 3⁄16
+1.00
+2.563
+29⁄32
+3⁄4
+2 3⁄4
+UCFL214-44
+UC214-44
+62.2
+44.1
+265
+216
+20
+54
+75.4
+160
+31
+30.2
+74.6
+23
+M20
+5.7
+12.6
+70
+UCFL214
+UC214
+13983
+9914
+10 7⁄16
+8 1⁄2
+25⁄32
+2 1⁄8
+2 31⁄32
+6 5⁄16
+1 7⁄32
+1.189
+2.937
+29⁄32
+3⁄4
+2 15⁄16
+UCFL215-47
+UC215-47
+67.4
+15152
+48.3
+10858
+275
+12 13⁄16
+225
+8 55⁄64
+20
+25⁄32
+56
+2 7⁄32
+78.5
+3 3⁄32
+165
+6 1⁄2
+34
+1 11⁄32
+33.3
+1.311
+77.8
+3.063
+23
+29⁄32
+M20
+3⁄4
+6.4
+14.1
+75
+UCFL215
+UC215
+3
+UCFL215-48
+UC215-48
+3 1⁄8
+UCFL216-50
+UC216-50
+72.7
+53
+290
+233
+20
+58
+83.3
+180
+34
+33.3
+82.6
+25
+M22
+7.8
+17.2
+80
+UCFL216
+UC216
+16344
+11915
+11 13⁄32
+9 11⁄64
+25⁄32
+2 9⁄32
+3 9⁄32
+7 3⁄32
+1 11⁄32
+1.311
+3.252
+63⁄64
+7⁄8
+3 1⁄4
+UCFL217-52
+UC217-52
+84
+61.9
+305
+248
+22
+63
+87.6
+190
+36
+34.1
+85.7
+25
+M22
+9.8
+21.6
+85
+UCFL217
+UC217
+18884
+13916
+12
+9 49⁄64
+7⁄8
+2 15⁄32
+3 7⁄16
+7 15⁄32
+1 27⁄64
+1.343
+3.374
+63⁄64
+7⁄8
+3 1⁄2
+UCFL218-56
+UC218-56
+96.1
+71.5
+320
+265
+23
+68
+96.3
+205
+40
+39.7
+96
+25
+M22
+12.3
+27.1
+90
+UCFL218
+UC218
+21604
+16074
+12 19⁄32
+10 7⁄16
+29⁄32
+2 11⁄16
+3 25⁄32
+8 1⁄16
+1 37⁄64
+1.563
+3.78
+63⁄64
+7⁄8
+
+17
+Continued from previous page.
+(4) N
+Shaft Dia.
+Round Flange 
+Cartridge 
+Designation
+Bearing
+Designation
+Basic Load Ratings
+Dimensions
+Bolt
+Size
+Weight
+Dynamic
+Static
+d
+Cr
+C0r
+L
+J
+J1
+A1
+A2
+A3
+A4
+H3
+S
+B
+N
+mm
+in.
+kN
+lbs.
+kN
+lbs.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+kg
+lbs.
+1 7⁄8
+UCFC210-30
+UC210-30
+35.10
+7891
+23.30
+5238
+165
+6 1⁄2
+138
+5 7⁄16
+97.6
+3 27⁄32
+28
+1 3⁄32
+10
+25⁄64
+12
+15⁄32
+42.6
+1 11⁄16
+110
+4.331
+19
+0.748
+51.6
+2.031
+16
+5⁄8
+M14
+1⁄2
+2.9
+6.4
+1 15⁄16
+UCFC210-31
+UC210-31
+50
+UCFC210
+UC210
+2
+UCFC210-32
+UC210-32
+2
+UCFC211-32
+UC211-32
+43.40
+9757
+29.40
+6609
+185
+7 9⁄32
+150
+5 29⁄32
+106.1
+4 11⁄64
+31
+1 7⁄32
+13
+33⁄64
+12
+15⁄32
+46.4
+1 13⁄16
+125
+4.921
+22.2
+0.874
+55.6
+2.189
+19
+3⁄4
+M16
+5⁄8
+4.2
+9.3
+2 1⁄8
+UCFC211-34
+UC211-34
+55
+UCFC211
+UC211
+2 3⁄16
+UCFC211-35
+UC211-35
+2 1⁄4
+UCFC212-36
+UC212-36
+52.40
+11780
+36.20
+8138
+195
+7 11⁄16
+160
+6 19⁄64
+113.1
+4 29⁄64
+36
+1 13⁄32
+17
+43⁄64
+12
+15⁄32
+56.7
+2 7⁄32
+135
+5.315
+25.4
+1.000
+65.1
+2.563
+19
+3⁄4
+M16
+5⁄8
+5.0
+11.0
+60
+UCFC212
+UC212
+2 3⁄8
+UCFC212-38
+UC212-38
+2 7⁄16
+UCFC212-39
+UC212-39
+2 1⁄2
+UCFC213-40
+UC213-40
+57.20
+40.10
+205
+170
+120.2
+36
+16
+14
+55.7
+145
+25.4
+65.1
+19
+M16
+5.6
+12.3
+65
+UCFC213
+UC213
+12859
+9015
+8 1⁄16
+6 11⁄16
+4 47⁄64
+1 13⁄32
+5⁄8
+35⁄64
+2 3⁄16
+5.709
+1.000
+2.563
+3⁄4
+5⁄8
+2 3⁄4
+UCFC214-44
+UC214-44
+62.20
+44.10
+215
+177
+125.1
+40
+17
+14
+61.4
+150
+30.2
+74.6
+19
+M16
+6.8
+15.0
+70
+UCFC214
+UC214
+13983
+9914
+8 15⁄32
+6 31⁄32
+4 59⁄64
+1 9⁄16
+43⁄64
+35⁄64
+2 13⁄32
+5.906
+1.189
+2.937
+3⁄4
+5⁄8
+2 15⁄16
+UCFC215-47
+UC215-47
+67.40
+15152
+48.30
+10858
+220
+8 21⁄32
+184
+7 1⁄4
+130.1
+5 1⁄8
+40
+1 9⁄16
+18
+45⁄64
+16
+5⁄8
+62.5
+2 15⁄32
+160
+6.299
+33.3
+1.311
+77.8
+3.063
+19
+3⁄4
+M16
+5⁄8
+7.2
+15.9
+75
+UCFC215
+UC215
+3
+UCFC215-48
+UC215-48
+3 1⁄8
+UCFC216-50
+UC216-50
+72.70
+53.00
+240
+200
+141.4
+42
+18
+16
+67.3
+170
+33.3
+82.6
+23
+M20
+8.7
+19.2
+80
+UCFC216
+UC216
+16344
+11915
+9 7⁄16
+7 7⁄8
+5 9⁄16
+1 20⁄32
+45⁄64
+5⁄8
+2 21⁄32
+6.693
+1.311
+3.252
+29⁄32
+3⁄4
+3 1⁄4
+UCFC217-52
+UC217-52
+84.00
+61.90
+250
+208
+147.1
+45
+18
+18
+69.6
+180
+34.1
+85.7
+23
+M20
+11.7
+25.8
+85
+UCFC217
+UC217
+18884
+13916
+9 27⁄32
+8 3⁄16
+5 51⁄64
+1 25⁄32
+45⁄64
+45⁄64
+2 3⁄4
+7.086
+1.343
+3.374
+29⁄32
+3⁄4
+3 1⁄2
+UCFC218-56
+UC218-56
+96.10
+71.50
+265
+220
+155.5
+50
+22
+18
+78.3
+190
+39.7
+96
+23
+M20
+14.8
+32.6
+90
+UCFC218
+UC218
+21604
+16074
+10 7⁄16
+8 21⁄32
+6 1⁄8
+1 31⁄32
+55⁄64
+45⁄64
+3 3⁄32
+7.480
+1.563
+3.78
+29⁄32
+3⁄4
+
+19
+Continued from previous page.
+Shaft Dia.
+Take-Up 
+Unit
+Designation
+Bearing
+Designation
+Basic Load Ratings
+Dimensions
+Weight
+Dynamic
+Static
+d
+Cr
+C0r
+H
+H1
+L2
+L1
+A2
+A
+N
+L
+H2
+S
+B
+L3
+N1
+N2
+A1
+mm
+in.
+kN
+lbs.
+kN
+lbs.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+kg
+lbs.
+1 7⁄8
+UCT210-30
+UC210-30
+35.1
+7891
+23.3
+5238
+117
+4 19⁄32
+102
+4 1⁄64
+16
+5⁄8
+90
+3 17⁄32
+37
+1 15⁄32
+49
+1 15⁄16
+29
+1 5⁄32
+149
+5 7⁄8
+83
+3 9⁄32
+19
+0.748
+51.6
+2.031
+86
+3 3⁄8
+19
+3⁄4
+49
+1 15⁄16
+16
+5⁄8
+2.6
+5.7
+1 15⁄16 UCT210-31
+UC210-31
+ 50
+UCT210
+UC210
+2
+UCT210-32
+UC210-32
+2
+UCT211-32
+UC211-32
+43.4
+9757
+29.4
+6609
+146
+5 3⁄4
+130
+5 1⁄8
+19
+3⁄4
+106
+4 3⁄16
+38
+1 1⁄2
+64
+2 17⁄32
+35
+1 3⁄8
+171
+6 23⁄32
+102
+4 1⁄32
+22.2
+0.874
+55.6
+2.189
+95
+3 3⁄4
+25
+31⁄32
+64
+2 17⁄32
+22
+55⁄64
+4.0
+8.8
+2 1⁄8
+UCT211-34
+UC211-34
+55
+UCT211
+UC211
+2 3⁄16
+UCT211-35
+UC211-35
+2 1⁄4 
+UCT212-36
+UC212-36
+52.4
+11780
+36.2
+8138
+146
+5 3⁄4
+130
+5 1⁄8
+19
+3⁄4
+119
+4 11⁄16
+42
+1 21⁄32
+64
+2 17⁄32
+35
+1 3⁄8
+194
+7 5⁄8
+102
+4 1⁄32
+25.4
+1.000
+65.1
+2.563
+102
+4 1⁄32
+32
+1 1⁄4
+64
+2 17⁄32
+22
+55⁄64
+4.9
+10.8
+60
+UCT212
+UC212
+2 3⁄8
+UCT212-38
+UC212-38
+2 7⁄16
+UCT212-39
+UC212-39
+2 1⁄2
+UCT213-40
+UC213-40
+57.2
+40.1
+167
+151
+21
+137
+44
+70
+41
+224
+111
+25.4
+65.1
+121
+32
+70
+26
+6.9
+15.2
+65
+UCT213
+UC213
+12859
+9015
+6 9⁄16 5 15⁄16
+13⁄16 5 13⁄32 1 23⁄32 2 3⁄4
+1 5⁄8 8 13⁄16 4 3⁄8
+1.000 2.563
+4 3⁄4
+1 1⁄4
+2 3⁄4
+1 1⁄32
+2 3⁄4
+UCT214-44
+UC214-44
+62.2
+44.1
+167
+151
+21
+137
+46
+70
+41
+224
+111
+30.2
+74.6
+121
+32
+70
+26
+7.0
+15.4
+70
+UCT214
+UC214
+13983
+9914
+6 9⁄16 5 15⁄16
+13⁄16 5 13⁄32 1 13⁄16 2 3⁄4
+1 5⁄8 8 13⁄16 4 3⁄8
+1.189 2.937
+4 3⁄4
+1 1⁄4
+2 3⁄4
+1 1⁄32
+2 15⁄16
+UCT215-47
+UC215-47
+67.4
+15152
+48.3
+10858
+167
+6 9⁄16
+151
+5 15⁄16
+21
+13⁄16
+140
+5 1⁄2
+48
+1 7⁄8
+70
+2 3⁄4
+41
+1 5⁄8
+232
+9 1⁄8
+111
+4 3⁄8
+33.3
+1.331
+77.8
+3.063
+121
+4 3⁄4
+32
+1 1⁄4
+70
+2 3⁄4
+26
+1 1⁄32
+7.3
+16.1
+75
+UCT215
+UC215
+3
+UCT215-48
+UC215-48
+3 1⁄8
+UCT216-50
+UC216-50
+72.7
+53
+184
+165
+21
+140
+51
+70
+41
+235
+111
+33.3
+82.6
+121
+32
+70
+26
+8.2
+18.1
+80
+UCT216
+UC216
+16344
+11915
+7 1⁄4
+6 1⁄2
+13⁄16
+5 1⁄2
+2
+2 3⁄4
+1 5⁄8
+9 1⁄4
+4 3⁄8
+1.331 3.252
+4 3⁄4
+1 1⁄4
+2 3⁄4
+1 1⁄32
+3 1⁄4
+UCT217-52
+UC217-52
+84
+61.9
+198
+173
+29
+162
+54
+73
+48
+260
+124
+34.1
+85.7
+157
+38
+73
+30
+11
+24.3
+85
+UCT217
+UC217
+18884
+13916
+7 25⁄32 6 13⁄16 1 5⁄32
+6 3⁄8
+2 1⁄8
+2 7⁄8
+1 7⁄8
+10 1⁄4
+4 7⁄8
+1.343 3.374 6 3⁄16
+1 1⁄2
+2 7⁄8
+1 3⁄16
+
+21
+Continued from previous page.
+Shaft Dia.
+Bearing
+Designation
+Basic Load Ratings
+Dimensions
+Min. Fillet
+Radius
+Set Screw Size Weight
+Dynamic
+Static
+d
+Cr
+C0r
+D
+C
+B
+S2
+C1
+S
+S1
+r (min.)
+G
+mm
+in.
+kN
+lbs.
+kN
+lbs.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+mm
+in.
+kg
+lbs.
+1 7⁄8
+UC210-30
+35.1
+7891
+23.3
+5238
+90
+3.543
+24
+0.945
+51.6
+2.031
+9
+0.354
+6
+0.236
+19
+0.748
+32.6
+1.283
+1.1
+0.043
+3⁄8-24UNF
+0.9
+2.0
+1 15⁄16
+UC210-31
+3⁄8-24UNF
+50
+UC210
+M10×1.25
+2
+UC210-32
+3⁄8-24UNF
+2
+UC211-32
+43.4
+9757
+29.4
+6609
+100
+3.937
+25
+0.984
+55.6
+2.189
+9
+0.354
+7
+0.276
+22.2
+0.874
+33.4
+1.315
+1.5
+0.059
+3⁄8-24UNF
+1.3
+2.8
+2 1⁄8
+UC211-34
+3⁄8-24UNF
+2  3⁄16
+UC211-35
+M10×1.25
+55
+UC211
+3⁄8-24UNF
+2 1⁄4
+UC212-36
+52.4
+11780
+36.2
+8138
+110
+4.331
+27
+1.063
+65.1
+2.563
+10.5
+0.413
+7.4
+0.291
+25.4
+1.000
+39.7
+1.563
+1.5
+0.059
+3⁄8-24UNF
+1.7
+3.7
+60
+UC212
+M10×1.25
+2 3⁄8
+UC212-38
+3⁄8-24UNF
+2 7⁄16
+UC212-39
+3⁄8-24UNF
+2 1⁄2
+UC213-40
+57.2
+12859
+40.1
+9015
+120
+4.724
+28
+1.102
+65.1
+2.563
+12
+0.472
+7.5
+0.295
+25.4
+1.000
+39.7
+1.563
+1.5
+0.059
+1⁄2-20UNF
+1.9
+4.3
+65
+UC213
+M12×1.5
+2 3⁄4
+UC214-44
+62.2
+13983
+44.1
+9914
+125
+4.921
+30
+1.181
+74.6
+2.937
+12
+0.472
+9
+0.354
+30.2
+1.189
+44.4
+1.748
+1.5
+0.059
+1⁄2-20UNF
+2.1
+4.5
+70
+UC214
+M12×1.5
+2 15⁄16
+UC215-47
+67.4
+15152
+48.3
+10858
+130
+5.118
+32
+1.260
+77.8
+3.063
+12
+0.472
+9
+0.354
+33.3
+1.311
+44.5
+1.752
+1.5
+0.059
+1⁄2-20UNF
+2.2
+4.9
+75
+UC215
+M12×1.5
+3
+UC215-48
+1⁄2-20UNF
+3 1⁄8
+UC216-50
+72.7
+16344
+53
+11915
+140
+5.512
+33
+1.299
+82.6
+3.252
+14
+0.551
+8.9
+0.350
+33.3
+1.311
+49.3
+1.941
+2
+0.079
+1⁄2-20UNF
+2.8
+6.3
+80
+UC216
+M12×1.5
+3 1⁄4
+UC217-52
+84
+18884
+61.9
+13916
+150
+5.906
+35
+1.378
+85.7
+3.374
+14
+0.551
+9.8
+0.386
+34.1
+1.343
+51.6
+2.031
+2
+0.079
+1⁄2-20UNF
+3.7
+8.1
+85
+UC217
+M12×1.5
+3 1⁄2
+UC218-56
+96.1
+21604
+71.5
+16074
+160
+6.299
+38
+1.496
+96 
+3.780
+15
+0.591
+11.1
+0.437
+39.7
+1.563
+56.3
+2.217
+2
+0.079
+1⁄2-20UNF
+4.5
+9.9
+90
+UC218
+M12×1.5
+
+CALL ON TIMKEN
+For your nearest Timken sales representative, 
+visit www.timken.com.  
+
+---
+
+5
+15M 04-14:29 Order No. 10692   |   Timken
+® is a registered trademark of The Timken Company.  |   © 2014 The Timken Company   |   Printed in U.S.A.
+
+www.timken.com 
+The Timken team applies their know-how to improve the reliability and performance of machinery in diverse 
+markets worldwide. The company designs, makes and markets high-performance mechanical components, 
+including bearings, gears, chain and related mechanical power transmission products and services.
